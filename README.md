@@ -1,7 +1,24 @@
+#### Python and Django Blogs  
+
+* https://realpython.com/
+* https://pymotw.com/3/
+* https://hakibenita.com/
+* https://overiq.com/django-1-11/
+* https://simpleisbetterthancomplex.com/
+
+#### Python and Django Books  
+
+* https://books.agiliq.com/en/latest/
+
+
 #### Django Project Life Cycle  
 
 * https://djangostars.com/blog/configuring-django-settings-best-practices/  
 * https://learnbatta.com/blog/understanding-request-response-lifecycle-in-django-29/  
+
+#### Django Best Practices  
+
+* https://dizballanze.com/
 
 
 #### Django Dockerization  
