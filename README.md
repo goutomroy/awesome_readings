@@ -1,3 +1,7 @@
+#### Awesome Django  
+
+* https://github.com/wsvincent/awesome-django  
+
 #### Python and Django Blogs  
 
 * https://realpython.com/
@@ -13,8 +17,10 @@
 
 #### Django Project Life Cycle  
 
-* https://djangostars.com/blog/configuring-django-settings-best-practices/  
+* http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application
 * https://learnbatta.com/blog/understanding-request-response-lifecycle-in-django-29/  
+* https://django-easy-tutorial.blogspot.com/2017/03/django-request-lifecycle.html
+
 
 #### Django Best Practices  
 
@@ -27,12 +33,14 @@
 * https://medium.com/faun/tech-edition-django-dockerization-with-bells-and-whistles-and-a-tad-bit-of-cleverness-2b5d1b57e289  
 * [Dockerization template.](https://github.com/hendrikfrentrup/docker-django)  
 
+
+####  Configuring Django Settings:
+* https://djangostars.com/blog/configuring-django-settings-best-practices/
+
+
 #### Forward and Reverse Proxy    
 
 * https://www.youtube.com/watch?v=fW4DrKBO98w  
 
-#### Awesome Django  
-
-* https://github.com/wsvincent/awesome-django  
 
 
