@@ -1,6 +1,7 @@
 #### Awesome Django  
 
 * https://github.com/wsvincent/awesome-django  
+* https://github.com/nioperas06/awesome-django-rest-framework
 
 #### Python and Django Blogs  
 
@@ -10,6 +11,8 @@
 * https://overiq.com/django-1-11/
 * https://simpleisbetterthancomplex.com/
 * https://www.fullstackpython.com/
+* https://www.vinta.com.br/blog/
+* https://djangotricks.blogspot.com/
 
 #### Python and Django Books  
 
@@ -60,5 +63,22 @@
 
 * https://www.youtube.com/watch?v=fW4DrKBO98w  
 
+#### System Design
 
+* https://www.educative.io/courses/grokking-the-system-design-interview
+* https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+* https://www.hiredintech.com/courses/system-design
+
+#### Youtube channel
+* https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
+
+#### Django third party packages
+
+* https://github.com/Suor/django-cacheops
+* https://github.com/agconti/cookiecutter-django-rest
+* https://github.com/pydanny/cookiecutter-django
+* https://github.com/jazzband/django-hosts
+* https://github.com/niwinz/django-redis
+
+#### Microservice
 
