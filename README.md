@@ -68,9 +68,14 @@
 * https://www.educative.io/courses/grokking-the-system-design-interview
 * https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
 * https://www.hiredintech.com/courses/system-design
+* https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
 
 #### Youtube channel
 * https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
+* https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A
+* https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw/
+* https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
+
 
 #### Django third party packages
 
@@ -81,4 +86,10 @@
 * https://github.com/niwinz/django-redis
 
 #### Microservice
+* https://microservices.io/
 
+#### RDBMS
+* [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
+* [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%e0%a6%a8%e0%a6%b0%e0%a6%ae%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%9c%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c/)
+* [Database Management System Youtube Course](https://www.youtube.com/watch?v=eYQwKi7P8MM&list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn&index=59)
+* [Best - Database Management System Youtube Course](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
