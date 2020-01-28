@@ -21,6 +21,7 @@
 * https://www.hiredintech.com/courses/system-design
 * https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
 * https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka
+* [Design large-scale systems](https://github.com/donnemartin/system-design-primer)
 
 #### Youtube channel
 * https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
@@ -61,7 +62,7 @@
 
 * https://medium.com/faun/tech-edition-how-to-dockerize-a-django-web-app-elegantly-924c0b83575d      
 * https://medium.com/faun/tech-edition-django-dockerization-with-bells-and-whistles-and-a-tad-bit-of-cleverness-2b5d1b57e289  
-* [Dockerization template.](https://github.com/hendrikfrentrup/docker-django)  
+* [Dockerization template](https://github.com/hendrikfrentrup/docker-django)  
 * https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
 
 
