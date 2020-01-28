@@ -1,7 +1,7 @@
 #### Awesome Django  
 
-* https://github.com/wsvincent/awesome-django  
-* https://github.com/nioperas06/awesome-django-rest-framework
+* [Awesome Django](https://github.com/wsvincent/awesome-django)  
+* [Awesome Django REST Framework](https://github.com/nioperas06/awesome-django-rest-framework)
 
 #### Python and Django Blogs  
 
@@ -24,7 +24,7 @@
 * http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application
 * https://learnbatta.com/blog/understanding-request-response-lifecycle-in-django-29/  
 * https://django-easy-tutorial.blogspot.com/2017/03/django-request-lifecycle.html
-* https://www.fullstackpython.com/wsgi-servers.html
+* [WSGI Servers](https://www.fullstackpython.com/wsgi-servers.html)
 
 
 #### Django Best Practices  
@@ -69,12 +69,14 @@
 * https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
 * https://www.hiredintech.com/courses/system-design
 * https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
+* https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka
 
 #### Youtube channel
 * https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
 * https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A
 * https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw/
 * https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
+* [Success in Tech](https://www.youtube.com/watch?v=DSGsa0pu8-k)
 
 
 #### Django third party packages
