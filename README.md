@@ -22,12 +22,14 @@
 * https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
 * https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka
 * [Design large-scale systems](https://github.com/donnemartin/system-design-primer)
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 #### Youtube channel
 * https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
 * https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A
 * https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw/
 * https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
+* https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
 * [Success in Tech](https://www.youtube.com/watch?v=DSGsa0pu8-k)
 
 #### Microservice
@@ -52,7 +54,7 @@
 * https://docs.djangoproject.com/en/3.0/topics/db/optimization/
 * https://dizballanze.com/
 * https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/
-
+* [Effectively use Django Rest Framework](https://medium.com/profil-software-blog/10-things-you-need-to-know-to-effectively-use-django-rest-framework-7db7728910e0)
 #### Celery Architecture
 
 * https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/
@@ -95,3 +97,8 @@
 * [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%e0%a6%a8%e0%a6%b0%e0%a6%ae%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%9c%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c/)
 * [Database Management System Youtube Course](https://www.youtube.com/watch?v=eYQwKi7P8MM&list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn&index=59)
 * [Best - Database Management System Youtube Course](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
+
+#### Tech interview 
+* [Handbook of total process + algorithms with python code + leetcode](https://yangshun.github.io/tech-interview-handbook/)  
+* [CRACKING the CODING INTERVIEW](http://www.crackingthecodinginterview.com/)
+* https://github.com/donnemartin/interactive-coding-challenges
