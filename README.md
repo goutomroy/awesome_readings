@@ -73,11 +73,12 @@
 
 #### Bangla Blogs
 
-* http://subeen.com/
-* https://github.com/me-shaon/bangla-programming-resources
-* https://www.howtocode.com.bd/
+* [Bangla blog list](https://github.com/me-shaon/bangla-programming-resources/blob/master/blog-list.md)
+* [Subeen vi](http://subeen.com/)
+* [bangla-programming-resources](https://github.com/me-shaon/bangla-programming-resources)
+* [howtocode.com.bd](https://www.howtocode.com.bd/)
 * [প্রোগ্রামিং-পাতা](https://bit.ly/30UwqRM)
-* https://hasin.me/
+* [Hasin haider](https://hasin.me/)
 
 
 #### Forward and Reverse Proxy    
@@ -86,11 +87,11 @@
 
 #### Django third party packages
 
-* https://github.com/Suor/django-cacheops
-* https://github.com/agconti/cookiecutter-django-rest
-* https://github.com/pydanny/cookiecutter-django
-* https://github.com/jazzband/django-hosts
-* https://github.com/niwinz/django-redis
+* [django-cacheops](https://github.com/Suor/django-cacheops)
+* [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
+* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
+* [django-hosts](https://github.com/jazzband/django-hosts)
+* [django-redis](https://github.com/niwinz/django-redis)
 
 #### RDBMS
 * [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
