@@ -14,6 +14,9 @@
 * https://www.vinta.com.br/blog/
 * https://djangotricks.blogspot.com/
 
+#### PyCon/DjangoCon
+* https://2019.djangocon.us/
+
 #### System Design
 
 * https://www.educative.io/courses/grokking-the-system-design-interview
@@ -38,6 +41,7 @@
 #### Python and Django Books  
 
 * https://books.agiliq.com/en/latest/
+* https://highperformancedjango.com/
 
 
 #### Django Project Life Cycle  
