@@ -69,6 +69,10 @@
 * https://concisecoder.io/2018/11/17/normalize-your-django-rest-serializers/
 * https://concisecoder.io/2018/11/04/django-orm-optimization-tips/
 * https://www.youtube.com/watch?v=aDt4gu99_bE
+* https://www.youtube.com/watch?v=a-sfr6y_hY8&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=10&t=1345s
+* https://www.youtube.com/watch?v=695y8rdHsA4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2&t=39s
+* https://www.youtube.com/watch?v=qDyxmgWkjvI
+
 
 #### Celery Architecture
 
