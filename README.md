@@ -13,6 +13,7 @@
 * https://www.fullstackpython.com/
 * https://www.vinta.com.br/blog/
 * https://djangotricks.blogspot.com/
+* https://concisecoder.io/
 
 #### PyCon/DjangoCon
 * https://2019.djangocon.us/
@@ -59,6 +60,16 @@
 * https://dizballanze.com/
 * https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/
 * [Effectively use Django Rest Framework](https://medium.com/profil-software-blog/10-things-you-need-to-know-to-effectively-use-django-rest-framework-7db7728910e0)
+* https://hakibenita.com/9-django-tips-for-working-with-databases
+* https://www.vinta.com.br/blog/2017/advanced-django-querying-sorting-events-date/
+* https://medium.com/@hansonkd/the-dramatic-benefits-of-django-subqueries-and-annotations-4195e0dafb16
+* https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a
+* https://concisecoder.io/2018/12/23/how-to-optimize-your-django-rest-viewsets/
+* https://concisecoder.io/2019/04/19/avoid-memory-issues-with-djangos-bulk_create/
+* https://concisecoder.io/2018/11/17/normalize-your-django-rest-serializers/
+* https://concisecoder.io/2018/11/04/django-orm-optimization-tips/
+* https://www.youtube.com/watch?v=aDt4gu99_bE
+
 #### Celery Architecture
 
 * https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/
@@ -70,6 +81,7 @@
 * https://medium.com/faun/tech-edition-django-dockerization-with-bells-and-whistles-and-a-tad-bit-of-cleverness-2b5d1b57e289  
 * [Dockerization template](https://github.com/hendrikfrentrup/docker-django)  
 * https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
+* [Prepping Your Project for Production](https://2019.djangocon.us/talks/prepping-your-project-for-production/)
 
 
 ####  Configuring Django Settings:
