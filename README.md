@@ -55,19 +55,19 @@
 
 #### Django Best Practices  
 
-* https://docs.djangoproject.com/en/3.0/topics/performance/
-* https://docs.djangoproject.com/en/3.0/topics/db/optimization/
-* https://dizballanze.com/
-* https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/
+* [Django](https://docs.djangoproject.com/en/3.0/topics/performance/)
+* [Django ORM](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
+* [Django](https://dizballanze.com/)
+* [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
 * [Effectively use Django Rest Framework](https://medium.com/profil-software-blog/10-things-you-need-to-know-to-effectively-use-django-rest-framework-7db7728910e0)
-* https://hakibenita.com/9-django-tips-for-working-with-databases
-* https://www.vinta.com.br/blog/2017/advanced-django-querying-sorting-events-date/
-* https://medium.com/@hansonkd/the-dramatic-benefits-of-django-subqueries-and-annotations-4195e0dafb16
-* https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a
-* https://concisecoder.io/2018/12/23/how-to-optimize-your-django-rest-viewsets/
-* https://concisecoder.io/2019/04/19/avoid-memory-issues-with-djangos-bulk_create/
-* https://concisecoder.io/2018/11/17/normalize-your-django-rest-serializers/
-* https://concisecoder.io/2018/11/04/django-orm-optimization-tips/
+* [Django ORM](https://hakibenita.com/9-django-tips-for-working-with-databases)
+* [Django ORM](https://www.vinta.com.br/blog/2017/advanced-django-querying-sorting-events-date/)
+* [Django ORM](https://medium.com/@hansonkd/the-dramatic-benefits-of-django-subqueries-and-annotations-4195e0dafb16)
+* [Django](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
+* [DRF Viewset](https://concisecoder.io/2018/12/23/how-to-optimize-your-django-rest-viewsets/)
+* [Django ORM](https://concisecoder.io/2019/04/19/avoid-memory-issues-with-djangos-bulk_create/)
+* [DRF Serializer](https://concisecoder.io/2018/11/17/normalize-your-django-rest-serializers/)
+* [Django ORM](https://concisecoder.io/2018/11/04/django-orm-optimization-tips/)
 * https://www.youtube.com/watch?v=aDt4gu99_bE
 * https://www.youtube.com/watch?v=a-sfr6y_hY8&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=10&t=1345s
 * https://www.youtube.com/watch?v=695y8rdHsA4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2&t=39s
