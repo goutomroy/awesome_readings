@@ -55,23 +55,23 @@
 
 #### Django Best Practices  
 
-* [Django](https://docs.djangoproject.com/en/3.0/topics/performance/)
-* [Django ORM](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
-* [Django](https://dizballanze.com/)
+* [Official Django Performance and optimization](https://docs.djangoproject.com/en/3.0/topics/performance/)
+* [Official Django Database access optimization](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
+* [Django project optimization guide](https://dizballanze.com/)
 * [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
 * [Effectively use Django Rest Framework](https://medium.com/profil-software-blog/10-things-you-need-to-know-to-effectively-use-django-rest-framework-7db7728910e0)
-* [Django ORM](https://hakibenita.com/9-django-tips-for-working-with-databases)
-* [Django ORM](https://www.vinta.com.br/blog/2017/advanced-django-querying-sorting-events-date/)
-* [Django ORM](https://medium.com/@hansonkd/the-dramatic-benefits-of-django-subqueries-and-annotations-4195e0dafb16)
-* [Django](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
-* [DRF Viewset](https://concisecoder.io/2018/12/23/how-to-optimize-your-django-rest-viewsets/)
-* [Django ORM](https://concisecoder.io/2019/04/19/avoid-memory-issues-with-djangos-bulk_create/)
-* [DRF Serializer](https://concisecoder.io/2018/11/17/normalize-your-django-rest-serializers/)
-* [Django ORM](https://concisecoder.io/2018/11/04/django-orm-optimization-tips/)
-* https://www.youtube.com/watch?v=aDt4gu99_bE
-* https://www.youtube.com/watch?v=a-sfr6y_hY8&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=10&t=1345s
-* https://www.youtube.com/watch?v=695y8rdHsA4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2&t=39s
-* https://www.youtube.com/watch?v=qDyxmgWkjvI
+* [9 Django Tips for Working with Databases](https://hakibenita.com/9-django-tips-for-working-with-databases)
+* [Advanced Django querying: sorting events by date](https://www.vinta.com.br/blog/2017/advanced-django-querying-sorting-events-date/)
+* [The Dramatic Benefits of Django Subqueries and Annotations](https://medium.com/@hansonkd/the-dramatic-benefits-of-django-subqueries-and-annotations-4195e0dafb16)
+* [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
+* [How to Optimize Your Django REST Viewsets](https://concisecoder.io/2018/12/23/how-to-optimize-your-django-rest-viewsets/)
+* [Avoid Memory Issues with Django’s bulk_create](https://concisecoder.io/2019/04/19/avoid-memory-issues-with-djangos-bulk_create/)
+* [Normalize Your Django REST Serializers](https://concisecoder.io/2018/11/17/normalize-your-django-rest-serializers/)
+* [Django ORM Optimization Tips](https://concisecoder.io/2018/11/04/django-orm-optimization-tips/)
+* [Weird and Wonderful things to do with the ORM](https://www.youtube.com/watch?v=aDt4gu99_bE)
+* [DjangoCon 2019 - Building effective Django queries with expressions ](https://www.youtube.com/watch?v=a-sfr6y_hY8&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=10&t=1345s)
+* [DjangoCon 2019 - Django REST Framework: Taking your API to the next level by Carlos Martinez](https://www.youtube.com/watch?v=695y8rdHsA4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2&t=39s)
+* [Django queries optimization](https://www.youtube.com/watch?v=qDyxmgWkjvI)
 
 
 #### Celery Architecture
