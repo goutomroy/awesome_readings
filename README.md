@@ -76,7 +76,7 @@
 
 #### Celery Architecture
 
-* https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/
+* [Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
 
 
 #### Django Dockerization  
