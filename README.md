@@ -101,10 +101,6 @@
 * [Hasin haider](https://hasin.me/)
 
 
-#### Forward and Reverse Proxy    
-
-* https://www.youtube.com/watch?v=fW4DrKBO98w  
-
 #### Django third party packages
 
 * [django-cacheops](https://github.com/Suor/django-cacheops)
