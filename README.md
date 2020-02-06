@@ -3,6 +3,10 @@
 * [Awesome Django](https://github.com/wsvincent/awesome-django)  
 * [Awesome Django REST Framework](https://github.com/nioperas06/awesome-django-rest-framework)
 
+#### Awesome Postgres
+* https://malisper.me/category/postgres/
+* https://github.com/dhamaniasad/awesome-postgres#resources
+
 #### Python and Django Blogs  
 
 * https://realpython.com/
@@ -20,13 +24,13 @@
 
 #### System Design
 
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 * https://www.educative.io/courses/grokking-the-system-design-interview
-* https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
 * https://www.hiredintech.com/courses/system-design
 * https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
 * https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka
-* [Design large-scale systems](https://github.com/donnemartin/system-design-primer)
-* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+* https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka
+* https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
 
 #### Youtube channel
 * https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
@@ -72,6 +76,7 @@
 * [DjangoCon 2019 - Building effective Django queries with expressions ](https://www.youtube.com/watch?v=a-sfr6y_hY8&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=10&t=1345s)
 * [DjangoCon 2019 - Django REST Framework: Taking your API to the next level by Carlos Martinez](https://www.youtube.com/watch?v=695y8rdHsA4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2&t=39s)
 * [Django queries optimization](https://www.youtube.com/watch?v=qDyxmgWkjvI)
+* [A few remarks on the DRF](https://gist.github.com/egasimus/6095421)
 
 
 #### Celery Architecture
@@ -119,3 +124,4 @@
 * [Handbook of total process + algorithms with python code + leetcode](https://yangshun.github.io/tech-interview-handbook/)  
 * [CRACKING the CODING INTERVIEW](http://www.crackingthecodinginterview.com/)
 * https://github.com/donnemartin/interactive-coding-challenges
+* https://github.com/donnemartin/coding-interview-university
