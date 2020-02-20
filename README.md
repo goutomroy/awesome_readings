@@ -77,7 +77,8 @@
 * [DjangoCon 2019 - Django REST Framework: Taking your API to the next level by Carlos Martinez](https://www.youtube.com/watch?v=695y8rdHsA4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2&t=39s)
 * [Django queries optimization](https://www.youtube.com/watch?v=qDyxmgWkjvI)
 * [A few remarks on the DRF](https://gist.github.com/egasimus/6095421)
-
+* [Django null & blank](https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django?rq=1)
+* [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
 
 #### Celery Architecture
 
@@ -104,6 +105,7 @@
 * [howtocode.com.bd](https://www.howtocode.com.bd/)
 * [প্রোগ্রামিং-পাতা](https://bit.ly/30UwqRM)
 * [Hasin haider](https://hasin.me/)
+* https://blog.howtocode.com.bd/
 
 
 #### Django third party packages
@@ -119,9 +121,12 @@
 * [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%e0%a6%a8%e0%a6%b0%e0%a6%ae%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%9c%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c/)
 * [Database Management System Youtube Course](https://www.youtube.com/watch?v=eYQwKi7P8MM&list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn&index=59)
 * [Best - Database Management System Youtube Course](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
+* https://www.dbdesigner.net/
 
 #### Tech interview 
 * [Handbook of total process + algorithms with python code + leetcode](https://yangshun.github.io/tech-interview-handbook/)  
 * [CRACKING the CODING INTERVIEW](http://www.crackingthecodinginterview.com/)
 * https://github.com/donnemartin/interactive-coding-challenges
 * https://github.com/donnemartin/coding-interview-university
+* [Google coding university](https://github.com/jwasham/coding-interview-university)
+* [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
