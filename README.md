@@ -123,6 +123,9 @@
 * [Best - Database Management System Youtube Course](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 * https://www.dbdesigner.net/
 
+#### Miscellaneous
+* [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
+
 #### Tech interview 
 * [Handbook of total process + algorithms with python code + leetcode](https://yangshun.github.io/tech-interview-handbook/)  
 * [CRACKING the CODING INTERVIEW](http://www.crackingthecodinginterview.com/)
