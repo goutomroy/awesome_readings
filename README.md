@@ -107,6 +107,16 @@
 * [Hasin haider](https://hasin.me/)
 * https://blog.howtocode.com.bd/
 
+#### Git
+* https://www.youtube.com/watch?v=gwWKnnCMQ5c
+
+#### Payment Gateway
+* [How to Design Payment Logic on Stripe (and Apply It)](https://www.freecodecamp.org/news/how-to-design-payment-logic-on-stripe-and-apply-it/)
+* [How Credit Card Processing Works - Transaction Cycle & 2 Pricing Models](https://www.youtube.com/watch?v=avRkRuQsZ6M)
+* [How Stripe works](https://www.youtube.com/watch?v=j76v-9YjwNk)
+* [Stripe in Python, subscription explained part-1](https://medium.com/@vignesh_jeyaraman/integrating-stripe-on-backend-part-1-70c1604df5f)
+* [Stripe in Python, subscription explained part-2](https://medium.com/@vignesh_jeyaraman/integrating-stripe-on-backend-part-2-d1a6e46a1211)
+
 
 #### Django third party packages
 
