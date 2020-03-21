@@ -18,6 +18,7 @@
 * https://www.vinta.com.br/blog/
 * https://djangotricks.blogspot.com/
 * https://concisecoder.io/
+* https://dev.to/learndjango
 
 #### PyCon/DjangoCon
 * https://2019.djangocon.us/
@@ -108,7 +109,9 @@
 * https://blog.howtocode.com.bd/
 
 #### Git
-* https://www.youtube.com/watch?v=gwWKnnCMQ5c
+* [Git tutorial in one video](https://www.youtube.com/watch?v=gwWKnnCMQ5c)
+* [গিট পরিচিতি](https://www.youtube.com/watch?v=M2a7OQX8te4&list=PLoR56CteKZnC0lBlHdnVnq0J3yDhgbi9w)
+* [বাংলায় গিট](https://git.howtocode.com.bd/)
 
 #### Payment Gateway
 * [How to Design Payment Logic on Stripe (and Apply It)](https://www.freecodecamp.org/news/how-to-design-payment-logic-on-stripe-and-apply-it/)
