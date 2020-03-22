@@ -114,6 +114,11 @@
 * [বাংলায় গিট](https://git.howtocode.com.bd/)
 * [git-flow](https://jeffkreeftmeijer.com/git-flow/)
 
+#### CI/CD
+
+* [Best Practices](https://buildoutcoredev.readthedocs.io/en/latest/continous-integration.html)
+* [Jenkins Youtube tutorial series](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSaisKr7OnM4Fl7JXCDDcmt)
+
 #### Payment Gateway
 * [How to Design Payment Logic on Stripe (and Apply It)](https://www.freecodecamp.org/news/how-to-design-payment-logic-on-stripe-and-apply-it/)
 * [How Credit Card Processing Works - Transaction Cycle & 2 Pricing Models](https://www.youtube.com/watch?v=avRkRuQsZ6M)
