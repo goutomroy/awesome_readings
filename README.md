@@ -113,6 +113,9 @@
 * [গিট পরিচিতি](https://www.youtube.com/watch?v=M2a7OQX8te4&list=PLoR56CteKZnC0lBlHdnVnq0J3yDhgbi9w)
 * [বাংলায় গিট](https://git.howtocode.com.bd/)
 * [git-flow](https://jeffkreeftmeijer.com/git-flow/)
+* [git-flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+* [git](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+* [git guru](https://www.atlassian.com/git/tutorials)
 
 #### CI/CD
 
