@@ -118,6 +118,9 @@
 
 * [Best Practices](https://buildoutcoredev.readthedocs.io/en/latest/continous-integration.html)
 * [Jenkins Youtube tutorial series](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSaisKr7OnM4Fl7JXCDDcmt)
+* [Django Bitbucket Pipelines](https://blog.revolucija.hr/building-testing-and-deploying-django-app-with-bitbucket-pipelines-32868e12a472)
+* [Django CD Ansible Bitbucket Pipelines](https://bitbucket.org/blog/continuous-delivery-for-django-projects-with-bitbucket-pipelines-and-ansible)
+* [Django Ansible](https://www.guguweb.com/2017/05/02/how-to-deploy-a-django-project-in-15-minutes-with-ansible/)
 
 #### Payment Gateway
 * [How to Design Payment Logic on Stripe (and Apply It)](https://www.freecodecamp.org/news/how-to-design-payment-logic-on-stripe-and-apply-it/)
