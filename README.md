@@ -117,6 +117,7 @@
 * [git](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 * [git guru](https://www.atlassian.com/git/tutorials)
 * [Bitbucket CI/CD pipelines configuration](https://www.youtube.com/watch?v=K72mitWD8Bc)
+* [Git কি এবং Git কিভাবে কাজ করে?](http://w3programmers.com/bangla/git-%e0%a6%95%e0%a6%bf-%e0%a6%8f%e0%a6%ac%e0%a6%82-git-%e0%a6%95%e0%a6%bf%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87-%e0%a6%95%e0%a6%be%e0%a6%9c-%e0%a6%95%e0%a6%b0%e0%a7%87/)
 
 #### CI/CD
 
@@ -152,6 +153,7 @@
 #### Miscellaneous
 * [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
 * [OAuth কি? OAuth কিভাবে কাজ করে?](http://w3programmers.com/bangla/what-is-oauth/)
+* [Computer Networking Bangla Blog](http://w3programmers.com/bangla/category/computer-networking/)
 
 #### Tech interview 
 * [Handbook of total process + algorithms with python code + leetcode](https://yangshun.github.io/tech-interview-handbook/)  
