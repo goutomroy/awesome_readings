@@ -116,6 +116,7 @@
 * [git-flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * [git](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 * [git guru](https://www.atlassian.com/git/tutorials)
+* [Bitbucket CI/CD pipelines configuration](https://www.youtube.com/watch?v=K72mitWD8Bc)
 
 #### CI/CD
 
@@ -150,6 +151,7 @@
 
 #### Miscellaneous
 * [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
+* [OAuth কি? OAuth কিভাবে কাজ করে?](http://w3programmers.com/bangla/what-is-oauth/)
 
 #### Tech interview 
 * [Handbook of total process + algorithms with python code + leetcode](https://yangshun.github.io/tech-interview-handbook/)  
