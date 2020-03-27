@@ -152,8 +152,15 @@
 
 #### Miscellaneous
 * [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
-* [OAuth কি? OAuth কিভাবে কাজ করে?](http://w3programmers.com/bangla/what-is-oauth/)
 * [Computer Networking Bangla Blog](http://w3programmers.com/bangla/category/computer-networking/)
+
+### OAuth
+* [OAuth কি? OAuth কিভাবে কাজ করে?](http://w3programmers.com/bangla/what-is-oauth/)
+* [OAuth 2.0 Tutorial](https://www.tutorialspoint.com/oauth2.0/index.htm)
+* [Django OAuth Toolkit](https://django-oauth-toolkit.readthedocs.io/en/latest/glossary.html#term-authorization-server)
+* [Official Site](https://oauth.net/)
+* [How OAuth Works](https://www.youtube.com/watch?v=KyIt8YaSsy4)
+* [OAuth terminologies and flows explained](https://www.youtube.com/watch?v=3pZ3Nh8tgTE)
 
 #### Tech interview 
 * [Handbook of total process + algorithms with python code + leetcode](https://yangshun.github.io/tech-interview-handbook/)  
