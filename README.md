@@ -119,6 +119,7 @@
 * [git guru](https://www.atlassian.com/git/tutorials)
 * [Bitbucket CI/CD pipelines configuration](https://www.youtube.com/watch?v=K72mitWD8Bc)
 * [Git কি এবং Git কিভাবে কাজ করে?](http://w3programmers.com/bangla/git-%e0%a6%95%e0%a6%bf-%e0%a6%8f%e0%a6%ac%e0%a6%82-git-%e0%a6%95%e0%a6%bf%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87-%e0%a6%95%e0%a6%be%e0%a6%9c-%e0%a6%95%e0%a6%b0%e0%a7%87/)
+* [Best git youtube playlist](https://www.youtube.com/watch?v=xqwoTHL6CJ0&list=PLH1ul2iNXl7vkfIFF2BxLA5xpkbvWtFWf)
 
 #### CI/CD
 
@@ -135,6 +136,9 @@
 * [Stripe in Python, subscription explained part-1](https://medium.com/@vignesh_jeyaraman/integrating-stripe-on-backend-part-1-70c1604df5f)
 * [Stripe in Python, subscription explained part-2](https://medium.com/@vignesh_jeyaraman/integrating-stripe-on-backend-part-2-d1a6e46a1211)
 
+#### DevOps
+
+* [Best channel](https://www.youtube.com/channel/UCuFg53ZTr6maqBC-4i9o4-w/playlists)
 
 #### Django third party packages
 
