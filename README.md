@@ -57,6 +57,9 @@
 * https://django-easy-tutorial.blogspot.com/2017/03/django-request-lifecycle.html
 * [WSGI Servers](https://www.fullstackpython.com/wsgi-servers.html)
 
+#### Django apps finder and comparison
+
+* [Django Packages](https://djangopackages.org/grids/g/relationships/)
 
 #### Django Best Practices  
 
@@ -142,6 +145,10 @@
 
 #### Django third party packages
 
+* [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
+  * [Apps list](https://pinaxproject.com/pinax/pinax_apps/)
+  * [Github - includes sources with demo](https://github.com/pinax)
+  
 * [django-cacheops](https://github.com/Suor/django-cacheops)
 * [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
 * [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
