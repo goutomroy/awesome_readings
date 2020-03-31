@@ -142,6 +142,7 @@
 #### DevOps
 
 * [Best channel](https://www.youtube.com/channel/UCuFg53ZTr6maqBC-4i9o4-w/playlists)
+* [Valaxy Technologies](https://www.youtube.com/channel/UC_evcfxhjjui5hChhLE08tQ)
 
 #### Django third party packages
 
