@@ -96,6 +96,7 @@
 * [Dockerization template](https://github.com/hendrikfrentrup/docker-django)  
 * https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
 * [Prepping Your Project for Production](https://2019.djangocon.us/talks/prepping-your-project-for-production/)
+* [Django, Gunicorn, Postgres, Docker, DigitalOcen](https://www.digitalocean.com/community/tutorials/how-to-build-a-django-and-gunicorn-application-with-docker)
 
 
 ####  Configuring Django Settings:
