@@ -97,7 +97,8 @@
 * https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
 * [Prepping Your Project for Production](https://2019.djangocon.us/talks/prepping-your-project-for-production/)
 * [Django, Gunicorn, Postgres, Docker, DigitalOcen](https://www.digitalocean.com/community/tutorials/how-to-build-a-django-and-gunicorn-application-with-docker)
-
+* [Real Python dockerizing django](https://github.com/realpython/dockerizing-django)
+* [Real Python Django Development with Docker Compose and Machine](https://realpython.com/django-development-with-docker-compose-and-machine/)
 
 ####  Configuring Django Settings:
 * https://djangostars.com/blog/configuring-django-settings-best-practices/
