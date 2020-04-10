@@ -83,6 +83,7 @@
 * [A few remarks on the DRF](https://gist.github.com/egasimus/6095421)
 * [Django null & blank](https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django?rq=1)
 * [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
+* [Python logging Architecture](https://www.techatbloomberg.com/blog/guide-logging-python/)
 
 #### Celery Architecture
 
