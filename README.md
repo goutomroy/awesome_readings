@@ -176,6 +176,7 @@
 * [Computer Networking Bangla Blog](http://w3programmers.com/bangla/category/computer-networking/)
 
 ### OAuth
+* [OAuth 2 Simplified - Best simplified article](https://aaronparecki.com/oauth-2-simplified/)
 * [OAuth কি? OAuth কিভাবে কাজ করে?](http://w3programmers.com/bangla/what-is-oauth/)
 * [OAuth 2.0 Tutorial](https://www.tutorialspoint.com/oauth2.0/index.htm)
 * [Django OAuth Toolkit](https://django-oauth-toolkit.readthedocs.io/en/latest/glossary.html#term-authorization-server)
