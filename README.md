@@ -2,6 +2,8 @@
 
 * [Awesome Django](https://github.com/wsvincent/awesome-django)  
 * [Awesome Django REST Framework](https://github.com/nioperas06/awesome-django-rest-framework)
+* [drf-cheat-sheet](https://github.com/Nifled/drf-cheat-sheet#serialization)
+* [drf-cheat-sheet-pdf](cgthayer-drf-cheatsheet-v1.pdf)
 
 #### Awesome Postgres
 * https://malisper.me/category/postgres/
@@ -20,11 +22,14 @@
 * https://concisecoder.io/
 * https://dev.to/learndjango
 
+#### Python/Django Documenting code
+*	[RealPython - Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
+
 #### PyCon/DjangoCon
 * https://2019.djangocon.us/
 
 #### System Design
-
+* [Algorithm and system design course - algoexpert](https://www.algoexpert.io/purchase)
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 * https://www.educative.io/courses/grokking-the-system-design-interview
 * https://www.hiredintech.com/courses/system-design
