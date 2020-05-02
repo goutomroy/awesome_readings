@@ -215,3 +215,4 @@
 * [List of courses](https://reactjs.org/community/courses.html)
 * [free full course](https://scrimba.com/g/glearnreact)
 * [Complete React Tutorial (& Redux ) - youtube course](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=2&t=0s)
+* [vs code setup for reactjs](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
