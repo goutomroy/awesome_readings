@@ -22,6 +22,9 @@
 - https://djangotricks.blogspot.com/
 - https://concisecoder.io/
 - https://dev.to/learndjango
+- [Best Django Blog - micropyramid](https://micropyramid.com/blog/)
+- [Vinta Django Blog](https://www.vinta.com.br/blog/)
+- [Django article collection](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
 
 #### Python/Django Documenting code
 
@@ -94,14 +97,16 @@
 - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
 - [Python logging Architecture](https://www.techatbloomberg.com/blog/guide-logging-python/)
 - [10 things you need to know to effectively use Django Rest Framework](https://medium.com/profil-software-blog/10-things-you-need-to-know-to-effectively-use-django-rest-framework-7db7728910e0)
+- [DRF View Cheatsheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
 
 #### Django Testing
 
 - [TDDD](https://test-driven-django-development.readthedocs.io/en/latest/index.html)
 
-#### Celery Architecture
+#### Celery
 
 - [Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
+- [List of celery tutorial](https://www.vinta.com.br/blog/category/celery/)
 
 #### Django Dockerization
 
@@ -189,15 +194,15 @@
 - [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
 - [Computer Networking Bangla Blog](http://w3programmers.com/bangla/category/computer-networking/)
 
-### OAuth
+### Authorization
 
 - [OAuth 2 Simplified - Best simplified article](https://aaronparecki.com/oauth-2-simplified/)
-- [OAuth কি? OAuth কিভাবে কাজ করে?](http://w3programmers.com/bangla/what-is-oauth/)
-- [OAuth 2.0 Tutorial](https://www.tutorialspoint.com/oauth2.0/index.htm)
 - [Django OAuth Toolkit](https://django-oauth-toolkit.readthedocs.io/en/latest/glossary.html#term-authorization-server)
-- [Official Site](https://oauth.net/)
-- [How OAuth Works](https://www.youtube.com/watch?v=KyIt8YaSsy4)
-- [OAuth terminologies and flows explained](https://www.youtube.com/watch?v=3pZ3Nh8tgTE)
+- [Official Site](https://oauth.net/2/)
+- [OAuth 2.0 Simplified](https://www.oauth.com/)
+- [OAuth terminologies and flows explained - 1](https://www.youtube.com/watch?v=t4-416mg6iU)
+- [OAuth terminologies and flows explained - 2](https://www.youtube.com/watch?v=3pZ3Nh8tgTE)
+- [What is JWT authorization really about](https://www.youtube.com/watch?v=soGRyl9ztjI)
 
 #### Tech interview
 
