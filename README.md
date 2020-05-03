@@ -24,7 +24,7 @@
 - https://dev.to/learndjango
 - [Best Django Blog - micropyramid](https://micropyramid.com/blog/)
 - [Vinta Django Blog](https://www.vinta.com.br/blog/)
-- [Django article collection](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
+- [Django Introduction & Tutorials — Long List](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
 
 #### Python/Django Documenting code
 
@@ -170,16 +170,18 @@
 
 #### Django third party packages
 
-- [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
-
-  - [Apps list](https://pinaxproject.com/pinax/pinax_apps/)
-  - [Github - includes sources with demo](https://github.com/pinax)
-
 - [django-cacheops](https://github.com/Suor/django-cacheops)
 - [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
 - [django-hosts](https://github.com/jazzband/django-hosts)
 - [django-redis](https://github.com/niwinz/django-redis)
+
+### Django projects to follow for code structures
+- [MicroPyramid/django-blog-it](https://github.com/MicroPyramid/django-blog-it)
+- [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
+  - [Apps list](https://pinaxproject.com/pinax/pinax_apps/)
+  - [Github - includes sources with demo](https://github.com/pinax)
+
 
 #### RDBMS
 
