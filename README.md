@@ -102,11 +102,24 @@
 #### Django Testing
 
 - [TDDD](https://test-driven-django-development.readthedocs.io/en/latest/index.html)
+- [Django Testing](https://www.vinta.com.br/blog/category/tests/)
 
 #### Celery
 
 - [Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
 - [List of celery tutorial](https://www.vinta.com.br/blog/category/celery/)
+- [DjangoCon US 2018 - Building Workflows With Celery](https://www.youtube.com/watch?v=8YLeWxLtVgo)
+- [PyCon Advanced Celery Tricks](https://www.youtube.com/watch?v=Bo6UtRhedjE&t=1121s)
+- [Understanding Celery & CeleryBeat](https://www.youtube.com/watch?v=kDoHrFLkahA)
+- https://tests4geeks.com/blog/python-celery-rabbitmq-tutorial/
+- https://blog.balthazar-rouberol.com/celery-best-practices
+- https://denibertovic.com/posts/celery-best-practices/
+- https://www.caktusgroup.com/blog/2014/09/29/celery-production/
+- https://www.distributedpython.com/2018/10/26/celery-execution-pool/
+- https://medium.com/@yedjoe/celery-4-periodic-task-in-django-9f6b5a8c21c7
+- https://www.sectorlabs.ro/blog/2016/11/24/our-experience-with-celery
+- https://hackernoon.com/using-celery-with-multiple-queues-retries-and-scheduled-tasks-589fe9a4f9ba
+- https://medium.com/@taylorhughes/three-quick-tips-from-two-years-with-celery-c05ff9d7f9eb
 
 #### Django Dockerization
 
