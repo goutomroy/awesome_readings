@@ -4,6 +4,7 @@
 - [Awesome Django REST Framework](https://github.com/nioperas06/awesome-django-rest-framework)
 - [drf-cheat-sheet](https://github.com/Nifled/drf-cheat-sheet#serialization)
 - [drf-cheat-sheet-pdf](cgthayer-drf-cheatsheet-v1.pdf)
+- https://project-awesome.org/
 
 #### Awesome Postgres
 
@@ -22,6 +23,8 @@
 - https://djangotricks.blogspot.com/
 - https://concisecoder.io/
 - https://dev.to/learndjango
+- [Learn Django - William Vincent](https://learndjango.com/tutorials/)
+- https://wsvincent.com/
 - [Best Django Blog - micropyramid](https://micropyramid.com/blog/)
 - [Vinta Django Blog](https://www.vinta.com.br/blog/)
 - [Django Introduction & Tutorials — Long List](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
@@ -123,6 +126,7 @@
 - https://www.sectorlabs.ro/blog/2016/11/24/our-experience-with-celery
 - https://hackernoon.com/using-celery-with-multiple-queues-retries-and-scheduled-tasks-589fe9a4f9ba
 - https://medium.com/@taylorhughes/three-quick-tips-from-two-years-with-celery-c05ff9d7f9eb
+- [celery beat docker](https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/)
 
 #### Django Dockerization
 
@@ -197,7 +201,9 @@
 - [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
   - [Apps list](https://pinaxproject.com/pinax/pinax_apps/)
   - [Github - includes sources with demo](https://github.com/pinax)
-
+- https://github.com/wsvincent/restapiswithdjango
+- https://github.com/wsvincent?tab=repositories
+- https://github.com/justdjango
 
 #### RDBMS
 
@@ -211,6 +217,13 @@
 
 - [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
 - [Computer Networking Bangla Blog](http://w3programmers.com/bangla/category/computer-networking/)
+- [Understand the Flow of a HTTP Request](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
+
+### Podcasts
+* https://djangochat.com/episodes
+* https://pythonbytes.fm/
+* https://wsvincent.com/best-python-podcasts/
+
 
 ### Authorization
 
@@ -239,3 +252,9 @@
 * [free full course](https://scrimba.com/g/glearnreact)
 * [Complete React Tutorial (& Redux ) - youtube course](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=2&t=0s)
 * [vs code setup for reactjs](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
+
+
+### Hosting
+* https://hostadvice.com/hosting-services/cheap-web-hosting/
+* https://hostingpill.com/free-vps-hosting/
+* https://www.hostingadvice.com/how-to/free-vps-hosting/
