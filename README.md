@@ -102,6 +102,7 @@
 - [Python logging Architecture](https://www.techatbloomberg.com/blog/guide-logging-python/)
 - [10 things you need to know to effectively use Django Rest Framework](https://medium.com/profil-software-blog/10-things-you-need-to-know-to-effectively-use-django-rest-framework-7db7728910e0)
 - [DRF View Cheatsheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
+- [Django logging](https://www.youtube.com/watch?v=-vVml7cpWzY)
 
 ### Django Channel
 - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
@@ -205,6 +206,7 @@
 - https://github.com/wsvincent/restapiswithdjango
 - https://github.com/wsvincent?tab=repositories
 - https://github.com/justdjango
+- https://www.codingforentrepreneurs.com/projects/
 
 #### RDBMS
 
