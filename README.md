@@ -23,6 +23,7 @@
 - https://djangotricks.blogspot.com/
 - https://concisecoder.io/
 - https://dev.to/learndjango
+- [codingforentrepreneurs free courses](https://www.codingforentrepreneurs.com/projects)
 - [Learn Django - William Vincent](https://learndjango.com/tutorials/)
 - https://wsvincent.com/
 - [Best Django Blog - micropyramid](https://micropyramid.com/blog/)
@@ -244,6 +245,8 @@
 - [Google coding university](https://github.com/jwasham/coding-interview-university)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
+### Bootstrap
+- [bootstrap course](https://www.codingforentrepreneurs.com/projects/bootstrap-basics-v4-3)
 
 ### ReactJs
 * [gitbook-react-bits](https://vasanthk.gitbooks.io/react-bits/)
