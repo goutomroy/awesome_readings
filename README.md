@@ -23,7 +23,7 @@
 - https://djangotricks.blogspot.com/
 - https://concisecoder.io/
 - https://dev.to/learndjango
-- [codingforentrepreneurs free courses](https://www.codingforentrepreneurs.com/projects)
+- [codingforentrepreneurs various django project free courses](https://www.codingforentrepreneurs.com/projects)
 - [Learn Django - William Vincent](https://learndjango.com/tutorials/)
 - https://wsvincent.com/
 - [Best Django Blog - micropyramid](https://micropyramid.com/blog/)
@@ -103,6 +103,11 @@
 - [10 things you need to know to effectively use Django Rest Framework](https://medium.com/profil-software-blog/10-things-you-need-to-know-to-effectively-use-django-rest-framework-7db7728910e0)
 - [DRF View Cheatsheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
 - [Django logging](https://www.youtube.com/watch?v=-vVml7cpWzY)
+- [Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/)
+- [MailHog Tutorial](https://blog.mailtrap.io/mailhog-explained/)
+- [Safe Email Testing for Staging & Development](https://mailtrap.io/?_ga=2.7032114.1689485353.1590460844-2033176224.1590460844)
+- [The complete django-allauth guide](https://dev.to/gajesh/the-complete-django-allauth-guide-la3)
+- [Compress images in django](https://dev.to/gajesh/compress-images-in-django-3la8)
 
 ### Django Channel
 - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
