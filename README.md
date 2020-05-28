@@ -29,6 +29,8 @@
 - [Best Django Blog - micropyramid](https://micropyramid.com/blog/)
 - [Vinta Django Blog](https://www.vinta.com.br/blog/)
 - [Django Introduction & Tutorials — Long List](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
+- [Awesome Open Source - all awesome lists](https://awesomeopensource.com/)
+- [Estimating the Effort of Development of a Django Application](https://simpleisbetterthancomplex.com/article/2016/10/03/effort-estimation.html)
 
 #### Python/Django Documenting code
 
@@ -108,6 +110,10 @@
 - [Safe Email Testing for Staging & Development](https://mailtrap.io/?_ga=2.7032114.1689485353.1590460844-2033176224.1590460844)
 - [The complete django-allauth guide](https://dev.to/gajesh/the-complete-django-allauth-guide-la3)
 - [Compress images in django](https://dev.to/gajesh/compress-images-in-django-3la8)
+- [DjangoCon 2019 - Search From the Ground Up by William S. Vincent](https://learndjango.com/tutorials/django-search-tutorial)
+- [Designing Better Models](https://simpleisbetterthancomplex.com/tips/2018/02/10/django-tip-22-designing-better-models.html)
+- [Django Best Practices: Models](https://learndjango.com/tutorials/django-best-practices-models)
+- [Django Slug Tutorial - switch from ids to slugs in URLs](https://learndjango.com/tutorials/django-slug-tutorial)
 
 ### Django Channel
 - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
@@ -262,6 +268,7 @@
 * [free full course](https://scrimba.com/g/glearnreact)
 * [Complete React Tutorial (& Redux ) - youtube course](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=2&t=0s)
 * [vs code setup for reactjs](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
+* [React Redux Tutorial for Beginners: The Complete Guide (2020)](https://www.valentinog.com/blog/redux/)
 
 
 ### Hosting
