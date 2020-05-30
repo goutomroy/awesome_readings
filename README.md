@@ -5,7 +5,7 @@
 - [drf-cheat-sheet](https://github.com/Nifled/drf-cheat-sheet#serialization)
 - [drf-cheat-sheet-pdf](cgthayer-drf-cheatsheet-v1.pdf)
 - https://project-awesome.org/
-- [Reef Technologies trainging - Must know things for Python/Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
+- [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
 
 #### Awesome Postgres
 
