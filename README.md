@@ -71,6 +71,7 @@
 
 - https://books.agiliq.com/en/latest/
 - https://highperformancedjango.com/
+- [Github - Offline books](https://github.com/goutomroy/books)
 
 #### Django Project Life Cycle
 
