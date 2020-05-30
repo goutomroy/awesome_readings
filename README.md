@@ -5,6 +5,7 @@
 - [drf-cheat-sheet](https://github.com/Nifled/drf-cheat-sheet#serialization)
 - [drf-cheat-sheet-pdf](cgthayer-drf-cheatsheet-v1.pdf)
 - https://project-awesome.org/
+- [Reef Technologies trainging - Must know things for Python/Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
 
 #### Awesome Postgres
 
@@ -59,6 +60,8 @@
 - https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
 - https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
 - [Success in Tech](https://www.youtube.com/watch?v=DSGsa0pu8-k)
+- [The Net Ninja - Best For frontend](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [techsith  - Best For frontend](https://www.youtube.com/user/techSithTube)
 
 #### Microservice
 
