@@ -273,6 +273,11 @@
 * [Complete React Tutorial (& Redux ) - youtube course](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=2&t=0s)
 * [vs code setup for reactjs](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
 * [React Redux Tutorial for Beginners: The Complete Guide (2020)](https://www.valentinog.com/blog/redux/)
+* [Using Redux with React: Complete Tutorial with Real-World Examples](https://www.taniarascia.com/redux-react-guide/)
+* [Modern React Redux Tutorials with Redux toolkit - 2020](https://dev.to/ganeshmani/modern-react-redux-tutorials-with-redux-toolkit-2020-2b6)
+* [The Missing Instruction Manuals of the Web](https://www.taniarascia.com/blog/)
+* [Authentication on the Client Side the Right Way: Cookies vs. Local Storage](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/)
+* [Youtube Redux-Toolkit Course](https://www.youtube.com/watch?v=bxmFttvj-Mk&list=PLfNd7po_IV0GTfQb8RJirrt83BFMF-Lj0)
 
 
 ### Hosting
