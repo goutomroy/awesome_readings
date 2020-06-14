@@ -278,6 +278,7 @@
 * [The Missing Instruction Manuals of the Web](https://www.taniarascia.com/blog/)
 * [Authentication on the Client Side the Right Way: Cookies vs. Local Storage](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/)
 * [Youtube Redux-Toolkit Course](https://www.youtube.com/watch?v=bxmFttvj-Mk&list=PLfNd7po_IV0GTfQb8RJirrt83BFMF-Lj0)
+* [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 
 ### Hosting
