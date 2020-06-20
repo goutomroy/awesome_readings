@@ -261,6 +261,7 @@
 - https://github.com/donnemartin/coding-interview-university
 - [Google coding university](https://github.com/jwasham/coding-interview-university)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [How to screen Python developers’ skills](https://devskiller.com/screen-python-developers-skills-find-best-guide-recruitment/)
 
 ### Bootstrap
 - [bootstrap course](https://www.codingforentrepreneurs.com/projects/bootstrap-basics-v4-3)
