@@ -32,6 +32,7 @@
 - [Django Introduction & Tutorials — Long List](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
 - [Awesome Open Source - all awesome lists](https://awesomeopensource.com/)
 - [Estimating the Effort of Development of a Django Application](https://simpleisbetterthancomplex.com/article/2016/10/03/effort-estimation.html)
+- [Top 10 Best Websites to Learn Coding for Free!](https://www.youtube.com/watch?v=PaDVGUnOihw)
 
 #### Python/Django Documenting code
 
