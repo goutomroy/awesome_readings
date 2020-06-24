@@ -265,6 +265,7 @@
 - [How to screen Python developers’ skills](https://devskiller.com/screen-python-developers-skills-find-best-guide-recruitment/)
 - [JAVAAID - Coding Interview Preparation - best youtube channel](https://www.youtube.com/channel/UCx1hbK753l3WhwXP5r93eYA)
 - [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
+- [SDE Coding Interview Preparation Roadmap (6–8 months)](https://medium.com/@aalekh.xams/sde-coding-interview-preparation-roadmap-6-8-months-4c07deed899f)
 
 ### Bootstrap
 - [bootstrap course](https://www.codingforentrepreneurs.com/projects/bootstrap-basics-v4-3)
