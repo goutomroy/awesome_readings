@@ -119,6 +119,9 @@
 - [Designing Better Models](https://simpleisbetterthancomplex.com/tips/2018/02/10/django-tip-22-designing-better-models.html)
 - [Django Best Practices: Models](https://learndjango.com/tutorials/django-best-practices-models)
 - [Django Slug Tutorial - switch from ids to slugs in URLs](https://learndjango.com/tutorials/django-slug-tutorial)
+- [Model inheritance](https://realpython.com/modeling-polymorphism-django-python/)
+- [Django Patterns: Model Inheritance](https://charlesleifer.com/blog/django-patterns-model-inheritance/)
+- [Describing Relationships: Django's ManyToMany Through](https://charlesleifer.com/blog/describing-relationships-djangos-manytomany-through/)
 
 ### Django Channel
 - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
