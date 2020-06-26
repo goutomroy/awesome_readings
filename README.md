@@ -44,14 +44,15 @@
 
 #### System Design
 
+- [Donne Martin - The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Tech Dummies - Complete, vast, dedicated System Design youtube channel](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [Algorithm and system design course - algoexpert](https://www.algoexpert.io/purchase)
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-- https://www.educative.io/courses/grokking-the-system-design-interview
-- https://www.hiredintech.com/courses/system-design
-- https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
-- https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka
-- https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka
-- https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+
+- [System Design for Tech Interviews - course](https://www.hiredintech.com/courses/system-design)
+- [Success in Tech - showing how to design full system - youtube channel](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
+- [Gaurav Sen - good system desing youtube channel](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 
 #### Youtube channel
 
