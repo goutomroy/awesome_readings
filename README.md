@@ -42,19 +42,6 @@
 
 - https://2019.djangocon.us/
 
-#### System Design
-
-- [Donne Martin - The System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [Tech Dummies - Complete, vast, dedicated System Design youtube channel](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
-
-- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
-- [Algorithm and system design course - algoexpert](https://www.algoexpert.io/purchase)
-
-- [System Design for Tech Interviews - course](https://www.hiredintech.com/courses/system-design)
-- [Success in Tech - showing how to design full system - youtube channel](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
-- [Gaurav Sen - good system desing youtube channel](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
-- https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ
-
 #### Youtube channel
 
 - https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
