@@ -53,6 +53,7 @@
 - [System Design for Tech Interviews - course](https://www.hiredintech.com/courses/system-design)
 - [Success in Tech - showing how to design full system - youtube channel](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
 - [Gaurav Sen - good system desing youtube channel](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+- https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ
 
 #### Youtube channel
 
