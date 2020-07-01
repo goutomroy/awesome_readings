@@ -111,6 +111,7 @@
 - [Model inheritance](https://realpython.com/modeling-polymorphism-django-python/)
 - [Django Patterns: Model Inheritance](https://charlesleifer.com/blog/django-patterns-model-inheritance/)
 - [Describing Relationships: Django's ManyToMany Through](https://charlesleifer.com/blog/describing-relationships-djangos-manytomany-through/)
+- [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
 
 ### Django Channel
 - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
@@ -246,18 +247,26 @@
 - [OAuth terminologies and flows explained - 2](https://www.youtube.com/watch?v=3pZ3Nh8tgTE)
 - [What is JWT authorization really about](https://www.youtube.com/watch?v=soGRyl9ztjI)
 
-#### Tech interview
+#### System Design
 
-- [Handbook of total process + algorithms with python code + leetcode](https://yangshun.github.io/tech-interview-handbook/)
-- [CRACKING the CODING INTERVIEW](http://www.crackingthecodinginterview.com/)
-- https://github.com/donnemartin/interactive-coding-challenges
-- https://github.com/donnemartin/coding-interview-university
-- [Google coding university](https://github.com/jwasham/coding-interview-university)
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- [How to screen Python developers’ skills](https://devskiller.com/screen-python-developers-skills-find-best-guide-recruitment/)
-- [JAVAAID - Coding Interview Preparation - best youtube channel](https://www.youtube.com/channel/UCx1hbK753l3WhwXP5r93eYA)
-- [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
-- [SDE Coding Interview Preparation Roadmap (6–8 months)](https://medium.com/@aalekh.xams/sde-coding-interview-preparation-roadmap-6-8-months-4c07deed899f)
+- [Donne Martin - The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Tech Dummies - Complete, vast, dedicated System Design youtube channel](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+
+- [Grokking the Object Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424)
+- [Algorithm and system design course - algoexpert](https://www.algoexpert.io/purchase)
+- [Grokking System Design Interview - Loaded in Github](https://github.com/lei-hsia/grokking-system-design)
+- [System Design for Tech Interviews - course](https://www.hiredintech.com/courses/system-design)
+- [Success in Tech - showing how to design full system - youtube channel](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
+- [Gaurav Sen - good system desing youtube channel](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+- https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ
+- [Hiredintech - System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)
+- [High Scalability](http://highscalability.com/)
+
+### System Design Miscellaneous 
+- [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
+- [Polling vs WebSockets vs Socket.IO (Simple Explanation)](https://www.youtube.com/watch?v=sUEq35F-ELY&list=LL0r4B7591lSGuLvLMHoUf4g&index=3&t=0s)
+- [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
 ### Bootstrap
 - [bootstrap course](https://www.codingforentrepreneurs.com/projects/bootstrap-basics-v4-3)
