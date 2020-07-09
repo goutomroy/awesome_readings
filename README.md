@@ -112,6 +112,7 @@
 - [Django Patterns: Model Inheritance](https://charlesleifer.com/blog/django-patterns-model-inheritance/)
 - [Describing Relationships: Django's ManyToMany Through](https://charlesleifer.com/blog/describing-relationships-djangos-manytomany-through/)
 - [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
+- [Multiple User Types | Django](https://www.youtube.com/watch?v=f0hdXr2MOEA&feature=youtu.be&fbclid=IwAR0SybikQzpP9jO-6AsXwTK8QkP_r1EebqSAlRYsKCdU5ouvw0gsje3Oyvw)
 
 ### Django Channel
 - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
