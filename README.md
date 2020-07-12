@@ -263,6 +263,7 @@
 - https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ
 - [Hiredintech - System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)
 - [High Scalability](http://highscalability.com/)
+- [Channel for system design](https://www.youtube.com/c/ThinkSoftware/videos)
 
 ### System Design Miscellaneous 
 - [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
