@@ -112,6 +112,7 @@
 - [Django Patterns: Model Inheritance](https://charlesleifer.com/blog/django-patterns-model-inheritance/)
 - [Describing Relationships: Django's ManyToMany Through](https://charlesleifer.com/blog/describing-relationships-djangos-manytomany-through/)
 - [Multiple User Types | Django](https://www.youtube.com/watch?v=f0hdXr2MOEA&feature=youtu.be&fbclid=IwAR0SybikQzpP9jO-6AsXwTK8QkP_r1EebqSAlRYsKCdU5ouvw0gsje3Oyvw)
+- [Caching and performance benchmark in Django](https://testdriven.io/blog/django-caching/)
 
 ### Django Channel
 - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
