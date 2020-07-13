@@ -24,6 +24,7 @@
 - https://djangotricks.blogspot.com/
 - https://concisecoder.io/
 - https://dev.to/learndjango
+- [Daniel Feldroy Youtube Channel](https://www.youtube.com/channel/UCtNU6QH-S499vfgeVAeovMw)
 - [codingforentrepreneurs various django project free courses](https://www.codingforentrepreneurs.com/projects)
 - [Learn Django - William Vincent](https://learndjango.com/tutorials/)
 - https://wsvincent.com/
