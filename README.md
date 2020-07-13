@@ -111,7 +111,6 @@
 - [Model inheritance](https://realpython.com/modeling-polymorphism-django-python/)
 - [Django Patterns: Model Inheritance](https://charlesleifer.com/blog/django-patterns-model-inheritance/)
 - [Describing Relationships: Django's ManyToMany Through](https://charlesleifer.com/blog/describing-relationships-djangos-manytomany-through/)
-- [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
 - [Multiple User Types | Django](https://www.youtube.com/watch?v=f0hdXr2MOEA&feature=youtu.be&fbclid=IwAR0SybikQzpP9jO-6AsXwTK8QkP_r1EebqSAlRYsKCdU5ouvw0gsje3Oyvw)
 
 ### Django Channel
@@ -230,7 +229,6 @@
 
 - [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
 - [Computer Networking Bangla Blog](http://w3programmers.com/bangla/category/computer-networking/)
-- [Understand the Flow of a HTTP Request](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
 
 ### Podcasts
 * https://djangochat.com/episodes
@@ -269,6 +267,8 @@
 - [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
 - [Polling vs WebSockets vs Socket.IO (Simple Explanation)](https://www.youtube.com/watch?v=sUEq35F-ELY&list=LL0r4B7591lSGuLvLMHoUf4g&index=3&t=0s)
 - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
+- [Understand the Flow of a HTTP Request](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
+- [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
 
 ### Bootstrap
 - [bootstrap course](https://www.codingforentrepreneurs.com/projects/bootstrap-basics-v4-3)
