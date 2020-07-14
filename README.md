@@ -108,6 +108,7 @@
 - [DjangoCon 2019 - Search From the Ground Up by William S. Vincent](https://learndjango.com/tutorials/django-search-tutorial)
 - [Designing Better Models](https://simpleisbetterthancomplex.com/tips/2018/02/10/django-tip-22-designing-better-models.html)
 - [Django Best Practices: Models](https://learndjango.com/tutorials/django-best-practices-models)
+- [Best practices working with Django models](https://steelkiwi.com/blog/best-practices-working-django-models-python/)
 - [Django Slug Tutorial - switch from ids to slugs in URLs](https://learndjango.com/tutorials/django-slug-tutorial)
 - [Model inheritance](https://realpython.com/modeling-polymorphism-django-python/)
 - [Django Patterns: Model Inheritance](https://charlesleifer.com/blog/django-patterns-model-inheritance/)
