@@ -6,6 +6,7 @@
 - [drf-cheat-sheet-pdf](cgthayer-drf-cheatsheet-v1.pdf)
 - https://project-awesome.org/
 - [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
+- [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
 
 #### Awesome Postgres
 
@@ -116,6 +117,9 @@
 - [Multiple User Types | Django](https://www.youtube.com/watch?v=f0hdXr2MOEA&feature=youtu.be&fbclid=IwAR0SybikQzpP9jO-6AsXwTK8QkP_r1EebqSAlRYsKCdU5ouvw0gsje3Oyvw)
 - [Caching and performance benchmark in Django](https://testdriven.io/blog/django-caching/)
 - [Referencing the User Model](https://learndjango.com/tutorials/django-best-practices-referencing-user-model)
+- [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/#marks-categorizing-tests)
+- [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
+- [Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
 
 ### Django Channel
 - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
