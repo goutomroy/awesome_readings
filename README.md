@@ -5,8 +5,6 @@
 - [drf-cheat-sheet](https://github.com/Nifled/drf-cheat-sheet#serialization)
 - [drf-cheat-sheet-pdf](cgthayer-drf-cheatsheet-v1.pdf)
 - https://project-awesome.org/
-- [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
-- [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
 
 #### Awesome Postgres
 
@@ -54,6 +52,7 @@
 - [Success in Tech](https://www.youtube.com/watch?v=DSGsa0pu8-k)
 - [The Net Ninja - Best For frontend](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [techsith  - Best For frontend](https://www.youtube.com/user/techSithTube)
+- [InfoQ](https://www.youtube.com/user/MarakanaTechTV)
 
 #### Microservice
 
@@ -120,6 +119,8 @@
 - [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/#marks-categorizing-tests)
 - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
 - [Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
+- [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
+- [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
 
 ### Django Channel
 - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
@@ -235,9 +236,7 @@
 - https://www.dbdesigner.net/
 
 #### Miscellaneous
-
-- [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
-- [Computer Networking Bangla Blog](http://w3programmers.com/bangla/category/computer-networking/)
+- [How code compilation works](https://www.youtube.com/playlist?list=PLTd6ceoshpreZuklA7RBMubSmhE0OHWh_)
 
 ### Podcasts
 * https://djangochat.com/episodes
@@ -255,7 +254,7 @@
 - [OAuth terminologies and flows explained - 2](https://www.youtube.com/watch?v=3pZ3Nh8tgTE)
 - [What is JWT authorization really about](https://www.youtube.com/watch?v=soGRyl9ztjI)
 
-#### System Design
+### System Design
 
 - [Donne Martin - The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Tech Dummies - Complete, vast, dedicated System Design youtube channel](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
@@ -267,17 +266,30 @@
 - [System Design for Tech Interviews - course](https://www.hiredintech.com/courses/system-design)
 - [Success in Tech - showing how to design full system - youtube channel](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
 - [Gaurav Sen - good system desing youtube channel](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
-- https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ
+- [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
 - [Hiredintech - System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)
 - [High Scalability](http://highscalability.com/)
 - [Channel for system design](https://www.youtube.com/c/ThinkSoftware/videos)
+- [AfterAcademy - System Design](https://www.youtube.com/playlist?list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA)
+- [Tech Primers](https://www.youtube.com/c/TechPrimers/featured)
 
-### System Design Miscellaneous 
-- [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
-- [Polling vs WebSockets vs Socket.IO (Simple Explanation)](https://www.youtube.com/watch?v=sUEq35F-ELY&list=LL0r4B7591lSGuLvLMHoUf4g&index=3&t=0s)
-- [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
-- [Understand the Flow of a HTTP Request](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
-- [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
+  #### System Design Miscellaneous 
+  - [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
+  - [Polling vs WebSockets vs Socket.IO (Simple Explanation)](https://www.youtube.com/watch?v=sUEq35F-ELY&list=LL0r4B7591lSGuLvLMHoUf4g&index=3&t=0s)
+  - [What are WebSockets | How is it different from HTTP?](https://www.youtube.com/watch?v=i5OVcTdt_OU)
+  - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
+  
+  #### Computer Networks
+  - [Computer Networks  - Gate Smasher](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
+  - [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
+  
+  #### DNS
+  - [Understand the Flow of a HTTP Request](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
+  - [Domain Name Server(DNS) & its types - 1](https://www.youtube.com/watch?v=vhfRArT11jc)
+  - [Domain Name Server(DNS) & its types - 2](https://www.youtube.com/watch?v=BZISxpdl4lQ)
+  - [How a DNS Server (Domain Name System) works.](https://www.youtube.com/watch?v=mpQZVYPuDGU)
+  - [DNS (Domain Name System) - Explained , Types of Domain Name Servers | How DNS works](https://www.youtube.com/watch?v=JkEYOt08-rU)
+
 
 ### Bootstrap
 - [bootstrap course](https://www.codingforentrepreneurs.com/projects/bootstrap-basics-v4-3)
