@@ -2,18 +2,18 @@
 
 # Django
 
-- ## Awesome
+- ### Awesome
 
   - [Awesome Django](https://github.com/wsvincent/awesome-django)
   - [Awesome Django REST Framework](https://github.com/nioperas06/awesome-django-rest-framework)
 
 
-- ## Overall Project Optimization
+- ### Overall Project Optimization
   - [Official Django Performance and optimization](https://docs.djangoproject.com/en/3.0/topics/performance/)
   - [Django project optimization guide](https://dizballanze.com/)
 
 
-- ## DRF
+- ### DRF
   - [How to Optimize Your Django REST Viewsets](https://concisecoder.io/2018/12/23/how-to-optimize-your-django-rest-viewsets/)
   - [Normalize Your Django REST Serializers](https://concisecoder.io/2018/11/17/normalize-your-django-rest-serializers/)
   - [10 things you need to know to effectively use Django Rest Framework](https://medium.com/profil-software-blog/10-things-you-need-to-know-to-effectively-use-django-rest-framework-7db7728910e0)
@@ -25,16 +25,16 @@
   - [DRF view - Cheat-Sheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
 
 
-- ## Authentication, Authorization, User Management
+- ### Authentication, Authorization, User Management
   - [Multiple User Types | Django](https://www.youtube.com/watch?v=f0hdXr2MOEA&feature=youtu.be&fbclid=IwAR0SybikQzpP9jO-6AsXwTK8QkP_r1EebqSAlRYsKCdU5ouvw0gsje3Oyvw)
   - [Multiple User Types With Custom Data Fields | Django](https://www.youtube.com/watch?v=V3zRZ6XRols&list=LL0r4B7591lSGuLvLMHoUf4g&index=10&t=0s)
   - [Referencing the User Model](https://learndjango.com/tutorials/django-best-practices-referencing-user-model)
   - [The complete django-allauth guide](https://dev.to/gajesh/the-complete-django-allauth-guide-la3)
 
 
-- ## Database
+- ### Database
   
-  - ### ORM
+  - #### ORM
     - [Official Django Database access optimization](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
     - [Django queries optimization](https://www.youtube.com/watch?v=qDyxmgWkjvI)
     - [Django ORM Optimization Tips](https://concisecoder.io/2018/11/04/django-orm-optimization-tips/)
@@ -54,7 +54,7 @@
     - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
 
   
-- ## Testing
+- ### Testing
   - [TDDD](https://test-driven-django-development.readthedocs.io/en/latest/index.html)
   - [Django Testing](https://www.vinta.com.br/blog/category/tests/)
   - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
@@ -62,35 +62,35 @@
   - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
   - [Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
   
-- ## Caching & Benchmarking
+- ### Caching & Benchmarking
   - [Caching and benchmarking in Django With Redis](https://realpython.com/caching-in-django-with-redis/)
   - [Caching and benchmarking in Django](https://testdriven.io/blog/django-caching/)
   - [Django caching best practices](https://dizballanze.com/django-project-optimization-part-3/)
   - [Load Testing a Django Application using LocustIO](https://dev.to/apcelent/load-testing-a-django-application-using-locustio-1hd0)
 
 
-- ## Life Cycle
+- ### Life Cycle
   - [Understanding the request-response lifecycle of a Django web application](http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application)
   - [Understanding The Request-Response Lifecycle In Django](https://learnbatta.com/blog/understanding-request-response-lifecycle-in-django-29/)
   - [django request lifecycle](https://django-easy-tutorial.blogspot.com/2017/03/django-request-lifecycle.html)
   - [WSGI Servers](https://www.fullstackpython.com/wsgi-servers.html)
 
-- ## Search
+- ### Search
   - [DjangoCon 2019 - Search From the Ground Up by William S. Vincent](https://learndjango.com/tutorials/django-search-tutorial)
 
-- ## Logging
+- ### Logging
   - [Python logging Architecture](https://www.techatbloomberg.com/blog/guide-logging-python/)
   - [Django logging](https://www.youtube.com/watch?v=-vVml7cpWzY)
   
-- ## Email
+- ### Email
   - [MailHog Tutorial](https://blog.mailtrap.io/mailhog-explained/)
   - [Safe Email Testing for Staging & Development](https://mailtrap.io/?_ga=2.7032114.1689485353.1590460844-2033176224.1590460844)
   
-- ## Channel
+- ### Channel
   - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
   - [Just Add Await: Retrofitting Async Into Django](https://www.youtube.com/watch?v=oMHrDy62kgE)
   
-- ## Blogs
+- ### Blogs
 
   - [realpython](https://realpython.com/)
   - [hakibenita](https://hakibenita.com/)
@@ -109,7 +109,7 @@
   - [Django Introduction & Tutorials — Long List](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
 
 
-- ## Celery
+- ### Celery
   - [Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
   - [List of celery tutorial](https://www.vinta.com.br/blog/category/celery/)
   - [DjangoCon US 2018 - Building Workflows With Celery](https://www.youtube.com/watch?v=8YLeWxLtVgo)
@@ -127,7 +127,7 @@
   - [celery beat docker](https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/)
 
 
-- ## Miscellaneous
+- ### Miscellaneous
   - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
   - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
   - [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
@@ -139,7 +139,7 @@
   - [Configuring Django Settings: Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/)
 
 
-- ## Essential 3rd party packages
+- ### Essential 3rd party packages
   - [Django Packages - 3rd party apps finder and comparison](https://djangopackages.org/grids/g/relationships/)
   - [django-cacheops](https://github.com/Suor/django-cacheops)
   - [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
@@ -149,7 +149,7 @@
   - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) 
   
 
-- ## Projects to follow for code structures  
+- ### Projects to follow for code structures  
   - [MicroPyramid/django-blog-it](https://github.com/MicroPyramid/django-blog-it)
   - [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
     - [Apps list](https://pinaxproject.com/pinax/pinax_apps/)
@@ -159,7 +159,7 @@
   - https://github.com/justdjango
   - https://www.codingforentrepreneurs.com/projects/
 
-- ## Dockerization
+- ### Dockerization
 
   - https://medium.com/faun/tech-edition-how-to-dockerize-a-django-web-app-elegantly-924c0b83575d
   - https://medium.com/faun/tech-edition-django-dockerization-with-bells-and-whistles-and-a-tad-bit-of-cleverness-2b5d1b57e289
@@ -171,13 +171,13 @@
   - [Real Python Django Development with Docker Compose and Machine](https://realpython.com/django-development-with-docker-compose-and-machine/)
 
 
-- ## Youtube Channel
+- ### Youtube Channel
   - [Daniel Feldroy Youtube Channel](https://www.youtube.com/channel/UCtNU6QH-S499vfgeVAeovMw)
   - [DjangoCon US](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw)
   - [DjangoCon Europe](https://www.youtube.com/user/djangoconeurope)
 
 
-- ## Books
+- ### Books
 
   - https://books.agiliq.com/en/latest/
   - https://highperformancedjango.com/
@@ -185,17 +185,17 @@
 
 # Python
 
-- ## Blogs
+- ### Blogs
   - [realpython](https://realpython.com/)
   - [pymotw](https://pymotw.com/3/)
 
-- ## Python/Django Documenting code
+- ### Python/Django Documenting code
   - [RealPython - Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
 
 
 # Database  
 
-- ## RDBMS
+- ### RDBMS
   - https://malisper.me/category/postgres/
   - https://github.com/dhamaniasad/awesome-postgres#resources
   - [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
@@ -289,10 +289,10 @@
 
 # Frontend
 
-- ## Bootstrap
+- ### Bootstrap
   - [bootstrap course](https://www.codingforentrepreneurs.com/projects/bootstrap-basics-v4-3)
 
-- ## ReactJs
+- ### ReactJs
   - [gitbook-react-bits](https://vasanthk.gitbooks.io/react-bits/)
   - [Road to learn react - book](https://www.robinwieruch.de/the-road-to-learn-react)
   - [List of courses](https://reactjs.org/community/courses.html)
@@ -307,7 +307,7 @@
   - [Youtube Redux-Toolkit Course](https://www.youtube.com/watch?v=bxmFttvj-Mk&list=PLfNd7po_IV0GTfQb8RJirrt83BFMF-Lj0)
   - [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
-- ## Youtube Channel
+- ### Youtube Channel
 
   - [The Net Ninja - Best For frontend](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
   - [techsith  - Best For frontend](https://www.youtube.com/user/techSithTube)
@@ -315,7 +315,7 @@
 
 # System Design
 
-- ## Courses & Blogs
+- ### Courses & Blogs
   - [Donne Martin - The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
   - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
@@ -327,7 +327,7 @@
   - [Hiredintech - System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)
   - [High Scalability - Building bigger, faster and more reliable websites](http://highscalability.com/)
 
-- ## Youtube Channel
+- ### Youtube Channel
   - [Tech Dummies - Complete, vast, dedicated System Design youtube channel](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
   - [Gaurav Sen - System Design](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
   - [Think Software - Distributed system design](https://www.youtube.com/c/ThinkSoftware/videos)
@@ -336,14 +336,14 @@
   - [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
   - [Success in Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw)
 
-- ## Microservice
+- ### Microservice
   - https://microservices.io/
 
-- ## Computer Networks
+- ### Computer Networks
   - [Computer Networks  - Gate Smasher](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
   - [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
   
-- ## DNS
+- ### DNS
   - [Understand the Flow of a HTTP Request](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
   - [Domain Name Server(DNS) & its types - 1](https://www.youtube.com/watch?v=vhfRArT11jc)
   - [Domain Name Server(DNS) & its types - 2](https://www.youtube.com/watch?v=BZISxpdl4lQ)
@@ -351,7 +351,7 @@
   - [DNS (Domain Name System) - Explained , Types of Domain Name Servers | How DNS works](https://www.youtube.com/watch?v=JkEYOt08-rU)
 
 
-- ## Miscellaneous 
+- ### Miscellaneous 
   - [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
   - [Polling vs WebSockets vs Socket.IO (Simple Explanation)](https://www.youtube.com/watch?v=sUEq35F-ELY&list=LL0r4B7591lSGuLvLMHoUf4g&index=3&t=0s)
   - [What are WebSockets | How is it different from HTTP?](https://www.youtube.com/watch?v=i5OVcTdt_OU)
