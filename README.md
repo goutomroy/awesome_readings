@@ -1,56 +1,4 @@
 
-#### Python and Django Blogs
-
-- https://realpython.com/
-- https://pymotw.com/3/
-- https://hakibenita.com/
-- https://overiq.com/django-1-11/
-- https://simpleisbetterthancomplex.com/
-- https://www.fullstackpython.com/
-- https://www.vinta.com.br/blog/
-- https://djangotricks.blogspot.com/
-- https://concisecoder.io/
-- https://dev.to/learndjango
-- [Daniel Feldroy Youtube Channel](https://www.youtube.com/channel/UCtNU6QH-S499vfgeVAeovMw)
-- [codingforentrepreneurs various django project free courses](https://www.codingforentrepreneurs.com/projects)
-- [Learn Django - William Vincent](https://learndjango.com/tutorials/)
-- https://wsvincent.com/
-- [Best Django Blog - micropyramid](https://micropyramid.com/blog/)
-- [Vinta Django Blog](https://www.vinta.com.br/blog/)
-- [Django Introduction & Tutorials — Long List](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
-- [Awesome Open Source - all awesome lists](https://awesomeopensource.com/)
-- [Estimating the Effort of Development of a Django Application](https://simpleisbetterthancomplex.com/article/2016/10/03/effort-estimation.html)
-- [Top 10 Best Websites to Learn Coding for Free!](https://www.youtube.com/watch?v=PaDVGUnOihw)
-
-#### Python/Django Documenting code
-
-- [RealPython - Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
-
-#### PyCon/DjangoCon
-
-- https://2019.djangocon.us/
-
-#### Youtube channel
-
-- https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
-- https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A
-- https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw/
-- https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
-- https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
-- [Success in Tech](https://www.youtube.com/watch?v=DSGsa0pu8-k)
-- [The Net Ninja - Best For frontend](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-- [techsith  - Best For frontend](https://www.youtube.com/user/techSithTube)
-- [InfoQ](https://www.youtube.com/user/MarakanaTechTV)
-
-#### Microservice
-
-- https://microservices.io/
-
-#### Python and Django Books
-
-- https://books.agiliq.com/en/latest/
-- https://highperformancedjango.com/
-- [Github - Offline books](https://github.com/goutomroy/books)
 
 ### Django Best Practices
 
@@ -206,6 +154,61 @@
 - #### Configuring Django Settings:
 
   - https://djangostars.com/blog/configuring-django-settings-best-practices/
+
+
+#### Python and Django Blogs
+
+- https://realpython.com/
+- https://pymotw.com/3/
+- https://hakibenita.com/
+- https://overiq.com/django-1-11/
+- https://simpleisbetterthancomplex.com/
+- https://www.fullstackpython.com/
+- https://www.vinta.com.br/blog/
+- https://djangotricks.blogspot.com/
+- https://concisecoder.io/
+- https://dev.to/learndjango
+- [Daniel Feldroy Youtube Channel](https://www.youtube.com/channel/UCtNU6QH-S499vfgeVAeovMw)
+- [codingforentrepreneurs various django project free courses](https://www.codingforentrepreneurs.com/projects)
+- [Learn Django - William Vincent](https://learndjango.com/tutorials/)
+- https://wsvincent.com/
+- [Best Django Blog - micropyramid](https://micropyramid.com/blog/)
+- [Vinta Django Blog](https://www.vinta.com.br/blog/)
+- [Django Introduction & Tutorials — Long List](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
+- [Awesome Open Source - all awesome lists](https://awesomeopensource.com/)
+- [Estimating the Effort of Development of a Django Application](https://simpleisbetterthancomplex.com/article/2016/10/03/effort-estimation.html)
+- [Top 10 Best Websites to Learn Coding for Free!](https://www.youtube.com/watch?v=PaDVGUnOihw)
+
+#### Python/Django Documenting code
+
+- [RealPython - Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
+
+#### PyCon/DjangoCon
+
+- https://2019.djangocon.us/
+
+#### Youtube channel
+
+- https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
+- https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A
+- https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw/
+- https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
+- https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
+- [Success in Tech](https://www.youtube.com/watch?v=DSGsa0pu8-k)
+- [The Net Ninja - Best For frontend](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [techsith  - Best For frontend](https://www.youtube.com/user/techSithTube)
+- [InfoQ](https://www.youtube.com/user/MarakanaTechTV)
+
+#### Microservice
+
+- https://microservices.io/
+
+#### Python and Django Books
+
+- https://books.agiliq.com/en/latest/
+- https://highperformancedjango.com/
+- [Github - Offline books](https://github.com/goutomroy/books)
+
 
 ### Bangla Blogs
 
