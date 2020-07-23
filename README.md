@@ -151,6 +151,8 @@
 
 - #### Youtube Channel
   - [Daniel Feldroy Youtube Channel](https://www.youtube.com/channel/UCtNU6QH-S499vfgeVAeovMw)
+  - [DjangoCon US](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw)
+  - [DjangoCon Europe](https://www.youtube.com/user/djangoconeurope)
 
 - #### Blogs
 
@@ -185,10 +187,6 @@
 - #### Python/Django Documenting code
   - [RealPython - Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
 
-### PyCon/DjangoCon
-
-- https://2019.djangocon.us/
-
 
 ### Database  
 
@@ -202,7 +200,7 @@
   - https://www.dbdesigner.net/
   
 
-### Youtube channel
+### Youtube Channel
 
 - [Education 4u - For Computer Science student](https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A)
 - [Gate Smashers - For Computer Science student](https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw/)
@@ -268,7 +266,7 @@
 * https://wsvincent.com/best-python-podcasts/
 
 
-### Authorization
+### Authentication & Authorization
 
 - [OAuth 2 Simplified - Best simplified article](https://aaronparecki.com/oauth-2-simplified/)
 - [Django OAuth Toolkit](https://django-oauth-toolkit.readthedocs.io/en/latest/glossary.html#term-authorization-server)
