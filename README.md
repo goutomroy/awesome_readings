@@ -115,14 +115,14 @@
   - [Django null & blank](https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django?rq=1)
   - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
 
-  ### Project Life Cycle
+  #### Project Life Cycle
   - http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application
   - https://learnbatta.com/blog/understanding-request-response-lifecycle-in-django-29/
   - https://django-easy-tutorial.blogspot.com/2017/03/django-request-lifecycle.html
   - [WSGI Servers](https://www.fullstackpython.com/wsgi-servers.html)
 
 
-  ### Django apps finder and comparison
+  #### Django apps finder and comparison
   - [Django Packages](https://djangopackages.org/grids/g/relationships/)
   
 
