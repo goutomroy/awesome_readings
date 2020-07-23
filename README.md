@@ -64,29 +64,15 @@
 - https://highperformancedjango.com/
 - [Github - Offline books](https://github.com/goutomroy/books)
 
-#### Django Project Life Cycle
-
-- http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application
-- https://learnbatta.com/blog/understanding-request-response-lifecycle-in-django-29/
-- https://django-easy-tutorial.blogspot.com/2017/03/django-request-lifecycle.html
-- [WSGI Servers](https://www.fullstackpython.com/wsgi-servers.html)
-
-#### Django apps finder and comparison
-
-- [Django Packages](https://djangopackages.org/grids/g/relationships/)
-
-#### Django Best Practices
+### Django Best Practices
 
 - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
 - [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
 - [Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/)
 - [MailHog Tutorial](https://blog.mailtrap.io/mailhog-explained/)
 - [Safe Email Testing for Staging & Development](https://mailtrap.io/?_ga=2.7032114.1689485353.1590460844-2033176224.1590460844)
-- [The complete django-allauth guide](https://dev.to/gajesh/the-complete-django-allauth-guide-la3)
 - [Compress images in django](https://dev.to/gajesh/compress-images-in-django-3la8)
 - [Django Slug Tutorial - switch from ids to slugs in URLs](https://learndjango.com/tutorials/django-slug-tutorial)
-- [Multiple User Types | Django](https://www.youtube.com/watch?v=f0hdXr2MOEA&feature=youtu.be&fbclid=IwAR0SybikQzpP9jO-6AsXwTK8QkP_r1EebqSAlRYsKCdU5ouvw0gsje3Oyvw)
-- [Referencing the User Model](https://learndjango.com/tutorials/django-best-practices-referencing-user-model)
 - [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
 - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
 
@@ -103,6 +89,12 @@
   - [DRF View Cheatsheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
   - [DjangoCon 2019 - Django REST Framework: Taking your API to the next level by Carlos Martinez](https://www.youtube.com/watch?v=695y8rdHsA4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2&t=39s)
   - [A few remarks on the DRF](https://gist.github.com/egasimus/6095421)
+
+
+  #### Authorization
+  - [Multiple User Types | Django](https://www.youtube.com/watch?v=f0hdXr2MOEA&feature=youtu.be&fbclid=IwAR0SybikQzpP9jO-6AsXwTK8QkP_r1EebqSAlRYsKCdU5ouvw0gsje3Oyvw)
+  - [Referencing the User Model](https://learndjango.com/tutorials/django-best-practices-referencing-user-model)
+  - [The complete django-allauth guide](https://dev.to/gajesh/the-complete-django-allauth-guide-la3)
 
 
   #### Database
@@ -123,14 +115,26 @@
   - [Django null & blank](https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django?rq=1)
   - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
 
+  ### Project Life Cycle
+  - http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application
+  - https://learnbatta.com/blog/understanding-request-response-lifecycle-in-django-29/
+  - https://django-easy-tutorial.blogspot.com/2017/03/django-request-lifecycle.html
+  - [WSGI Servers](https://www.fullstackpython.com/wsgi-servers.html)
+
+
+  ### Django apps finder and comparison
+  - [Django Packages](https://djangopackages.org/grids/g/relationships/)
+  
 
   #### Search
   - [DjangoCon 2019 - Search From the Ground Up by William S. Vincent](https://learndjango.com/tutorials/django-search-tutorial)
   
+
   #### Logging
   - [Python logging Architecture](https://www.techatbloomberg.com/blog/guide-logging-python/)
   - [Django logging](https://www.youtube.com/watch?v=-vVml7cpWzY)
   
+
   #### Testing
   - [TDDD](https://test-driven-django-development.readthedocs.io/en/latest/index.html)
   - [Django Testing](https://www.vinta.com.br/blog/category/tests/)
@@ -139,10 +143,11 @@
   - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
   - [Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
   
-  #### Caching
-  - [Caching in Django With Redis](https://realpython.com/caching-in-django-with-redis/)
-  - [Caching in Django](https://testdriven.io/blog/django-caching/)
+  #### Caching & Benchmarking
+  - [Caching and benchmarking in Django With Redis](https://realpython.com/caching-in-django-with-redis/)
+  - [Caching and benchmarking in Django](https://testdriven.io/blog/django-caching/)
   - [Django caching best practices](https://dizballanze.com/django-project-optimization-part-3/)
+  - [Load Testing a Django Application using LocustIO](https://dev.to/apcelent/load-testing-a-django-application-using-locustio-1hd0)
 
   #### Django third party packages
 
