@@ -1,6 +1,6 @@
 
 
-### Django Best Practices
+### Django
 
 - #### Awesome
 
