@@ -33,23 +33,24 @@
 
 
 - #### Database
-  - [Official Django Database access optimization](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
-  - [Django queries optimization](https://www.youtube.com/watch?v=qDyxmgWkjvI)
-  - [Django ORM Optimization Tips](https://concisecoder.io/2018/11/04/django-orm-optimization-tips/)
-  - [9 Django Tips for Working with Databases](https://hakibenita.com/9-django-tips-for-working-with-databases)
-  - [Advanced Django querying: sorting events by date](https://www.vinta.com.br/blog/2017/advanced-django-querying-sorting-events-date/)
-  - [The Dramatic Benefits of Django Subqueries and Annotations](https://medium.com/@hansonkd/the-dramatic-benefits-of-django-subqueries-and-annotations-4195e0dafb16)
-  - [Designing Better Models](https://simpleisbetterthancomplex.com/tips/2018/02/10/django-tip-22-designing-better-models.html)
-  - [Django Best Practices: Models](https://learndjango.com/tutorials/django-best-practices-models)
-  - [Best practices working with Django models](https://steelkiwi.com/blog/best-practices-working-django-models-python/)
-  - [Model inheritance](https://realpython.com/modeling-polymorphism-django-python/)
-  - [Django Patterns: Model Inheritance](https://charlesleifer.com/blog/django-patterns-model-inheritance/)
-  - [Describing Relationships: Django's ManyToMany Through](https://charlesleifer.com/blog/describing-relationships-djangos-manytomany-through/)
-  - [Avoid Memory Issues with Django’s bulk_create](https://concisecoder.io/2019/04/19/avoid-memory-issues-with-djangos-bulk_create/)
-  - [Weird and Wonderful things to do with the ORM](https://www.youtube.com/watch?v=aDt4gu99_bE)
-  - [DjangoCon 2019 - Building effective Django queries with expressions ](https://www.youtube.com/watch?v=a-sfr6y_hY8&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=10&t=1345s)
-  - [Django null & blank](https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django?rq=1)
-  - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
+  - ##### Postgres
+    - [Official Django Database access optimization](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
+    - [Django queries optimization](https://www.youtube.com/watch?v=qDyxmgWkjvI)
+    - [Django ORM Optimization Tips](https://concisecoder.io/2018/11/04/django-orm-optimization-tips/)
+    - [9 Django Tips for Working with Databases](https://hakibenita.com/9-django-tips-for-working-with-databases)
+    - [Advanced Django querying: sorting events by date](https://www.vinta.com.br/blog/2017/advanced-django-querying-sorting-events-date/)
+    - [The Dramatic Benefits of Django Subqueries and Annotations](https://medium.com/@hansonkd/the-dramatic-benefits-of-django-subqueries-and-annotations-4195e0dafb16)
+    - [Designing Better Models](https://simpleisbetterthancomplex.com/tips/2018/02/10/django-tip-22-designing-better-models.html)
+    - [Django Best Practices: Models](https://learndjango.com/tutorials/django-best-practices-models)
+    - [Best practices working with Django models](https://steelkiwi.com/blog/best-practices-working-django-models-python/)
+    - [Model inheritance](https://realpython.com/modeling-polymorphism-django-python/)
+    - [Django Patterns: Model Inheritance](https://charlesleifer.com/blog/django-patterns-model-inheritance/)
+    - [Describing Relationships: Django's ManyToMany Through](https://charlesleifer.com/blog/describing-relationships-djangos-manytomany-through/)
+    - [Avoid Memory Issues with Django’s bulk_create](https://concisecoder.io/2019/04/19/avoid-memory-issues-with-djangos-bulk_create/)
+    - [Weird and Wonderful things to do with the ORM](https://www.youtube.com/watch?v=aDt4gu99_bE)
+    - [DjangoCon 2019 - Building effective Django queries with expressions ](https://www.youtube.com/watch?v=a-sfr6y_hY8&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=10&t=1345s)
+    - [Django null & blank](https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django?rq=1)
+    - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
 
   
 - #### Testing
