@@ -105,7 +105,7 @@
   - [celery beat docker](https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/)
 
 
-- #### Essesential 3rd party packages
+- #### Essential 3rd party packages
 
   - [django-cacheops](https://github.com/Suor/django-cacheops)
   - [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
