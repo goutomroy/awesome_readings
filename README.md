@@ -326,23 +326,16 @@
 
 - #### Youtube Channel
   - [Tech Dummies - Complete, vast, dedicated System Design youtube channel](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
-  - [Success in Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw)
-  - [Gaurav Sen - good system desing](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
-  - [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
-  - [Channel for system design](https://www.youtube.com/c/ThinkSoftware/videos)
+  - [Gaurav Sen - System Design](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+  - [Think Software - Distributed system design](https://www.youtube.com/c/ThinkSoftware/videos)
   - [AfterAcademy - System Design](https://www.youtube.com/playlist?list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA)
   - [Tech Primers](https://www.youtube.com/c/TechPrimers/featured)
+  - [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
+  - [Success in Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw)
 
 - #### Microservice
   - https://microservices.io/
 
-
-- #### Miscellaneous 
-  - [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
-  - [Polling vs WebSockets vs Socket.IO (Simple Explanation)](https://www.youtube.com/watch?v=sUEq35F-ELY&list=LL0r4B7591lSGuLvLMHoUf4g&index=3&t=0s)
-  - [What are WebSockets | How is it different from HTTP?](https://www.youtube.com/watch?v=i5OVcTdt_OU)
-  - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
-  
 - #### Computer Networks
   - [Computer Networks  - Gate Smasher](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
   - [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
@@ -354,3 +347,9 @@
   - [How a DNS Server (Domain Name System) works.](https://www.youtube.com/watch?v=mpQZVYPuDGU)
   - [DNS (Domain Name System) - Explained , Types of Domain Name Servers | How DNS works](https://www.youtube.com/watch?v=JkEYOt08-rU)
 
+
+- #### Miscellaneous 
+  - [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
+  - [Polling vs WebSockets vs Socket.IO (Simple Explanation)](https://www.youtube.com/watch?v=sUEq35F-ELY&list=LL0r4B7591lSGuLvLMHoUf4g&index=3&t=0s)
+  - [What are WebSockets | How is it different from HTTP?](https://www.youtube.com/watch?v=i5OVcTdt_OU)
+  - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
