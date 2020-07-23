@@ -80,9 +80,8 @@
   - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
 
 
-  #### Optimization
+  #### Overall Project Optimization
   - [Official Django Performance and optimization](https://docs.djangoproject.com/en/3.0/topics/performance/)
-  - [Official Django Database access optimization](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
   - [Django project optimization guide](https://dizballanze.com/)
 
 
@@ -102,6 +101,7 @@
 
 
   #### Database
+  - [Official Django Database access optimization](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
   - [Django queries optimization](https://www.youtube.com/watch?v=qDyxmgWkjvI)
   - [Django ORM Optimization Tips](https://concisecoder.io/2018/11/04/django-orm-optimization-tips/)
   - [9 Django Tips for Working with Databases](https://hakibenita.com/9-django-tips-for-working-with-databases)
