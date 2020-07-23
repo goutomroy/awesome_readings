@@ -1,12 +1,7 @@
-#### Awesome Django
+### Miscellaneous Awesome
+  - https://project-awesome.org/
 
-- [Awesome Django](https://github.com/wsvincent/awesome-django)
-- [Awesome Django REST Framework](https://github.com/nioperas06/awesome-django-rest-framework)
-- [drf-cheat-sheet](https://github.com/Nifled/drf-cheat-sheet#serialization)
-- [drf-cheat-sheet-pdf](cgthayer-drf-cheatsheet-v1.pdf)
-- https://project-awesome.org/
-
-#### Awesome Postgres
+#### Postgres
 
 - https://malisper.me/category/postgres/
 - https://github.com/dhamaniasad/awesome-postgres#resources
@@ -65,6 +60,15 @@
 - [Github - Offline books](https://github.com/goutomroy/books)
 
 ### Django Best Practices
+
+  #### Awesome
+
+  - [Awesome Django](https://github.com/wsvincent/awesome-django)
+  - [Awesome Django REST Framework](https://github.com/nioperas06/awesome-django-rest-framework)
+  - [drf-cheat-sheet](https://github.com/Nifled/drf-cheat-sheet)
+  - [drf-cheat-sheet](http://thayer.b2si.com/drf.html)
+  - [DRF view - Cheat-Sheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
+
 
   #### Miscellaneous
   - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
