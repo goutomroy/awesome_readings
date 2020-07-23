@@ -6,9 +6,6 @@
 
   - [Awesome Django](https://github.com/wsvincent/awesome-django)
   - [Awesome Django REST Framework](https://github.com/nioperas06/awesome-django-rest-framework)
-  - [drf-cheat-sheet](https://github.com/Nifled/drf-cheat-sheet)
-  - [drf-cheat-sheet](http://thayer.b2si.com/drf.html)
-  - [DRF view - Cheat-Sheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
 
 
 - #### Overall Project Optimization
@@ -23,6 +20,9 @@
   - [DRF View Cheatsheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
   - [DjangoCon 2019 - Django REST Framework: Taking your API to the next level by Carlos Martinez](https://www.youtube.com/watch?v=695y8rdHsA4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2&t=39s)
   - [A few remarks on the DRF](https://gist.github.com/egasimus/6095421)
+  - [drf-cheat-sheet](https://github.com/Nifled/drf-cheat-sheet)
+  - [drf-cheat-sheet](http://thayer.b2si.com/drf.html)
+  - [DRF view - Cheat-Sheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
 
 
 - #### Authentication, Authorization, User Management
@@ -209,10 +209,6 @@
 - [TechLead- motivational videos for coders](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
 - [InfoQ](https://www.youtube.com/user/MarakanaTechTV)
 
-### Microservice
-
-- https://microservices.io/
-
 
 ### Bangla Blogs
 
@@ -337,7 +333,11 @@
   - [AfterAcademy - System Design](https://www.youtube.com/playlist?list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA)
   - [Tech Primers](https://www.youtube.com/c/TechPrimers/featured)
 
-- #### System Design Miscellaneous 
+- #### Microservice
+  - https://microservices.io/
+
+
+- #### Miscellaneous 
   - [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
   - [Polling vs WebSockets vs Socket.IO (Simple Explanation)](https://www.youtube.com/watch?v=sUEq35F-ELY&list=LL0r4B7591lSGuLvLMHoUf4g&index=3&t=0s)
   - [What are WebSockets | How is it different from HTTP?](https://www.youtube.com/watch?v=i5OVcTdt_OU)
