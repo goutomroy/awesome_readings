@@ -146,7 +146,7 @@
   - [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
   - [Configuring Django Settings: Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/)
 
-#### Python and Django Blogs
+### Python and Django Blogs
 
 - https://realpython.com/
 - https://pymotw.com/3/
@@ -169,15 +169,33 @@
 - [Estimating the Effort of Development of a Django Application](https://simpleisbetterthancomplex.com/article/2016/10/03/effort-estimation.html)
 - [Top 10 Best Websites to Learn Coding for Free!](https://www.youtube.com/watch?v=PaDVGUnOihw)
 
-#### Python/Django Documenting code
+### Python and Django Books
+
+- https://books.agiliq.com/en/latest/
+- https://highperformancedjango.com/
+- [Github - Offline books](https://github.com/goutomroy/books)
+
+### Database  
+
+- #### RDBMS
+  - https://malisper.me/category/postgres/
+  - https://github.com/dhamaniasad/awesome-postgres#resources
+  - [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
+  - [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%e0%a6%a8%e0%a6%b0%e0%a6%ae%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%9c%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c/)
+  - [Database Management System Youtube Course](https://www.youtube.com/watch?v=eYQwKi7P8MM&list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn&index=59)
+  - [Best - Database Management System Youtube Course](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
+  - https://www.dbdesigner.net/
+  
+
+### Python/Django Documenting code
 
 - [RealPython - Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
 
-#### PyCon/DjangoCon
+### PyCon/DjangoCon
 
 - https://2019.djangocon.us/
 
-#### Youtube channel
+### Youtube channel
 
 - https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
 - https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A
@@ -189,15 +207,9 @@
 - [techsith  - Best For frontend](https://www.youtube.com/user/techSithTube)
 - [InfoQ](https://www.youtube.com/user/MarakanaTechTV)
 
-#### Microservice
+### Microservice
 
 - https://microservices.io/
-
-#### Python and Django Books
-
-- https://books.agiliq.com/en/latest/
-- https://highperformancedjango.com/
-- [Github - Offline books](https://github.com/goutomroy/books)
 
 
 ### Bangla Blogs
@@ -246,17 +258,6 @@
 - [Valaxy Technologies](https://www.youtube.com/channel/UC_evcfxhjjui5hChhLE08tQ)
 
 
-### Database  
-
-- #### RDBMS
-  - https://malisper.me/category/postgres/
-  - https://github.com/dhamaniasad/awesome-postgres#resources
-  - [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
-  - [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%e0%a6%a8%e0%a6%b0%e0%a6%ae%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%9c%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c/)
-  - [Database Management System Youtube Course](https://www.youtube.com/watch?v=eYQwKi7P8MM&list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn&index=59)
-  - [Best - Database Management System Youtube Course](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
-  - https://www.dbdesigner.net/
-
 ### Miscellaneous
 - [How code compilation works](https://www.youtube.com/playlist?list=PLTd6ceoshpreZuklA7RBMubSmhE0OHWh)
 - https://project-awesome.org/
@@ -276,6 +277,31 @@
 - [OAuth terminologies and flows explained - 1](https://www.youtube.com/watch?v=t4-416mg6iU)
 - [OAuth terminologies and flows explained - 2](https://www.youtube.com/watch?v=3pZ3Nh8tgTE)
 - [What is JWT authorization really about](https://www.youtube.com/watch?v=soGRyl9ztjI)
+
+
+### Bootstrap
+- [bootstrap course](https://www.codingforentrepreneurs.com/projects/bootstrap-basics-v4-3)
+
+### ReactJs
+* [gitbook-react-bits](https://vasanthk.gitbooks.io/react-bits/)
+* [Road to learn react - book](https://www.robinwieruch.de/the-road-to-learn-react)
+* [List of courses](https://reactjs.org/community/courses.html)
+* [free full course](https://scrimba.com/g/glearnreact)
+* [Complete React Tutorial (& Redux ) - youtube course](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=2&t=0s)
+* [vs code setup for reactjs](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
+* [React Redux Tutorial for Beginners: The Complete Guide (2020)](https://www.valentinog.com/blog/redux/)
+* [Using Redux with React: Complete Tutorial with Real-World Examples](https://www.taniarascia.com/redux-react-guide/)
+* [Modern React Redux Tutorials with Redux toolkit - 2020](https://dev.to/ganeshmani/modern-react-redux-tutorials-with-redux-toolkit-2020-2b6)
+* [The Missing Instruction Manuals of the Web](https://www.taniarascia.com/blog/)
+* [Authentication on the Client Side the Right Way: Cookies vs. Local Storage](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/)
+* [Youtube Redux-Toolkit Course](https://www.youtube.com/watch?v=bxmFttvj-Mk&list=PLfNd7po_IV0GTfQb8RJirrt83BFMF-Lj0)
+* [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+
+
+### Hosting
+* https://hostadvice.com/hosting-services/cheap-web-hosting/
+* https://hostingpill.com/free-vps-hosting/
+* https://www.hostingadvice.com/how-to/free-vps-hosting/
 
 ### System Design
 
@@ -314,27 +340,3 @@
   - [How a DNS Server (Domain Name System) works.](https://www.youtube.com/watch?v=mpQZVYPuDGU)
   - [DNS (Domain Name System) - Explained , Types of Domain Name Servers | How DNS works](https://www.youtube.com/watch?v=JkEYOt08-rU)
 
-
-### Bootstrap
-- [bootstrap course](https://www.codingforentrepreneurs.com/projects/bootstrap-basics-v4-3)
-
-### ReactJs
-* [gitbook-react-bits](https://vasanthk.gitbooks.io/react-bits/)
-* [Road to learn react - book](https://www.robinwieruch.de/the-road-to-learn-react)
-* [List of courses](https://reactjs.org/community/courses.html)
-* [free full course](https://scrimba.com/g/glearnreact)
-* [Complete React Tutorial (& Redux ) - youtube course](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=2&t=0s)
-* [vs code setup for reactjs](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
-* [React Redux Tutorial for Beginners: The Complete Guide (2020)](https://www.valentinog.com/blog/redux/)
-* [Using Redux with React: Complete Tutorial with Real-World Examples](https://www.taniarascia.com/redux-react-guide/)
-* [Modern React Redux Tutorials with Redux toolkit - 2020](https://dev.to/ganeshmani/modern-react-redux-tutorials-with-redux-toolkit-2020-2b6)
-* [The Missing Instruction Manuals of the Web](https://www.taniarascia.com/blog/)
-* [Authentication on the Client Side the Right Way: Cookies vs. Local Storage](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/)
-* [Youtube Redux-Toolkit Course](https://www.youtube.com/watch?v=bxmFttvj-Mk&list=PLfNd7po_IV0GTfQb8RJirrt83BFMF-Lj0)
-* [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-
-
-### Hosting
-* https://hostadvice.com/hosting-services/cheap-web-hosting/
-* https://hostingpill.com/free-vps-hosting/
-* https://www.hostingadvice.com/how-to/free-vps-hosting/
