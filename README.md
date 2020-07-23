@@ -311,7 +311,7 @@
 
 - #### Courses & Blogs
   - [Donne Martin - The System Design Primer](https://github.com/donnemartin/system-design-primer)
-  - [Tech Dummies - Complete, vast, dedicated System Design youtube channel](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+
   - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 
   - [Grokking the Object Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424)
@@ -322,6 +322,7 @@
   - [High Scalability](http://highscalability.com/)
 
 - #### Youtube
+  - [Tech Dummies - Complete, vast, dedicated System Design youtube channel](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
   - [Success in Tech - showing how to design full system](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
   - [Gaurav Sen - good system desing](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
   - [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
