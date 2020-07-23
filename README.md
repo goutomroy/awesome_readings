@@ -50,27 +50,7 @@
   - [Django null & blank](https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django?rq=1)
   - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
 
-
-- #### Email
-  - [MailHog Tutorial](https://blog.mailtrap.io/mailhog-explained/)
-  - [Safe Email Testing for Staging & Development](https://mailtrap.io/?_ga=2.7032114.1689485353.1590460844-2033176224.1590460844)
   
-
-- #### Life Cycle
-  - http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application
-  - https://learnbatta.com/blog/understanding-request-response-lifecycle-in-django-29/
-  - https://django-easy-tutorial.blogspot.com/2017/03/django-request-lifecycle.html
-  - [WSGI Servers](https://www.fullstackpython.com/wsgi-servers.html)
-
-- #### Search
-  - [DjangoCon 2019 - Search From the Ground Up by William S. Vincent](https://learndjango.com/tutorials/django-search-tutorial)
-  
-
-- #### Logging
-  - [Python logging Architecture](https://www.techatbloomberg.com/blog/guide-logging-python/)
-  - [Django logging](https://www.youtube.com/watch?v=-vVml7cpWzY)
-  
-
 - #### Testing
   - [TDDD](https://test-driven-django-development.readthedocs.io/en/latest/index.html)
   - [Django Testing](https://www.vinta.com.br/blog/category/tests/)
@@ -85,28 +65,24 @@
   - [Django caching best practices](https://dizballanze.com/django-project-optimization-part-3/)
   - [Load Testing a Django Application using LocustIO](https://dev.to/apcelent/load-testing-a-django-application-using-locustio-1hd0)
 
-- #### 3rd party packages
 
-  - [django-cacheops](https://github.com/Suor/django-cacheops)
-  - [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
-  - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
-  - [django-hosts](https://github.com/jazzband/django-hosts)
-  - [django-redis](https://github.com/niwinz/django-redis)  
+- #### Life Cycle
+  - http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application
+  - https://learnbatta.com/blog/understanding-request-response-lifecycle-in-django-29/
+  - https://django-easy-tutorial.blogspot.com/2017/03/django-request-lifecycle.html
+  - [WSGI Servers](https://www.fullstackpython.com/wsgi-servers.html)
 
-- #### 3rd party apps finder and comparison  
-  - [Django Packages](https://djangopackages.org/grids/g/relationships/)
+- #### Search
+  - [DjangoCon 2019 - Search From the Ground Up by William S. Vincent](https://learndjango.com/tutorials/django-search-tutorial)
 
-- #### Projects to follow for code structures  
-  - [MicroPyramid/django-blog-it](https://github.com/MicroPyramid/django-blog-it)
-  - [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
-    - [Apps list](https://pinaxproject.com/pinax/pinax_apps/)
-    - [Github - includes sources with demo](https://github.com/pinax)
-  - https://github.com/wsvincent/restapiswithdjango
-  - https://github.com/wsvincent?tab=repositories
-  - https://github.com/justdjango
-  - https://www.codingforentrepreneurs.com/projects/
+- #### Logging
+  - [Python logging Architecture](https://www.techatbloomberg.com/blog/guide-logging-python/)
+  - [Django logging](https://www.youtube.com/watch?v=-vVml7cpWzY)
   
-
+- #### Email
+  - [MailHog Tutorial](https://blog.mailtrap.io/mailhog-explained/)
+  - [Safe Email Testing for Staging & Development](https://mailtrap.io/?_ga=2.7032114.1689485353.1590460844-2033176224.1590460844)
+  
 - #### Channel
   - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
   - [Just Add Await: Retrofitting Async Into Django](https://www.youtube.com/watch?v=oMHrDy62kgE)
@@ -127,6 +103,28 @@
   - https://hackernoon.com/using-celery-with-multiple-queues-retries-and-scheduled-tasks-589fe9a4f9ba
   - https://medium.com/@taylorhughes/three-quick-tips-from-two-years-with-celery-c05ff9d7f9eb
   - [celery beat docker](https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/)
+
+
+- #### 3rd party packages
+
+  - [django-cacheops](https://github.com/Suor/django-cacheops)
+  - [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
+  - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
+  - [django-hosts](https://github.com/jazzband/django-hosts)
+  - [django-redis](https://github.com/niwinz/django-redis)  
+  
+- #### 3rd party apps finder and comparison  
+  - [Django Packages](https://djangopackages.org/grids/g/relationships/)
+
+- #### Projects to follow for code structures  
+  - [MicroPyramid/django-blog-it](https://github.com/MicroPyramid/django-blog-it)
+  - [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
+    - [Apps list](https://pinaxproject.com/pinax/pinax_apps/)
+    - [Github - includes sources with demo](https://github.com/pinax)
+  - https://github.com/wsvincent/restapiswithdjango
+  - https://github.com/wsvincent?tab=repositories
+  - https://github.com/justdjango
+  - https://www.codingforentrepreneurs.com/projects/
 
 - #### Dockerization
 
