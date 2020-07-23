@@ -77,51 +77,60 @@
 
 #### Django Best Practices
 
-- [Official Django Performance and optimization](https://docs.djangoproject.com/en/3.0/topics/performance/)
-- [Official Django Database access optimization](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
-- [Django project optimization guide](https://dizballanze.com/)
 - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
-- [9 Django Tips for Working with Databases](https://hakibenita.com/9-django-tips-for-working-with-databases)
-- [Advanced Django querying: sorting events by date](https://www.vinta.com.br/blog/2017/advanced-django-querying-sorting-events-date/)
-- [The Dramatic Benefits of Django Subqueries and Annotations](https://medium.com/@hansonkd/the-dramatic-benefits-of-django-subqueries-and-annotations-4195e0dafb16)
 - [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
-- [How to Optimize Your Django REST Viewsets](https://concisecoder.io/2018/12/23/how-to-optimize-your-django-rest-viewsets/)
-- [Avoid Memory Issues with Django’s bulk_create](https://concisecoder.io/2019/04/19/avoid-memory-issues-with-djangos-bulk_create/)
-- [Normalize Your Django REST Serializers](https://concisecoder.io/2018/11/17/normalize-your-django-rest-serializers/)
-- [Django ORM Optimization Tips](https://concisecoder.io/2018/11/04/django-orm-optimization-tips/)
-- [Weird and Wonderful things to do with the ORM](https://www.youtube.com/watch?v=aDt4gu99_bE)
-- [DjangoCon 2019 - Building effective Django queries with expressions ](https://www.youtube.com/watch?v=a-sfr6y_hY8&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=10&t=1345s)
-- [DjangoCon 2019 - Django REST Framework: Taking your API to the next level by Carlos Martinez](https://www.youtube.com/watch?v=695y8rdHsA4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2&t=39s)
-- [Django queries optimization](https://www.youtube.com/watch?v=qDyxmgWkjvI)
-- [A few remarks on the DRF](https://gist.github.com/egasimus/6095421)
-- [Django null & blank](https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django?rq=1)
-- [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
-- [Python logging Architecture](https://www.techatbloomberg.com/blog/guide-logging-python/)
-- [10 things you need to know to effectively use Django Rest Framework](https://medium.com/profil-software-blog/10-things-you-need-to-know-to-effectively-use-django-rest-framework-7db7728910e0)
-- [DRF View Cheatsheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
-- [Django logging](https://www.youtube.com/watch?v=-vVml7cpWzY)
 - [Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/)
 - [MailHog Tutorial](https://blog.mailtrap.io/mailhog-explained/)
 - [Safe Email Testing for Staging & Development](https://mailtrap.io/?_ga=2.7032114.1689485353.1590460844-2033176224.1590460844)
 - [The complete django-allauth guide](https://dev.to/gajesh/the-complete-django-allauth-guide-la3)
 - [Compress images in django](https://dev.to/gajesh/compress-images-in-django-3la8)
-- [DjangoCon 2019 - Search From the Ground Up by William S. Vincent](https://learndjango.com/tutorials/django-search-tutorial)
-- [Designing Better Models](https://simpleisbetterthancomplex.com/tips/2018/02/10/django-tip-22-designing-better-models.html)
-- [Django Best Practices: Models](https://learndjango.com/tutorials/django-best-practices-models)
-- [Best practices working with Django models](https://steelkiwi.com/blog/best-practices-working-django-models-python/)
 - [Django Slug Tutorial - switch from ids to slugs in URLs](https://learndjango.com/tutorials/django-slug-tutorial)
-- [Model inheritance](https://realpython.com/modeling-polymorphism-django-python/)
-- [Django Patterns: Model Inheritance](https://charlesleifer.com/blog/django-patterns-model-inheritance/)
-- [Describing Relationships: Django's ManyToMany Through](https://charlesleifer.com/blog/describing-relationships-djangos-manytomany-through/)
 - [Multiple User Types | Django](https://www.youtube.com/watch?v=f0hdXr2MOEA&feature=youtu.be&fbclid=IwAR0SybikQzpP9jO-6AsXwTK8QkP_r1EebqSAlRYsKCdU5ouvw0gsje3Oyvw)
 - [Referencing the User Model](https://learndjango.com/tutorials/django-best-practices-referencing-user-model)
 - [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
 - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
 
-  #### Channel
-  - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
-  - [Just Add Await: Retrofitting Async Into Django](https://www.youtube.com/watch?v=oMHrDy62kgE)
 
+  #### Optimization
+  - [Official Django Performance and optimization](https://docs.djangoproject.com/en/3.0/topics/performance/)
+  - [Official Django Database access optimization](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
+  - [Django project optimization guide](https://dizballanze.com/)
+
+  #### DRF
+  - [How to Optimize Your Django REST Viewsets](https://concisecoder.io/2018/12/23/how-to-optimize-your-django-rest-viewsets/)
+  - [Normalize Your Django REST Serializers](https://concisecoder.io/2018/11/17/normalize-your-django-rest-serializers/)
+  - [10 things you need to know to effectively use Django Rest Framework](https://medium.com/profil-software-blog/10-things-you-need-to-know-to-effectively-use-django-rest-framework-7db7728910e0)
+  - [DRF View Cheatsheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
+  - [DjangoCon 2019 - Django REST Framework: Taking your API to the next level by Carlos Martinez](https://www.youtube.com/watch?v=695y8rdHsA4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2&t=39s)
+  - [A few remarks on the DRF](https://gist.github.com/egasimus/6095421)
+
+
+  #### Database
+  - [Django queries optimization](https://www.youtube.com/watch?v=qDyxmgWkjvI)
+  - [Django ORM Optimization Tips](https://concisecoder.io/2018/11/04/django-orm-optimization-tips/)
+  - [9 Django Tips for Working with Databases](https://hakibenita.com/9-django-tips-for-working-with-databases)
+  - [Advanced Django querying: sorting events by date](https://www.vinta.com.br/blog/2017/advanced-django-querying-sorting-events-date/)
+  - [The Dramatic Benefits of Django Subqueries and Annotations](https://medium.com/@hansonkd/the-dramatic-benefits-of-django-subqueries-and-annotations-4195e0dafb16)
+  - [Designing Better Models](https://simpleisbetterthancomplex.com/tips/2018/02/10/django-tip-22-designing-better-models.html)
+  - [Django Best Practices: Models](https://learndjango.com/tutorials/django-best-practices-models)
+  - [Best practices working with Django models](https://steelkiwi.com/blog/best-practices-working-django-models-python/)
+  - [Model inheritance](https://realpython.com/modeling-polymorphism-django-python/)
+  - [Django Patterns: Model Inheritance](https://charlesleifer.com/blog/django-patterns-model-inheritance/)
+  - [Describing Relationships: Django's ManyToMany Through](https://charlesleifer.com/blog/describing-relationships-djangos-manytomany-through/)
+  - [Avoid Memory Issues with Django’s bulk_create](https://concisecoder.io/2019/04/19/avoid-memory-issues-with-djangos-bulk_create/)
+  - [Weird and Wonderful things to do with the ORM](https://www.youtube.com/watch?v=aDt4gu99_bE)
+  - [DjangoCon 2019 - Building effective Django queries with expressions ](https://www.youtube.com/watch?v=a-sfr6y_hY8&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=10&t=1345s)
+  - [Django null & blank](https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django?rq=1)
+  - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
+
+
+  #### Search
+  - [DjangoCon 2019 - Search From the Ground Up by William S. Vincent](https://learndjango.com/tutorials/django-search-tutorial)
+  
+  #### Logging
+  - [Python logging Architecture](https://www.techatbloomberg.com/blog/guide-logging-python/)
+  - [Django logging](https://www.youtube.com/watch?v=-vVml7cpWzY)
+  
   #### Testing
   - [TDDD](https://test-driven-django-development.readthedocs.io/en/latest/index.html)
   - [Django Testing](https://www.vinta.com.br/blog/category/tests/)
@@ -135,9 +144,30 @@
   - [Caching in Django](https://testdriven.io/blog/django-caching/)
   - [Django caching best practices](https://dizballanze.com/django-project-optimization-part-3/)
 
+  #### Django third party packages
 
+  - [django-cacheops](https://github.com/Suor/django-cacheops)
+  - [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
+  - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
+  - [django-hosts](https://github.com/jazzband/django-hosts)
+  - [django-redis](https://github.com/niwinz/django-redis)
+
+  #### Django projects to follow for code structures
+  - [MicroPyramid/django-blog-it](https://github.com/MicroPyramid/django-blog-it)
+  - [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
+    - [Apps list](https://pinaxproject.com/pinax/pinax_apps/)
+    - [Github - includes sources with demo](https://github.com/pinax)
+  - https://github.com/wsvincent/restapiswithdjango
+  - https://github.com/wsvincent?tab=repositories
+  - https://github.com/justdjango
+  - https://www.codingforentrepreneurs.com/projects/
+  
+
+  #### Channel
+  - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
+  - [Just Add Await: Retrofitting Async Into Django](https://www.youtube.com/watch?v=oMHrDy62kgE)
+  
   #### Celery
-
   - [Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
   - [List of celery tutorial](https://www.vinta.com.br/blog/category/celery/)
   - [DjangoCon US 2018 - Building Workflows With Celery](https://www.youtube.com/watch?v=8YLeWxLtVgo)
@@ -169,7 +199,7 @@
 
   - https://djangostars.com/blog/configuring-django-settings-best-practices/
 
-#### Bangla Blogs
+### Bangla Blogs
 
 - [Bangla blog list](https://github.com/me-shaon/bangla-programming-resources/blob/master/blog-list.md)
 - [Subeen vi](http://subeen.com/)
@@ -179,7 +209,7 @@
 - [Hasin haider](https://hasin.me/)
 - https://blog.howtocode.com.bd/
 
-#### Git
+### Git
 
 - [Git tutorial series](https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 - [Git tutorial in one video](https://www.youtube.com/watch?v=gwWKnnCMQ5c)
@@ -193,7 +223,7 @@
 - [Git কি এবং Git কিভাবে কাজ করে?](http://w3programmers.com/bangla/git-%e0%a6%95%e0%a6%bf-%e0%a6%8f%e0%a6%ac%e0%a6%82-git-%e0%a6%95%e0%a6%bf%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87-%e0%a6%95%e0%a6%be%e0%a6%9c-%e0%a6%95%e0%a6%b0%e0%a7%87/)
 - [Best git youtube playlist](https://www.youtube.com/watch?v=xqwoTHL6CJ0&list=PLH1ul2iNXl7vkfIFF2BxLA5xpkbvWtFWf)
 
-#### CI/CD
+### CI/CD
 
 - [Best Practices](https://buildoutcoredev.readthedocs.io/en/latest/continous-integration.html)
 - [Jenkins Youtube tutorial series](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSaisKr7OnM4Fl7JXCDDcmt)
@@ -201,7 +231,7 @@
 - [Django CD Ansible Bitbucket Pipelines](https://bitbucket.org/blog/continuous-delivery-for-django-projects-with-bitbucket-pipelines-and-ansible)
 - [Django Ansible](https://www.guguweb.com/2017/05/02/how-to-deploy-a-django-project-in-15-minutes-with-ansible/)
 
-#### Payment Gateway
+### Payment Gateway
 
 - [How to Design Payment Logic on Stripe (and Apply It)](https://www.freecodecamp.org/news/how-to-design-payment-logic-on-stripe-and-apply-it/)
 - [How Credit Card Processing Works - Transaction Cycle & 2 Pricing Models](https://www.youtube.com/watch?v=avRkRuQsZ6M)
@@ -209,28 +239,11 @@
 - [Stripe in Python, subscription explained part-1](https://medium.com/@vignesh_jeyaraman/integrating-stripe-on-backend-part-1-70c1604df5f)
 - [Stripe in Python, subscription explained part-2](https://medium.com/@vignesh_jeyaraman/integrating-stripe-on-backend-part-2-d1a6e46a1211)
 
-#### DevOps
+### DevOps
 
 - [Best channel](https://www.youtube.com/channel/UCuFg53ZTr6maqBC-4i9o4-w/playlists)
 - [Valaxy Technologies](https://www.youtube.com/channel/UC_evcfxhjjui5hChhLE08tQ)
 
-#### Django third party packages
-
-- [django-cacheops](https://github.com/Suor/django-cacheops)
-- [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
-- [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
-- [django-hosts](https://github.com/jazzband/django-hosts)
-- [django-redis](https://github.com/niwinz/django-redis)
-
-### Django projects to follow for code structures
-- [MicroPyramid/django-blog-it](https://github.com/MicroPyramid/django-blog-it)
-- [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
-  - [Apps list](https://pinaxproject.com/pinax/pinax_apps/)
-  - [Github - includes sources with demo](https://github.com/pinax)
-- https://github.com/wsvincent/restapiswithdjango
-- https://github.com/wsvincent?tab=repositories
-- https://github.com/justdjango
-- https://www.codingforentrepreneurs.com/projects/
 
 #### RDBMS
 
