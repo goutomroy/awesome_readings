@@ -307,11 +307,9 @@
   * [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 
-
-
 ### System Design
 
-- #### Courses, Blogs, Youtube Channels
+- #### Courses & Blogs
   - [Donne Martin - The System Design Primer](https://github.com/donnemartin/system-design-primer)
   - [Tech Dummies - Complete, vast, dedicated System Design youtube channel](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
   - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
@@ -320,11 +318,13 @@
   - [Algorithm and system design course - algoexpert](https://www.algoexpert.io/purchase)
   - [Grokking System Design Interview - Loaded in Github](https://github.com/lei-hsia/grokking-system-design)
   - [System Design for Tech Interviews - course](https://www.hiredintech.com/courses/system-design)
-  - [Success in Tech - showing how to design full system - youtube channel](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
-  - [Gaurav Sen - good system desing youtube channel](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
-  - [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
   - [Hiredintech - System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)
   - [High Scalability](http://highscalability.com/)
+
+- #### Youtube
+  - [Success in Tech - showing how to design full system](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
+  - [Gaurav Sen - good system desing](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+  - [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
   - [Channel for system design](https://www.youtube.com/c/ThinkSoftware/videos)
   - [AfterAcademy - System Design](https://www.youtube.com/playlist?list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA)
   - [Tech Primers](https://www.youtube.com/c/TechPrimers/featured)
