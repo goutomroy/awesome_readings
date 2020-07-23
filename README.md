@@ -204,8 +204,8 @@
 
 ### Youtube channel
 
-- [Education 4u](https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A)
-- [Gate Smashers](https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw/)
+- [Education 4u - For Computer Science student](https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A)
+- [Gate Smashers - For Computer Science student](https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw/)
 - [TechLead- motivational videos for coders](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
 - [InfoQ](https://www.youtube.com/user/MarakanaTechTV)
 
