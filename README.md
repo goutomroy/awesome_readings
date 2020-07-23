@@ -11,16 +11,6 @@
   - [DRF view - Cheat-Sheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
 
 
-- #### Miscellaneous
-  - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
-  - [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
-  - [Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/)
-  - [Compress images in django](https://dev.to/gajesh/compress-images-in-django-3la8)
-  - [Django Slug Tutorial - switch from ids to slugs in URLs](https://learndjango.com/tutorials/django-slug-tutorial)
-  - [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
-  - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
-
-
 - #### Overall Project Optimization
   - [Official Django Performance and optimization](https://docs.djangoproject.com/en/3.0/topics/performance/)
   - [Django project optimization guide](https://dizballanze.com/)
@@ -73,7 +63,7 @@
   - [WSGI Servers](https://www.fullstackpython.com/wsgi-servers.html)
 
 
-- #### Django apps finder and comparison
+- #### 3rd party apps finder and comparison
   - [Django Packages](https://djangopackages.org/grids/g/relationships/)
   
 
@@ -155,6 +145,14 @@
 
   - https://djangostars.com/blog/configuring-django-settings-best-practices/
 
+- #### Miscellaneous
+  - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
+  - [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
+  - [Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/)
+  - [Compress images in django](https://dev.to/gajesh/compress-images-in-django-3la8)
+  - [Django Slug Tutorial - switch from ids to slugs in URLs](https://learndjango.com/tutorials/django-slug-tutorial)
+  - [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
+  - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
 
 #### Python and Django Blogs
 
