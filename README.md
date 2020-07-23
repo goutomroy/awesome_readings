@@ -62,11 +62,6 @@
   - https://django-easy-tutorial.blogspot.com/2017/03/django-request-lifecycle.html
   - [WSGI Servers](https://www.fullstackpython.com/wsgi-servers.html)
 
-
-- #### 3rd party apps finder and comparison
-  - [Django Packages](https://djangopackages.org/grids/g/relationships/)
-  
-
 - #### Search
   - [DjangoCon 2019 - Search From the Ground Up by William S. Vincent](https://learndjango.com/tutorials/django-search-tutorial)
   
@@ -90,15 +85,18 @@
   - [Django caching best practices](https://dizballanze.com/django-project-optimization-part-3/)
   - [Load Testing a Django Application using LocustIO](https://dev.to/apcelent/load-testing-a-django-application-using-locustio-1hd0)
 
-- #### Django third party packages
+- #### 3rd party packages
 
   - [django-cacheops](https://github.com/Suor/django-cacheops)
   - [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
   - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
   - [django-hosts](https://github.com/jazzband/django-hosts)
-  - [django-redis](https://github.com/niwinz/django-redis)
+  - [django-redis](https://github.com/niwinz/django-redis)  
 
-- #### Django projects to follow for code structures
+- #### 3rd party apps finder and comparison  
+  - [Django Packages](https://djangopackages.org/grids/g/relationships/)
+
+- #### Projects to follow for code structures  
   - [MicroPyramid/django-blog-it](https://github.com/MicroPyramid/django-blog-it)
   - [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
     - [Apps list](https://pinaxproject.com/pinax/pinax_apps/)
