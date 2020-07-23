@@ -27,6 +27,7 @@
 
 - #### Authorization
   - [Multiple User Types | Django](https://www.youtube.com/watch?v=f0hdXr2MOEA&feature=youtu.be&fbclid=IwAR0SybikQzpP9jO-6AsXwTK8QkP_r1EebqSAlRYsKCdU5ouvw0gsje3Oyvw)
+  - [Multiple User Types With Custom Data Fields | Django](https://www.youtube.com/watch?v=V3zRZ6XRols&list=LL0r4B7591lSGuLvLMHoUf4g&index=10&t=0s)
   - [Referencing the User Model](https://learndjango.com/tutorials/django-best-practices-referencing-user-model)
   - [The complete django-allauth guide](https://dev.to/gajesh/the-complete-django-allauth-guide-la3)
 
@@ -158,6 +159,7 @@
 - https://djangotricks.blogspot.com/
 - https://concisecoder.io/
 - https://dev.to/learndjango
+- https://djangostars.com/blog/
 - [Daniel Feldroy Youtube Channel](https://www.youtube.com/channel/UCtNU6QH-S499vfgeVAeovMw)
 - [codingforentrepreneurs various django project free courses](https://www.codingforentrepreneurs.com/projects)
 - [Learn Django - William Vincent](https://learndjango.com/tutorials/)
@@ -278,30 +280,34 @@
 - [OAuth terminologies and flows explained - 2](https://www.youtube.com/watch?v=3pZ3Nh8tgTE)
 - [What is JWT authorization really about](https://www.youtube.com/watch?v=soGRyl9ztjI)
 
-
-### Bootstrap
-- [bootstrap course](https://www.codingforentrepreneurs.com/projects/bootstrap-basics-v4-3)
-
-### ReactJs
-* [gitbook-react-bits](https://vasanthk.gitbooks.io/react-bits/)
-* [Road to learn react - book](https://www.robinwieruch.de/the-road-to-learn-react)
-* [List of courses](https://reactjs.org/community/courses.html)
-* [free full course](https://scrimba.com/g/glearnreact)
-* [Complete React Tutorial (& Redux ) - youtube course](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=2&t=0s)
-* [vs code setup for reactjs](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
-* [React Redux Tutorial for Beginners: The Complete Guide (2020)](https://www.valentinog.com/blog/redux/)
-* [Using Redux with React: Complete Tutorial with Real-World Examples](https://www.taniarascia.com/redux-react-guide/)
-* [Modern React Redux Tutorials with Redux toolkit - 2020](https://dev.to/ganeshmani/modern-react-redux-tutorials-with-redux-toolkit-2020-2b6)
-* [The Missing Instruction Manuals of the Web](https://www.taniarascia.com/blog/)
-* [Authentication on the Client Side the Right Way: Cookies vs. Local Storage](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/)
-* [Youtube Redux-Toolkit Course](https://www.youtube.com/watch?v=bxmFttvj-Mk&list=PLfNd7po_IV0GTfQb8RJirrt83BFMF-Lj0)
-* [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-
-
 ### Hosting
 * https://hostadvice.com/hosting-services/cheap-web-hosting/
 * https://hostingpill.com/free-vps-hosting/
 * https://www.hostingadvice.com/how-to/free-vps-hosting/
+
+
+### Frontend
+
+- #### Bootstrap
+  - [bootstrap course](https://www.codingforentrepreneurs.com/projects/bootstrap-basics-v4-3)
+
+- #### ReactJs
+  * [gitbook-react-bits](https://vasanthk.gitbooks.io/react-bits/)
+  * [Road to learn react - book](https://www.robinwieruch.de/the-road-to-learn-react)
+  * [List of courses](https://reactjs.org/community/courses.html)
+  * [free full course](https://scrimba.com/g/glearnreact)
+  * [Complete React Tutorial (& Redux ) - youtube course](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=2&t=0s)
+  * [vs code setup for reactjs](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
+  * [React Redux Tutorial for Beginners: The Complete Guide (2020)](https://www.valentinog.com/blog/redux/)
+  * [Using Redux with React: Complete Tutorial with Real-World Examples](https://www.taniarascia.com/redux-react-guide/)
+  * [Modern React Redux Tutorials with Redux toolkit - 2020](https://dev.to/ganeshmani/modern-react-redux-tutorials-with-redux-toolkit-2020-2b6)
+  * [The Missing Instruction Manuals of the Web](https://www.taniarascia.com/blog/)
+  * [Authentication on the Client Side the Right Way: Cookies vs. Local Storage](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/)
+  * [Youtube Redux-Toolkit Course](https://www.youtube.com/watch?v=bxmFttvj-Mk&list=PLfNd7po_IV0GTfQb8RJirrt83BFMF-Lj0)
+  * [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+
+
+
 
 ### System Design
 
