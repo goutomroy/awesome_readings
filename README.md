@@ -106,15 +106,13 @@
 
 
 - #### Essential 3rd party packages
-
+  - [3rd party apps finder and comparison](https://djangopackages.org/grids/g/relationships/)
   - [django-cacheops](https://github.com/Suor/django-cacheops)
   - [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
   - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
   - [django-hosts](https://github.com/jazzband/django-hosts)
   - [django-redis](https://github.com/niwinz/django-redis)  
   
-- #### 3rd party apps finder and comparison  
-  - [Django Packages](https://djangopackages.org/grids/g/relationships/)
 
 - #### Projects to follow for code structures  
   - [MicroPyramid/django-blog-it](https://github.com/MicroPyramid/django-blog-it)
