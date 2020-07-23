@@ -34,7 +34,7 @@
 
 - ### Database
   
-  - #### ORM
+  - #### RDBMS
     - [Official Django Database access optimization](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
     - [Django queries optimization](https://www.youtube.com/watch?v=qDyxmgWkjvI)
     - [Django ORM Optimization Tips](https://concisecoder.io/2018/11/04/django-orm-optimization-tips/)
