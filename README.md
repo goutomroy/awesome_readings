@@ -88,6 +88,25 @@
   - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
   - [Just Add Await: Retrofitting Async Into Django](https://www.youtube.com/watch?v=oMHrDy62kgE)
   
+- #### Blogs
+
+  - [realpython](https://realpython.com/)
+  - [hakibenita](https://hakibenita.com/)
+  - [overiq](https://overiq.com/django-1-11/)
+  - [simpleisbetterthancomplex](https://simpleisbetterthancomplex.com/)
+  - [fullstackpython](https://www.fullstackpython.com/)
+  - [djangotricks](https://djangotricks.blogspot.com/)
+  - [concisecoder](https://concisecoder.io/)
+  - [dev.to/learndjango](https://dev.to/learndjango)
+  - [djangostars](https://djangostars.com/blog/)
+  - [codingforentrepreneurs various django project free courses](https://www.codingforentrepreneurs.com/projects)
+  - [Learn Django - William Vincent](https://learndjango.com/tutorials/)
+  - [wsvincent](https://wsvincent.com/)
+  - [Best Django Blog - micropyramid](https://micropyramid.com/blog/)
+  - [Vinta Django Blog](https://www.vinta.com.br/blog/)
+  - [Django Introduction & Tutorials — Long List](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
+
+
 - #### Celery
   - [Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
   - [List of celery tutorial](https://www.vinta.com.br/blog/category/celery/)
@@ -104,6 +123,18 @@
   - https://hackernoon.com/using-celery-with-multiple-queues-retries-and-scheduled-tasks-589fe9a4f9ba
   - https://medium.com/@taylorhughes/three-quick-tips-from-two-years-with-celery-c05ff9d7f9eb
   - [celery beat docker](https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/)
+
+
+- #### Miscellaneous
+  - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
+  - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
+  - [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
+  - [Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/)
+  - [Compress images in django](https://dev.to/gajesh/compress-images-in-django-3la8)
+  - [Django Slug Tutorial - switch from ids to slugs in URLs](https://learndjango.com/tutorials/django-slug-tutorial)
+  - [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
+  - [Estimating the Effort of Development of a Django Application](https://simpleisbetterthancomplex.com/article/2016/10/03/effort-estimation.html)
+  - [Configuring Django Settings: Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/)
 
 
 - #### Essential 3rd party packages
@@ -138,39 +169,11 @@
   - [Real Python Django Development with Docker Compose and Machine](https://realpython.com/django-development-with-docker-compose-and-machine/)
 
 
-- #### Miscellaneous
-  - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
-  - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
-  - [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
-  - [Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/)
-  - [Compress images in django](https://dev.to/gajesh/compress-images-in-django-3la8)
-  - [Django Slug Tutorial - switch from ids to slugs in URLs](https://learndjango.com/tutorials/django-slug-tutorial)
-  - [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
-  - [Estimating the Effort of Development of a Django Application](https://simpleisbetterthancomplex.com/article/2016/10/03/effort-estimation.html)
-  - [Configuring Django Settings: Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/)
-
 - #### Youtube Channel
   - [Daniel Feldroy Youtube Channel](https://www.youtube.com/channel/UCtNU6QH-S499vfgeVAeovMw)
   - [DjangoCon US](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw)
   - [DjangoCon Europe](https://www.youtube.com/user/djangoconeurope)
 
-- #### Blogs
-
-  - [realpython](https://realpython.com/)
-  - [hakibenita](https://hakibenita.com/)
-  - [overiq](https://overiq.com/django-1-11/)
-  - [simpleisbetterthancomplex](https://simpleisbetterthancomplex.com/)
-  - [fullstackpython](https://www.fullstackpython.com/)
-  - [djangotricks](https://djangotricks.blogspot.com/)
-  - [concisecoder](https://concisecoder.io/)
-  - [dev.to/learndjango](https://dev.to/learndjango)
-  - [djangostars](https://djangostars.com/blog/)
-  - [codingforentrepreneurs various django project free courses](https://www.codingforentrepreneurs.com/projects)
-  - [Learn Django - William Vincent](https://learndjango.com/tutorials/)
-  - [wsvincent](https://wsvincent.com/)
-  - [Best Django Blog - micropyramid](https://micropyramid.com/blog/)
-  - [Vinta Django Blog](https://www.vinta.com.br/blog/)
-  - [Django Introduction & Tutorials — Long List](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
 
 - #### Books
 
