@@ -68,9 +68,9 @@
 
 
 - #### Life Cycle
-  - http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application
-  - https://learnbatta.com/blog/understanding-request-response-lifecycle-in-django-29/
-  - https://django-easy-tutorial.blogspot.com/2017/03/django-request-lifecycle.html
+  - [Understanding the request-response lifecycle of a Django web application](http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application)
+  - [Understanding The Request-Response Lifecycle In Django](https://learnbatta.com/blog/understanding-request-response-lifecycle-in-django-29/)
+  - [django request lifecycle](https://django-easy-tutorial.blogspot.com/2017/03/django-request-lifecycle.html)
   - [WSGI Servers](https://www.fullstackpython.com/wsgi-servers.html)
 
 - #### Search
