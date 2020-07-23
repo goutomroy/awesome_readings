@@ -114,55 +114,60 @@
 - [Django Patterns: Model Inheritance](https://charlesleifer.com/blog/django-patterns-model-inheritance/)
 - [Describing Relationships: Django's ManyToMany Through](https://charlesleifer.com/blog/describing-relationships-djangos-manytomany-through/)
 - [Multiple User Types | Django](https://www.youtube.com/watch?v=f0hdXr2MOEA&feature=youtu.be&fbclid=IwAR0SybikQzpP9jO-6AsXwTK8QkP_r1EebqSAlRYsKCdU5ouvw0gsje3Oyvw)
-- [Caching and performance benchmark in Django](https://testdriven.io/blog/django-caching/)
 - [Referencing the User Model](https://learndjango.com/tutorials/django-best-practices-referencing-user-model)
-- [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/#marks-categorizing-tests)
-- [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
-- [Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
 - [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
 - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
 
-### Django Channel
-- [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
-- [Just Add Await: Retrofitting Async Into Django](https://www.youtube.com/watch?v=oMHrDy62kgE)
+  #### Channel
+  - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
+  - [Just Add Await: Retrofitting Async Into Django](https://www.youtube.com/watch?v=oMHrDy62kgE)
 
-#### Django Testing
-- [TDDD](https://test-driven-django-development.readthedocs.io/en/latest/index.html)
-- [Django Testing](https://www.vinta.com.br/blog/category/tests/)
-- [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
+  #### Testing
+  - [TDDD](https://test-driven-django-development.readthedocs.io/en/latest/index.html)
+  - [Django Testing](https://www.vinta.com.br/blog/category/tests/)
+  - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
+  - [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/#marks-categorizing-tests)
+  - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
+  - [Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
+  
+  #### Caching
+  - [Caching in Django With Redis](https://realpython.com/caching-in-django-with-redis/)
+  - [Caching in Django](https://testdriven.io/blog/django-caching/)
+  - [Django caching best practices](https://dizballanze.com/django-project-optimization-part-3/)
 
-#### Celery
 
-- [Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
-- [List of celery tutorial](https://www.vinta.com.br/blog/category/celery/)
-- [DjangoCon US 2018 - Building Workflows With Celery](https://www.youtube.com/watch?v=8YLeWxLtVgo)
-- [PyCon Advanced Celery Tricks](https://www.youtube.com/watch?v=Bo6UtRhedjE&t=1121s)
-- [Understanding Celery & CeleryBeat](https://www.youtube.com/watch?v=kDoHrFLkahA)
-- https://tests4geeks.com/blog/python-celery-rabbitmq-tutorial/
-- https://blog.balthazar-rouberol.com/celery-best-practices
-- https://denibertovic.com/posts/celery-best-practices/
-- https://www.caktusgroup.com/blog/2014/09/29/celery-production/
-- https://www.distributedpython.com/2018/10/26/celery-execution-pool/
-- https://medium.com/@yedjoe/celery-4-periodic-task-in-django-9f6b5a8c21c7
-- https://www.sectorlabs.ro/blog/2016/11/24/our-experience-with-celery
-- https://hackernoon.com/using-celery-with-multiple-queues-retries-and-scheduled-tasks-589fe9a4f9ba
-- https://medium.com/@taylorhughes/three-quick-tips-from-two-years-with-celery-c05ff9d7f9eb
-- [celery beat docker](https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/)
+  #### Celery
 
-#### Django Dockerization
+  - [Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
+  - [List of celery tutorial](https://www.vinta.com.br/blog/category/celery/)
+  - [DjangoCon US 2018 - Building Workflows With Celery](https://www.youtube.com/watch?v=8YLeWxLtVgo)
+  - [PyCon Advanced Celery Tricks](https://www.youtube.com/watch?v=Bo6UtRhedjE&t=1121s)
+  - [Understanding Celery & CeleryBeat](https://www.youtube.com/watch?v=kDoHrFLkahA)
+  - https://tests4geeks.com/blog/python-celery-rabbitmq-tutorial/
+  - https://blog.balthazar-rouberol.com/celery-best-practices
+  - https://denibertovic.com/posts/celery-best-practices/
+  - https://www.caktusgroup.com/blog/2014/09/29/celery-production/
+  - https://www.distributedpython.com/2018/10/26/celery-execution-pool/
+  - https://medium.com/@yedjoe/celery-4-periodic-task-in-django-9f6b5a8c21c7
+  - https://www.sectorlabs.ro/blog/2016/11/24/our-experience-with-celery
+  - https://hackernoon.com/using-celery-with-multiple-queues-retries-and-scheduled-tasks-589fe9a4f9ba
+  - https://medium.com/@taylorhughes/three-quick-tips-from-two-years-with-celery-c05ff9d7f9eb
+  - [celery beat docker](https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/)
 
-- https://medium.com/faun/tech-edition-how-to-dockerize-a-django-web-app-elegantly-924c0b83575d
-- https://medium.com/faun/tech-edition-django-dockerization-with-bells-and-whistles-and-a-tad-bit-of-cleverness-2b5d1b57e289
-- [Dockerization template](https://github.com/hendrikfrentrup/docker-django)
-- https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
-- [Prepping Your Project for Production](https://2019.djangocon.us/talks/prepping-your-project-for-production/)
-- [Django, Gunicorn, Postgres, Docker, DigitalOcen](https://www.digitalocean.com/community/tutorials/how-to-build-a-django-and-gunicorn-application-with-docker)
-- [Real Python dockerizing django](https://github.com/realpython/dockerizing-django)
-- [Real Python Django Development with Docker Compose and Machine](https://realpython.com/django-development-with-docker-compose-and-machine/)
+  #### Dockerization
 
-#### Configuring Django Settings:
+  - https://medium.com/faun/tech-edition-how-to-dockerize-a-django-web-app-elegantly-924c0b83575d
+  - https://medium.com/faun/tech-edition-django-dockerization-with-bells-and-whistles-and-a-tad-bit-of-cleverness-2b5d1b57e289
+  - [Dockerization template](https://github.com/hendrikfrentrup/docker-django)
+  - https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
+  - [Prepping Your Project for Production](https://2019.djangocon.us/talks/prepping-your-project-for-production/)
+  - [Django, Gunicorn, Postgres, Docker, DigitalOcen](https://www.digitalocean.com/community/tutorials/how-to-build-a-django-and-gunicorn-application-with-docker)
+  - [Real Python dockerizing django](https://github.com/realpython/dockerizing-django)
+  - [Real Python Django Development with Docker Compose and Machine](https://realpython.com/django-development-with-docker-compose-and-machine/)
 
-- https://djangostars.com/blog/configuring-django-settings-best-practices/
+  #### Configuring Django Settings:
+
+  - https://djangostars.com/blog/configuring-django-settings-best-practices/
 
 #### Bangla Blogs
 
