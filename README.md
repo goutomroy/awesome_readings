@@ -255,13 +255,14 @@
 
 ### Database
 
-- https://malisper.me/category/postgres/
-- https://github.com/dhamaniasad/awesome-postgres#resources
-- [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
-- [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%e0%a6%a8%e0%a6%b0%e0%a6%ae%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%9c%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c/)
-- [Database Management System Youtube Course](https://www.youtube.com/watch?v=eYQwKi7P8MM&list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn&index=59)
-- [Best - Database Management System Youtube Course](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
-- https://www.dbdesigner.net/
+  - #### RDBMS
+    - https://malisper.me/category/postgres/
+    - https://github.com/dhamaniasad/awesome-postgres#resources
+    - [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
+    - [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%e0%a6%a8%e0%a6%b0%e0%a6%ae%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%9c%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c/)
+    - [Database Management System Youtube Course](https://www.youtube.com/watch?v=eYQwKi7P8MM&list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn&index=59)
+    - [Best - Database Management System Youtube Course](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
+    - https://www.dbdesigner.net/
 
 ### Miscellaneous
 - [How code compilation works](https://www.youtube.com/playlist?list=PLTd6ceoshpreZuklA7RBMubSmhE0OHWh)
