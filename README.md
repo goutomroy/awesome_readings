@@ -1,5 +1,3 @@
-### Miscellaneous Awesome
-  - https://project-awesome.org/
 
 #### Postgres
 
@@ -269,7 +267,8 @@
 - https://www.dbdesigner.net/
 
 #### Miscellaneous
-- [How code compilation works](https://www.youtube.com/playlist?list=PLTd6ceoshpreZuklA7RBMubSmhE0OHWh_)
+- [How code compilation works](https://www.youtube.com/playlist?list=PLTd6ceoshpreZuklA7RBMubSmhE0OHWh)
+- https://project-awesome.org/
 
 ### Podcasts
 * https://djangochat.com/episodes
