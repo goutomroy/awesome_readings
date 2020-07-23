@@ -105,7 +105,7 @@
   - [celery beat docker](https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/)
 
 
-- #### 3rd party packages
+- #### Essesential 3rd party packages
 
   - [django-cacheops](https://github.com/Suor/django-cacheops)
   - [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
@@ -139,7 +139,6 @@
 
 
 - #### Miscellaneous
-  - [Cookiecutter-Django](https://github.com/pydanny/cookiecutter-django)
   - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
   - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
   - [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
