@@ -323,7 +323,7 @@
   - [Grokking System Design Interview - Loaded in Github](https://github.com/lei-hsia/grokking-system-design)
   - [System Design for Tech Interviews - course](https://www.hiredintech.com/courses/system-design)
   - [Hiredintech - System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)
-  - [High Scalability](http://highscalability.com/)
+  - [High Scalability - Building bigger, faster and more reliable websites](http://highscalability.com/)
 
 - #### Youtube Channel
   - [Tech Dummies - Complete, vast, dedicated System Design youtube channel](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
