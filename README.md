@@ -107,7 +107,7 @@
 
 
 - #### Essential 3rd party packages
-  - [3rd party apps finder and comparison](https://djangopackages.org/grids/g/relationships/)
+  - [Django Packages - 3rd party apps finder and comparison](https://djangopackages.org/grids/g/relationships/)
   - [django-cacheops](https://github.com/Suor/django-cacheops)
   - [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
   - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
