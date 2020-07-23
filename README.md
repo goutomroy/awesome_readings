@@ -145,6 +145,7 @@
   - [Compress images in django](https://dev.to/gajesh/compress-images-in-django-3la8)
   - [Django Slug Tutorial - switch from ids to slugs in URLs](https://learndjango.com/tutorials/django-slug-tutorial)
   - [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
+  - [Estimating the Effort of Development of a Django Application](https://simpleisbetterthancomplex.com/article/2016/10/03/effort-estimation.html)
   - [Configuring Django Settings: Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/)
 
 ### Python and Django Blogs
@@ -168,7 +169,6 @@
 - [Vinta Django Blog](https://www.vinta.com.br/blog/)
 - [Django Introduction & Tutorials — Long List](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
 - [Awesome Open Source - all awesome lists](https://awesomeopensource.com/)
-- [Estimating the Effort of Development of a Django Application](https://simpleisbetterthancomplex.com/article/2016/10/03/effort-estimation.html)
 - [Top 10 Best Websites to Learn Coding for Free!](https://www.youtube.com/watch?v=PaDVGUnOihw)
 
 ### Python and Django Books
