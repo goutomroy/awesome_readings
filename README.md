@@ -54,7 +54,7 @@
 
 ### Django Best Practices
 
-  #### Awesome
+- #### Awesome
 
   - [Awesome Django](https://github.com/wsvincent/awesome-django)
   - [Awesome Django REST Framework](https://github.com/nioperas06/awesome-django-rest-framework)
@@ -63,7 +63,7 @@
   - [DRF view - Cheat-Sheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
 
 
-  #### Miscellaneous
+- #### Miscellaneous
   - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
   - [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
   - [Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/)
@@ -73,12 +73,12 @@
   - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
 
 
-  #### Overall Project Optimization
+- #### Overall Project Optimization
   - [Official Django Performance and optimization](https://docs.djangoproject.com/en/3.0/topics/performance/)
   - [Django project optimization guide](https://dizballanze.com/)
 
 
-  #### DRF
+- #### DRF
   - [How to Optimize Your Django REST Viewsets](https://concisecoder.io/2018/12/23/how-to-optimize-your-django-rest-viewsets/)
   - [Normalize Your Django REST Serializers](https://concisecoder.io/2018/11/17/normalize-your-django-rest-serializers/)
   - [10 things you need to know to effectively use Django Rest Framework](https://medium.com/profil-software-blog/10-things-you-need-to-know-to-effectively-use-django-rest-framework-7db7728910e0)
@@ -87,13 +87,13 @@
   - [A few remarks on the DRF](https://gist.github.com/egasimus/6095421)
 
 
-  #### Authorization
+- #### Authorization
   - [Multiple User Types | Django](https://www.youtube.com/watch?v=f0hdXr2MOEA&feature=youtu.be&fbclid=IwAR0SybikQzpP9jO-6AsXwTK8QkP_r1EebqSAlRYsKCdU5ouvw0gsje3Oyvw)
   - [Referencing the User Model](https://learndjango.com/tutorials/django-best-practices-referencing-user-model)
   - [The complete django-allauth guide](https://dev.to/gajesh/the-complete-django-allauth-guide-la3)
 
 
-  #### Database
+- #### Database
   - [Official Django Database access optimization](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
   - [Django queries optimization](https://www.youtube.com/watch?v=qDyxmgWkjvI)
   - [Django ORM Optimization Tips](https://concisecoder.io/2018/11/04/django-orm-optimization-tips/)
@@ -113,32 +113,32 @@
   - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
 
 
-  #### Email
+- #### Email
   - [MailHog Tutorial](https://blog.mailtrap.io/mailhog-explained/)
   - [Safe Email Testing for Staging & Development](https://mailtrap.io/?_ga=2.7032114.1689485353.1590460844-2033176224.1590460844)
   
 
-  #### Project Life Cycle
+- #### Life Cycle
   - http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application
   - https://learnbatta.com/blog/understanding-request-response-lifecycle-in-django-29/
   - https://django-easy-tutorial.blogspot.com/2017/03/django-request-lifecycle.html
   - [WSGI Servers](https://www.fullstackpython.com/wsgi-servers.html)
 
 
-  #### Django apps finder and comparison
+- #### Django apps finder and comparison
   - [Django Packages](https://djangopackages.org/grids/g/relationships/)
   
 
-  #### Search
+- #### Search
   - [DjangoCon 2019 - Search From the Ground Up by William S. Vincent](https://learndjango.com/tutorials/django-search-tutorial)
   
 
-  #### Logging
+- #### Logging
   - [Python logging Architecture](https://www.techatbloomberg.com/blog/guide-logging-python/)
   - [Django logging](https://www.youtube.com/watch?v=-vVml7cpWzY)
   
 
-  #### Testing
+- #### Testing
   - [TDDD](https://test-driven-django-development.readthedocs.io/en/latest/index.html)
   - [Django Testing](https://www.vinta.com.br/blog/category/tests/)
   - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
@@ -146,13 +146,13 @@
   - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
   - [Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
   
-  #### Caching & Benchmarking
+- #### Caching & Benchmarking
   - [Caching and benchmarking in Django With Redis](https://realpython.com/caching-in-django-with-redis/)
   - [Caching and benchmarking in Django](https://testdriven.io/blog/django-caching/)
   - [Django caching best practices](https://dizballanze.com/django-project-optimization-part-3/)
   - [Load Testing a Django Application using LocustIO](https://dev.to/apcelent/load-testing-a-django-application-using-locustio-1hd0)
 
-  #### Django third party packages
+- #### Django third party packages
 
   - [django-cacheops](https://github.com/Suor/django-cacheops)
   - [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
@@ -160,7 +160,7 @@
   - [django-hosts](https://github.com/jazzband/django-hosts)
   - [django-redis](https://github.com/niwinz/django-redis)
 
-  #### Django projects to follow for code structures
+- #### Django projects to follow for code structures
   - [MicroPyramid/django-blog-it](https://github.com/MicroPyramid/django-blog-it)
   - [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
     - [Apps list](https://pinaxproject.com/pinax/pinax_apps/)
@@ -171,11 +171,11 @@
   - https://www.codingforentrepreneurs.com/projects/
   
 
-  #### Channel
+- #### Channel
   - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
   - [Just Add Await: Retrofitting Async Into Django](https://www.youtube.com/watch?v=oMHrDy62kgE)
   
-  #### Celery
+- #### Celery
   - [Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
   - [List of celery tutorial](https://www.vinta.com.br/blog/category/celery/)
   - [DjangoCon US 2018 - Building Workflows With Celery](https://www.youtube.com/watch?v=8YLeWxLtVgo)
@@ -192,7 +192,7 @@
   - https://medium.com/@taylorhughes/three-quick-tips-from-two-years-with-celery-c05ff9d7f9eb
   - [celery beat docker](https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/)
 
-  #### Dockerization
+- #### Dockerization
 
   - https://medium.com/faun/tech-edition-how-to-dockerize-a-django-web-app-elegantly-924c0b83575d
   - https://medium.com/faun/tech-edition-django-dockerization-with-bells-and-whistles-and-a-tad-bit-of-cleverness-2b5d1b57e289
@@ -203,7 +203,7 @@
   - [Real Python dockerizing django](https://github.com/realpython/dockerizing-django)
   - [Real Python Django Development with Docker Compose and Machine](https://realpython.com/django-development-with-docker-compose-and-machine/)
 
-  #### Configuring Django Settings:
+- #### Configuring Django Settings:
 
   - https://djangostars.com/blog/configuring-django-settings-best-practices/
 
@@ -255,7 +255,7 @@
 
 ### Database  
 
-  #### RDBMS
+- #### RDBMS
   - https://malisper.me/category/postgres/
   - https://github.com/dhamaniasad/awesome-postgres#resources
   - [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
