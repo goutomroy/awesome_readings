@@ -66,21 +66,21 @@
 
 ### Django Best Practices
 
-- [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
-- [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
-- [Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/)
-- [MailHog Tutorial](https://blog.mailtrap.io/mailhog-explained/)
-- [Safe Email Testing for Staging & Development](https://mailtrap.io/?_ga=2.7032114.1689485353.1590460844-2033176224.1590460844)
-- [Compress images in django](https://dev.to/gajesh/compress-images-in-django-3la8)
-- [Django Slug Tutorial - switch from ids to slugs in URLs](https://learndjango.com/tutorials/django-slug-tutorial)
-- [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
-- [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
+  #### Miscellaneous
+  - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
+  - [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
+  - [Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/)
+  - [Compress images in django](https://dev.to/gajesh/compress-images-in-django-3la8)
+  - [Django Slug Tutorial - switch from ids to slugs in URLs](https://learndjango.com/tutorials/django-slug-tutorial)
+  - [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
+  - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
 
 
   #### Optimization
   - [Official Django Performance and optimization](https://docs.djangoproject.com/en/3.0/topics/performance/)
   - [Official Django Database access optimization](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
   - [Django project optimization guide](https://dizballanze.com/)
+
 
   #### DRF
   - [How to Optimize Your Django REST Viewsets](https://concisecoder.io/2018/12/23/how-to-optimize-your-django-rest-viewsets/)
@@ -114,6 +114,12 @@
   - [DjangoCon 2019 - Building effective Django queries with expressions ](https://www.youtube.com/watch?v=a-sfr6y_hY8&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=10&t=1345s)
   - [Django null & blank](https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django?rq=1)
   - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
+
+
+  #### Email
+  - [MailHog Tutorial](https://blog.mailtrap.io/mailhog-explained/)
+  - [Safe Email Testing for Staging & Development](https://mailtrap.io/?_ga=2.7032114.1689485353.1590460844-2033176224.1590460844)
+  
 
   #### Project Life Cycle
   - http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application
