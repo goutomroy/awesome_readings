@@ -182,6 +182,7 @@
   - https://books.agiliq.com/en/latest/
   - https://highperformancedjango.com/
   - [Best Django Books (2020)](https://wsvincent.com/best-django-books/)
+  - [The Complete NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/)
 
 # Python
 
@@ -356,3 +357,9 @@
   - [Polling vs WebSockets vs Socket.IO (Simple Explanation)](https://www.youtube.com/watch?v=sUEq35F-ELY&list=LL0r4B7591lSGuLvLMHoUf4g&index=3&t=0s)
   - [What are WebSockets | How is it different from HTTP?](https://www.youtube.com/watch?v=i5OVcTdt_OU)
   - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
+
+- ### Books
+
+  - [The Complete NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/)
+  - [Monolith to Microservices](https://www.nginx.com/resources/library/monolith-to-microservices/)
+  - [API Traffic Management 101: From Monitoring to Managing and Beyond](https://www.nginx.com/resources/library/api-traffic-management-101-monitoring-beyond/)
