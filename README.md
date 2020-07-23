@@ -253,16 +253,16 @@
 - [Valaxy Technologies](https://www.youtube.com/channel/UC_evcfxhjjui5hChhLE08tQ)
 
 
-### Database
+### Database  
 
-  - #### RDBMS
-    - https://malisper.me/category/postgres/
-    - https://github.com/dhamaniasad/awesome-postgres#resources
-    - [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
-    - [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%e0%a6%a8%e0%a6%b0%e0%a6%ae%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%9c%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c/)
-    - [Database Management System Youtube Course](https://www.youtube.com/watch?v=eYQwKi7P8MM&list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn&index=59)
-    - [Best - Database Management System Youtube Course](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
-    - https://www.dbdesigner.net/
+  #### RDBMS
+  - https://malisper.me/category/postgres/
+  - https://github.com/dhamaniasad/awesome-postgres#resources
+  - [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
+  - [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%e0%a6%a8%e0%a6%b0%e0%a6%ae%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%9c%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c/)
+  - [Database Management System Youtube Course](https://www.youtube.com/watch?v=eYQwKi7P8MM&list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn&index=59)
+  - [Best - Database Management System Youtube Course](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
+  - https://www.dbdesigner.net/
 
 ### Miscellaneous
 - [How code compilation works](https://www.youtube.com/playlist?list=PLTd6ceoshpreZuklA7RBMubSmhE0OHWh)
@@ -286,34 +286,35 @@
 
 ### System Design
 
-- [Donne Martin - The System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [Tech Dummies - Complete, vast, dedicated System Design youtube channel](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
-- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- #### Courses, Blogs, Youtube Channels
+  - [Donne Martin - The System Design Primer](https://github.com/donnemartin/system-design-primer)
+  - [Tech Dummies - Complete, vast, dedicated System Design youtube channel](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+  - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 
-- [Grokking the Object Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424)
-- [Algorithm and system design course - algoexpert](https://www.algoexpert.io/purchase)
-- [Grokking System Design Interview - Loaded in Github](https://github.com/lei-hsia/grokking-system-design)
-- [System Design for Tech Interviews - course](https://www.hiredintech.com/courses/system-design)
-- [Success in Tech - showing how to design full system - youtube channel](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
-- [Gaurav Sen - good system desing youtube channel](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
-- [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
-- [Hiredintech - System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)
-- [High Scalability](http://highscalability.com/)
-- [Channel for system design](https://www.youtube.com/c/ThinkSoftware/videos)
-- [AfterAcademy - System Design](https://www.youtube.com/playlist?list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA)
-- [Tech Primers](https://www.youtube.com/c/TechPrimers/featured)
+  - [Grokking the Object Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424)
+  - [Algorithm and system design course - algoexpert](https://www.algoexpert.io/purchase)
+  - [Grokking System Design Interview - Loaded in Github](https://github.com/lei-hsia/grokking-system-design)
+  - [System Design for Tech Interviews - course](https://www.hiredintech.com/courses/system-design)
+  - [Success in Tech - showing how to design full system - youtube channel](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
+  - [Gaurav Sen - good system desing youtube channel](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+  - [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
+  - [Hiredintech - System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)
+  - [High Scalability](http://highscalability.com/)
+  - [Channel for system design](https://www.youtube.com/c/ThinkSoftware/videos)
+  - [AfterAcademy - System Design](https://www.youtube.com/playlist?list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA)
+  - [Tech Primers](https://www.youtube.com/c/TechPrimers/featured)
 
-  #### System Design Miscellaneous 
+- #### System Design Miscellaneous 
   - [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
   - [Polling vs WebSockets vs Socket.IO (Simple Explanation)](https://www.youtube.com/watch?v=sUEq35F-ELY&list=LL0r4B7591lSGuLvLMHoUf4g&index=3&t=0s)
   - [What are WebSockets | How is it different from HTTP?](https://www.youtube.com/watch?v=i5OVcTdt_OU)
   - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
   
-  #### Computer Networks
+- #### Computer Networks
   - [Computer Networks  - Gate Smasher](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
   - [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
   
-  #### DNS
+- #### DNS
   - [Understand the Flow of a HTTP Request](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
   - [Domain Name Server(DNS) & its types - 1](https://www.youtube.com/watch?v=vhfRArT11jc)
   - [Domain Name Server(DNS) & its types - 2](https://www.youtube.com/watch?v=BZISxpdl4lQ)
