@@ -137,18 +137,17 @@
   - [Real Python dockerizing django](https://github.com/realpython/dockerizing-django)
   - [Real Python Django Development with Docker Compose and Machine](https://realpython.com/django-development-with-docker-compose-and-machine/)
 
-- #### Configuring Django Settings:
-
-  - https://djangostars.com/blog/configuring-django-settings-best-practices/
 
 - #### Miscellaneous
+  - [Cookiecutter-Django](https://github.com/pydanny/cookiecutter-django)
   - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
+  - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
   - [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
   - [Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/)
   - [Compress images in django](https://dev.to/gajesh/compress-images-in-django-3la8)
   - [Django Slug Tutorial - switch from ids to slugs in URLs](https://learndjango.com/tutorials/django-slug-tutorial)
   - [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
-  - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
+  - [Configuring Django Settings: Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/)
 
 #### Python and Django Blogs
 
