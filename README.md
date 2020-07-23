@@ -25,7 +25,7 @@
   - [A few remarks on the DRF](https://gist.github.com/egasimus/6095421)
 
 
-- #### Authorization
+- #### Authentication, Authorization, User Management
   - [Multiple User Types | Django](https://www.youtube.com/watch?v=f0hdXr2MOEA&feature=youtu.be&fbclid=IwAR0SybikQzpP9jO-6AsXwTK8QkP_r1EebqSAlRYsKCdU5ouvw0gsje3Oyvw)
   - [Multiple User Types With Custom Data Fields | Django](https://www.youtube.com/watch?v=V3zRZ6XRols&list=LL0r4B7591lSGuLvLMHoUf4g&index=10&t=0s)
   - [Referencing the User Model](https://learndjango.com/tutorials/django-best-practices-referencing-user-model)
@@ -112,7 +112,8 @@
   - [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest)
   - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
   - [django-hosts](https://github.com/jazzband/django-hosts)
-  - [django-redis](https://github.com/niwinz/django-redis)  
+  - [django-redis](https://github.com/niwinz/django-redis) 
+  - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) 
   
 
 - #### Projects to follow for code structures  
@@ -148,34 +149,46 @@
   - [Estimating the Effort of Development of a Django Application](https://simpleisbetterthancomplex.com/article/2016/10/03/effort-estimation.html)
   - [Configuring Django Settings: Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/)
 
-### Python and Django Blogs
+- #### Youtube Channel
+  - [Daniel Feldroy Youtube Channel](https://www.youtube.com/channel/UCtNU6QH-S499vfgeVAeovMw)
 
-- https://realpython.com/
-- https://pymotw.com/3/
-- https://hakibenita.com/
-- https://overiq.com/django-1-11/
-- https://simpleisbetterthancomplex.com/
-- https://www.fullstackpython.com/
-- https://www.vinta.com.br/blog/
-- https://djangotricks.blogspot.com/
-- https://concisecoder.io/
-- https://dev.to/learndjango
-- https://djangostars.com/blog/
-- [Daniel Feldroy Youtube Channel](https://www.youtube.com/channel/UCtNU6QH-S499vfgeVAeovMw)
-- [codingforentrepreneurs various django project free courses](https://www.codingforentrepreneurs.com/projects)
-- [Learn Django - William Vincent](https://learndjango.com/tutorials/)
-- https://wsvincent.com/
-- [Best Django Blog - micropyramid](https://micropyramid.com/blog/)
-- [Vinta Django Blog](https://www.vinta.com.br/blog/)
-- [Django Introduction & Tutorials — Long List](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
-- [Awesome Open Source - all awesome lists](https://awesomeopensource.com/)
-- [Top 10 Best Websites to Learn Coding for Free!](https://www.youtube.com/watch?v=PaDVGUnOihw)
+- #### Blogs
 
-### Python and Django Books
+  - [realpython](https://realpython.com/)
+  - [hakibenita](https://hakibenita.com/)
+  - [overiq](https://overiq.com/django-1-11/)
+  - [simpleisbetterthancomplex](https://simpleisbetterthancomplex.com/)
+  - [fullstackpython](https://www.fullstackpython.com/)
+  - [djangotricks](https://djangotricks.blogspot.com/)
+  - [concisecoder](https://concisecoder.io/)
+  - [dev.to/learndjango](https://dev.to/learndjango)
+  - [djangostars](https://djangostars.com/blog/)
+  - [codingforentrepreneurs various django project free courses](https://www.codingforentrepreneurs.com/projects)
+  - [Learn Django - William Vincent](https://learndjango.com/tutorials/)
+  - [wsvincent](https://wsvincent.com/)
+  - [Best Django Blog - micropyramid](https://micropyramid.com/blog/)
+  - [Vinta Django Blog](https://www.vinta.com.br/blog/)
+  - [Django Introduction & Tutorials — Long List](https://medium.com/gopypi/django-introduction-tutorials-long-list-7f2b5dab7d30)
 
-- https://books.agiliq.com/en/latest/
-- https://highperformancedjango.com/
-- [Github - Offline books](https://github.com/goutomroy/books)
+- #### Books
+
+  - https://books.agiliq.com/en/latest/
+  - https://highperformancedjango.com/
+  - [Best Django Books (2020)](https://wsvincent.com/best-django-books/)
+
+### Python
+
+- #### Blogs
+  - [realpython](https://realpython.com/)
+  - [pymotw](https://pymotw.com/3/)
+
+- #### Python/Django Documenting code
+  - [RealPython - Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
+
+### PyCon/DjangoCon
+
+- https://2019.djangocon.us/
+
 
 ### Database  
 
@@ -189,23 +202,11 @@
   - https://www.dbdesigner.net/
   
 
-### Python/Django Documenting code
-
-- [RealPython - Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
-
-### PyCon/DjangoCon
-
-- https://2019.djangocon.us/
-
 ### Youtube channel
 
-- https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
-- https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A
-- https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw/
-- https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
-- https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
-- [The Net Ninja - Best For frontend](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-- [techsith  - Best For frontend](https://www.youtube.com/user/techSithTube)
+- [Education 4u](https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A)
+- [Gate Smashers](https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw/)
+- [TechLead- motivational videos for coders](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
 - [InfoQ](https://www.youtube.com/user/MarakanaTechTV)
 
 ### Microservice
@@ -261,7 +262,9 @@
 
 ### Miscellaneous
 - [How code compilation works](https://www.youtube.com/playlist?list=PLTd6ceoshpreZuklA7RBMubSmhE0OHWh)
-- https://project-awesome.org/
+- [project-awesome](https://project-awesome.org/)
+- [Awesome Open Source - all awesome lists](https://awesomeopensource.com/)
+- [Github - Offline books](https://github.com/goutomroy/books)
 
 ### Podcasts
 * https://djangochat.com/episodes
@@ -304,6 +307,11 @@
   * [Authentication on the Client Side the Right Way: Cookies vs. Local Storage](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/)
   * [Youtube Redux-Toolkit Course](https://www.youtube.com/watch?v=bxmFttvj-Mk&list=PLfNd7po_IV0GTfQb8RJirrt83BFMF-Lj0)
   * [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+
+- #### Youtube Channel
+
+  - [The Net Ninja - Best For frontend](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+  - [techsith  - Best For frontend](https://www.youtube.com/user/techSithTube)
 
 
 ### System Design
