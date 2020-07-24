@@ -67,6 +67,9 @@
   - [Caching and benchmarking in Django](https://testdriven.io/blog/django-caching/)
   - [Django caching best practices](https://dizballanze.com/django-project-optimization-part-3/)
   - [Load Testing a Django Application using LocustIO](https://dev.to/apcelent/load-testing-a-django-application-using-locustio-1hd0)
+  - [Google - Analyze and optimize your website with PageSpeed tools](https://developers.google.com/speed/?hl=en-US&utm_source=PSI&utm_medium=incoming-link&utm_campaign=PSI)
+  - https://gtmetrix.com/
+  - https://webpagetest.org/
 
 
 - ### Life Cycle
@@ -344,6 +347,8 @@
   - [Computer Networks  - Gate Smasher](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
   - [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
   
+- ### Caching
+  - [Introduction to HTTP Caching - Why caching is like cooking dinner](https://www.youtube.com/watch?v=lfxkO6FvCR0)
 - ### DNS
   - [Understand the Flow of a HTTP Request](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
   - [Domain Name Server(DNS) & its types - 1](https://www.youtube.com/watch?v=vhfRArT11jc)
