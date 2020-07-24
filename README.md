@@ -342,6 +342,8 @@
 
 - ### Microservice
   - https://microservices.io/
+    - #### Youtube
+      - [Microservices Architecture Patterns - youtube](https://www.youtube.com/playlist?list=PLTyWtrsGknYd0JgqeARypdRy-SX1ORYhs)
 
 - ### Computer Networks
   - [Computer Networks  - Gate Smasher](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
