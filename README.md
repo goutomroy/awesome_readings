@@ -178,6 +178,7 @@
   - [Daniel Feldroy Youtube Channel](https://www.youtube.com/channel/UCtNU6QH-S499vfgeVAeovMw)
   - [DjangoCon US](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw)
   - [DjangoCon Europe](https://www.youtube.com/user/djangoconeurope)
+  - [EuroPython Conference](https://www.youtube.com/channel/UC98CzaYuFNAA_gOINFB0e4Q)
 
 
 - ### Books
