@@ -62,8 +62,9 @@
   - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
   - [Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
   
-- ### Caching & Benchmarking
+- ### Caching & Benchmarking & Scaling
   - [Caching and benchmarking in Django With Redis](https://realpython.com/caching-in-django-with-redis/)
+  - [DjangoCon 2019 - Prepping Your Project for Production by Peter Baumgartner](https://www.youtube.com/watch?v=tssYpA6WiQM)
   - [Caching and benchmarking in Django](https://testdriven.io/blog/django-caching/)
   - [Django caching best practices](https://dizballanze.com/django-project-optimization-part-3/)
   - [Load Testing a Django Application using LocustIO](https://dev.to/apcelent/load-testing-a-django-application-using-locustio-1hd0)
@@ -365,6 +366,10 @@
   - [Polling vs WebSockets vs Socket.IO (Simple Explanation)](https://www.youtube.com/watch?v=sUEq35F-ELY&list=LL0r4B7591lSGuLvLMHoUf4g&index=3&t=0s)
   - [What are WebSockets | How is it different from HTTP?](https://www.youtube.com/watch?v=i5OVcTdt_OU)
   - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
+
+- ### Blogs
+  - [HackerNoon](https://hackernoon.com/search?query=system%20design)
+
 
 - ### Books
 
