@@ -329,7 +329,8 @@
   - [Grokking the Object Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424)
   - [Algorithm and system design course - algoexpert](https://www.algoexpert.io/purchase)
   - [Grokking System Design Interview - Loaded in Github](https://github.com/lei-hsia/grokking-system-design)
-  - [System Design for Tech Interviews - course](https://www.hiredintech.com/courses/system-design)
+  - [System Design for Tech Interviews - hiredintech.com](https://www.hiredintech.com/courses/system-design)
+  - [System Design and Algorithm courses - interviewcamp.io](https://interviewcamp.io/)
 
 
 - ### Youtube Channel
