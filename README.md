@@ -369,6 +369,8 @@
 
 - ### Blogs
   - [HackerNoon](https://hackernoon.com/search?query=system%20design)
+  - [Fahim ul Haq](https://hackernoon.com/u/fahimulhaq)
+  - [Vaibhav Aparimit](https://medium.com/@v_aparimit)
 
 
 - ### Books
