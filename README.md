@@ -187,7 +187,6 @@
   - https://books.agiliq.com/en/latest/
   - https://highperformancedjango.com/
   - [Best Django Books (2020)](https://wsvincent.com/best-django-books/)
-  - [The Complete NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/)
 
 # Python
 
@@ -377,6 +376,7 @@
 
 - ### Books
 
-  - [The Complete NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/)
   - [Monolith to Microservices](https://www.nginx.com/resources/library/monolith-to-microservices/)
+  - [The Complete NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/)
   - [API Traffic Management 101: From Monitoring to Managing and Beyond](https://www.nginx.com/resources/library/api-traffic-management-101-monitoring-beyond/)
+
