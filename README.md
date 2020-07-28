@@ -71,6 +71,7 @@
   - [Google - Analyze and optimize your website with PageSpeed tools](https://developers.google.com/speed/?hl=en-US&utm_source=PSI&utm_medium=incoming-link&utm_campaign=PSI)
   - [Caching and Scaling Django - Part -1](https://medium.com/swlh/caching-and-scaling-django-dc80a54012)
   - [Caching and Scaling for Django Part II](https://blog.usejournal.com/caching-and-scaling-for-django-part-ii-e4ce6457827f)
+  - [Increasing Application Performance with HTTP Cache Headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers)
   - https://gtmetrix.com/
   - https://webpagetest.org/
 
@@ -153,7 +154,7 @@
   - [django-hosts](https://github.com/jazzband/django-hosts)
   - [django-redis](https://github.com/niwinz/django-redis) 
   - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) 
-  - [django-rest-framework-condition](https://github.com/jozo/django-rest-framework-condition)
+  - [DRF-extensions](https://github.com/chibisov/drf-extensions)
   
 
 - ### Projects to follow for code structures  
