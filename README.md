@@ -153,9 +153,11 @@
   - [django-hosts](https://github.com/jazzband/django-hosts)
   - [django-redis](https://github.com/niwinz/django-redis) 
   - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) 
+  - [django-rest-framework-condition](https://github.com/jozo/django-rest-framework-condition)
   
 
 - ### Projects to follow for code structures  
+  - [django-instagram](https://github.com/marcopompili/django-instagram)
   - [MicroPyramid/django-blog-it](https://github.com/MicroPyramid/django-blog-it)
   - [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
     - [Apps list](https://pinaxproject.com/pinax/pinax_apps/)
