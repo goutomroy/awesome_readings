@@ -69,6 +69,8 @@
   - [Django caching best practices](https://dizballanze.com/django-project-optimization-part-3/)
   - [Load Testing a Django Application using LocustIO](https://dev.to/apcelent/load-testing-a-django-application-using-locustio-1hd0)
   - [Google - Analyze and optimize your website with PageSpeed tools](https://developers.google.com/speed/?hl=en-US&utm_source=PSI&utm_medium=incoming-link&utm_campaign=PSI)
+  - [Caching and Scaling Django - Part -1](https://medium.com/swlh/caching-and-scaling-django-dc80a54012)
+  - [Caching and Scaling for Django Part II](https://blog.usejournal.com/caching-and-scaling-for-django-part-ii-e4ce6457827f)
   - https://gtmetrix.com/
   - https://webpagetest.org/
 
