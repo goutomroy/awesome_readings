@@ -140,7 +140,6 @@
   - https://medium.com/@yedjoe/celery-4-periodic-task-in-django-9f6b5a8c21c7
   - https://www.sectorlabs.ro/blog/2016/11/24/our-experience-with-celery
   - https://hackernoon.com/using-celery-with-multiple-queues-retries-and-scheduled-tasks-589fe9a4f9ba
-  - https://medium.com/@taylorhughes/three-quick-tips-from-two-years-with-celery-c05ff9d7f9eb
   - [celery beat docker](https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/)
 
 
