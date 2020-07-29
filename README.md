@@ -53,6 +53,14 @@
     - [Django null & blank](https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django?rq=1)
     - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
 
+  - #### RabbitMQ
+    - [What is the relationship between connections and channels in RabbitMQ?](https://www.cloudamqp.com/blog/2019-11-13-the-relationship-between-connections-and-channels-in-rabbitmq.html)
+    - https://github.com/celery/kombu
+    - https://www.youtube.com/watch?v=deG25y_r6OY
+    - https://www.youtube.com/watch?v=Mjq8cLEVApE
+    - https://www.youtube.com/channel/UCd2zA-M45qE6VeYOFBE4SYg/videos
+    - 
+
   
 - ### Testing
   - [TDDD](https://test-driven-django-development.readthedocs.io/en/latest/index.html)
@@ -72,6 +80,7 @@
   - [Caching and Scaling Django - Part -1](https://medium.com/swlh/caching-and-scaling-django-dc80a54012)
   - [Caching and Scaling for Django Part II](https://blog.usejournal.com/caching-and-scaling-for-django-part-ii-e4ce6457827f)
   - [Increasing Application Performance with HTTP Cache Headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers)
+  - [Load testing with Locust](https://www.youtube.com/watch?v=XjSEgiFDARw)
   - https://gtmetrix.com/
   - https://webpagetest.org/
 
@@ -117,6 +126,7 @@
 
 
 - ### Celery
+  - [Celery Architecture](https://thuruthuru.com/post/celery-architecture/)
   - [Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
   - [List of celery tutorial](https://www.vinta.com.br/blog/category/celery/)
   - [DjangoCon US 2018 - Building Workflows With Celery](https://www.youtube.com/watch?v=8YLeWxLtVgo)
@@ -367,6 +377,7 @@
 
 - ### Miscellaneous 
   - [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
+  - [HTTP Guide by Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP)
   - [Polling vs WebSockets vs Socket.IO (Simple Explanation)](https://www.youtube.com/watch?v=sUEq35F-ELY&list=LL0r4B7591lSGuLvLMHoUf4g&index=3&t=0s)
   - [What are WebSockets | How is it different from HTTP?](https://www.youtube.com/watch?v=i5OVcTdt_OU)
   - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
