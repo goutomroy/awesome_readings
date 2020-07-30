@@ -366,8 +366,9 @@
   
 - ### Caching
   - [Introduction to HTTP Caching - Why caching is like cooking dinner](https://www.youtube.com/watch?v=lfxkO6FvCR0)
+
+
 - ### DNS
-  - [Understand the Flow of a HTTP Request](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
   - [Domain Name Server(DNS) & its types - 1](https://www.youtube.com/watch?v=vhfRArT11jc)
   - [Domain Name Server(DNS) & its types - 2](https://www.youtube.com/watch?v=BZISxpdl4lQ)
   - [How a DNS Server (Domain Name System) works.](https://www.youtube.com/watch?v=mpQZVYPuDGU)
@@ -375,7 +376,10 @@
 
 
 - ### Miscellaneous 
+  - [Understand the Flow of a HTTP Request](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
   - [HTTP Request vs HTTP Long-Polling vs WebSockets vs Server-Sent Events](https://www.youtube.com/watch?v=k56H0DHqu5Y&list=PLqOiaH9id5qtD7h8Zwu1abjKULtVq0nQA&index=7&t=0s)
+  - [সার্ভার নিয়ে খুঁটিনাটি (পর্ব ১)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%96%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9F%E0%A6%BF-ae9a4e008fd8)
+  - [পাইথন দিয়ে ওয়েব সার্ভার ডেভলপমেন্ট — পার্ট ১](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%A5%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A6%B2%E0%A6%AA%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A7%A7-bb2d2151f894)
   - [HTTP Guide by Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP)
   - [Polling vs WebSockets vs Socket.IO (Simple Explanation)](https://www.youtube.com/watch?v=sUEq35F-ELY&list=LL0r4B7591lSGuLvLMHoUf4g&index=3&t=0s)
   - [What are WebSockets | How is it different from HTTP?](https://www.youtube.com/watch?v=i5OVcTdt_OU)
