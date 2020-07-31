@@ -59,7 +59,10 @@
     - https://www.youtube.com/watch?v=deG25y_r6OY
     - https://www.youtube.com/watch?v=Mjq8cLEVApE
     - https://www.youtube.com/channel/UCd2zA-M45qE6VeYOFBE4SYg/videos
-    - 
+
+
+  - #### Redis
+    - [Scaling Redis](https://petrohi.tumblr.com/post/6323289515/scaling-redis)
 
   
 - ### Testing
