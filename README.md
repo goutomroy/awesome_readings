@@ -211,6 +211,9 @@
 - ### Python/Django Documenting code
   - [RealPython - Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
 
+- ### Miscellaneous
+  - [Memoization in Python: How to Cache Function Results](https://dbader.org/blog/python-memoization)
+
 
 # Database  
 
