@@ -343,9 +343,7 @@
 
 - ### Courses & Blogs
   - [Donne Martin - The System Design Primer](https://github.com/donnemartin/system-design-primer)
-
   - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
-
   - [Grokking the Object Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424)
   - [Algorithm and system design course - algoexpert](https://www.algoexpert.io/purchase)
   - [Grokking System Design Interview - Loaded in Github](https://github.com/lei-hsia/grokking-system-design)
