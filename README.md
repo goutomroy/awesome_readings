@@ -146,6 +146,11 @@
   - https://hackernoon.com/using-celery-with-multiple-queues-retries-and-scheduled-tasks-589fe9a4f9ba
   - [celery beat docker](https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/)
 
+### Task Queue
+  - [Distributing Work in Python Without Celery - Building TaskMaster](https://cra.mr/2012/05/04/distributing-work-without-celery/)
+  - [Why are task queues necessary?](https://www.fullstackpython.com/task-queues.html)
+  - [Developing an Asynchronous Task Queue in Python](https://testdriven.io/blog/developing-an-asynchronous-task-queue-in-python/)
+  - [Faktory like task queue](https://github.com/seung-lab/python-task-queue/)
 
 - ### Miscellaneous
   - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
