@@ -105,7 +105,7 @@
   - [MailHog Tutorial](https://blog.mailtrap.io/mailhog-explained/)
   - [Safe Email Testing for Staging & Development](https://mailtrap.io/?_ga=2.7032114.1689485353.1590460844-2033176224.1590460844)
   
-  - ### Channel
+- ### Channel
   - [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
   - [Taking Django Async](https://www.youtube.com/watch?v=cNbcHvRvJsg)
   - [Just Add Await: Retrofitting Async Into Django](https://www.youtube.com/watch?v=oMHrDy62kgE)
@@ -175,6 +175,7 @@
   - [django-redis](https://github.com/niwinz/django-redis) 
   - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) 
   - [DRF-extensions](https://github.com/chibisov/drf-extensions)
+  - [Django REST Framework API Key](https://github.com/florimondmanca/djangorestframework-api-key/)
   
 
 - ### Projects to follow for code structures  
