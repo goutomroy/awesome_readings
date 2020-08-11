@@ -1,12 +1,15 @@
 
-
-# Django
-
-- ### Awesome
-
+# Awesome
   - [Awesome Django](https://github.com/wsvincent/awesome-django)
   - [Awesome Django REST Framework](https://github.com/nioperas06/awesome-django-rest-framework)
+  - [django.awesome-programming.com](https://django.awesome-programming.com/)
+  - [project-awesome](https://project-awesome.org/)
+  - [Awesome Open Source - all awesome lists](https://awesomeopensource.com/)
+  - [awesome-programming.com](https://awesome-programming.com/)
+  - [awesome-postgres#resources](https://github.com/dhamaniasad/awesome-postgres#resources)
 
+
+# Django
 
 - ### Overall Project Optimization
   - [Official Django Performance and optimization](https://docs.djangoproject.com/en/3.0/topics/performance/)
@@ -234,7 +237,6 @@
 
 - ### RDBMS
   - https://malisper.me/category/postgres/
-  - https://github.com/dhamaniasad/awesome-postgres#resources
   - [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
   - [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%e0%a6%a8%e0%a6%b0%e0%a6%ae%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%9c%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c/)
   - [Database Management System Youtube Course](https://www.youtube.com/watch?v=eYQwKi7P8MM&list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn&index=59)
@@ -298,8 +300,6 @@
 
 # Miscellaneous
 - [How code compilation works](https://www.youtube.com/playlist?list=PLTd6ceoshpreZuklA7RBMubSmhE0OHWh)
-- [project-awesome](https://project-awesome.org/)
-- [Awesome Open Source - all awesome lists](https://awesomeopensource.com/)
 - [Github - Offline books](https://github.com/goutomroy/books)
 
 # Podcasts
