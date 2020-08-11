@@ -179,6 +179,7 @@
   
 
 - ### Projects to follow for code structures  
+  - [Django - CKEditor Tutorial](https://samulinatri.com/blog/django-ckeditor-codesnippet-hightlightjs-youtube/?page=2&q=)
   - [django-instagram](https://github.com/marcopompili/django-instagram)
   - [MicroPyramid/django-blog-it](https://github.com/MicroPyramid/django-blog-it)
   - [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
