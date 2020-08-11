@@ -7,6 +7,8 @@
   - [Awesome Open Source - all awesome lists](https://awesomeopensource.com/)
   - [awesome-programming.com](https://awesome-programming.com/)
   - [awesome-postgres#resources](https://github.com/dhamaniasad/awesome-postgres#resources)
+  - https://www.programmer-books.com/
+  - https://www.pdfdrive.com/
 
 
 # Django
@@ -310,6 +312,7 @@
 
 # Authentication & Authorization
 
+- [Udacity Course - Authentication & Authorization : OAuth](https://classroom.udacity.com/courses/ud330)
 - [OAuth 2 Simplified - Best simplified article](https://aaronparecki.com/oauth-2-simplified/)
 - [Django OAuth Toolkit](https://django-oauth-toolkit.readthedocs.io/en/latest/glossary.html#term-authorization-server)
 - [Official Site](https://oauth.net/2/)
