@@ -176,10 +176,12 @@
   - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) 
   - [DRF-extensions](https://github.com/chibisov/drf-extensions)
   - [Django REST Framework API Key](https://github.com/florimondmanca/djangorestframework-api-key/)
+  - [Django CKEditor](https://github.com/django-ckeditor/django-ckeditor)
   
 
 - ### Projects to follow for code structures  
   - [Django - CKEditor Tutorial](https://samulinatri.com/blog/django-ckeditor-codesnippet-hightlightjs-youtube/?page=2&q=)
+  - [Integrating CKeditor in Django](https://overiq.com/django-1-10/integrating-ckeditor-in-django/)
   - [django-instagram](https://github.com/marcopompili/django-instagram)
   - [MicroPyramid/django-blog-it](https://github.com/MicroPyramid/django-blog-it)
   - [Pinax Project](https://pinaxproject.com/pinax/pinax_apps/)
