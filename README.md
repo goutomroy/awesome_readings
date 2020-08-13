@@ -9,6 +9,7 @@
   - [awesome-postgres#resources](https://github.com/dhamaniasad/awesome-postgres#resources)
   - https://www.programmer-books.com/
   - https://www.pdfdrive.com/
+  - http://www.allitebooks.org/
 
 
 # Django
@@ -159,7 +160,7 @@
   - [Faktory like task queue](https://github.com/seung-lab/python-task-queue/)
   - [Event sourcing](https://microservices.io/patterns/data/event-sourcing.html)
 
-- ### Miscellaneous
+### Miscellaneous
   - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
   - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
   - [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
@@ -301,6 +302,7 @@
 
 
 # Miscellaneous
+- [Udacity Course - Learn HTTP and build a web server and client with python](https://classroom.udacity.com/courses/ud303)
 - [How code compilation works](https://www.youtube.com/playlist?list=PLTd6ceoshpreZuklA7RBMubSmhE0OHWh)
 - [Github - Offline books](https://github.com/goutomroy/books)
 
