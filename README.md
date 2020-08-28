@@ -314,6 +314,7 @@
 
 # Authentication & Authorization
 
+- [OAuth2.0&OpenID Connect](https://www.youtube.com/playlist?list=PL8PwA1AFXwLmQPMvstqgIQi1infWeR9-C)
 - [Udacity Course - Authentication & Authorization : OAuth](https://classroom.udacity.com/courses/ud330)
 - [OAuth 2 Simplified - Best simplified article](https://aaronparecki.com/oauth-2-simplified/)
 - [Django OAuth Toolkit](https://django-oauth-toolkit.readthedocs.io/en/latest/glossary.html#term-authorization-server)
@@ -322,6 +323,10 @@
 - [OAuth terminologies and flows explained - 1](https://www.youtube.com/watch?v=t4-416mg6iU)
 - [OAuth terminologies and flows explained - 2](https://www.youtube.com/watch?v=3pZ3Nh8tgTE)
 - [What is JWT authorization really about](https://www.youtube.com/watch?v=soGRyl9ztjI)
+- [The Simplest Guide To OAuth 2.0](https://medium.com/@darutk/the-simplest-guide-to-oauth-2-0-8c71bd9a15bb)
+- [OAuth 2.0 framework- Facebook App](https://medium.com/oauth-2-0-framework-facebook-app/oauth-2-0-framework-facebook-app-c797d58a10f1)
+- [Book “OAuth 2.0 Identity and Access Management Patterns” is available](https://blog.thisismartin.com/book-oauth-2-dot-0-identity-and-access-management-patterns-is-available-for-purchase)
+- [Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)](https://www.youtube.com/watch?v=2PPSXonhIck)
 
 # Hosting
 - https://hostadvice.com/hosting-services/cheap-web-hosting/
