@@ -159,7 +159,9 @@
   - [Developing an Asynchronous Task Queue in Python](https://testdriven.io/blog/developing-an-asynchronous-task-queue-in-python/)
   - [Faktory like task queue](https://github.com/seung-lab/python-task-queue/)
   - [Event sourcing](https://microservices.io/patterns/data/event-sourcing.html)
+  - [Overview Of Redis Architecture](http://qnimate.com/overview-of-redis-architecture/)
   - [How redis queue can be implemented](https://redis.io/commands/rpoplpush)
+  - [Redis Data Types Crash Course](https://redis.io/topics/data-types-intro)
 
 ### Miscellaneous
   - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
