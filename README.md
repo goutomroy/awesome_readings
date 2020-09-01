@@ -162,6 +162,10 @@
   - [Overview Of Redis Architecture](http://qnimate.com/overview-of-redis-architecture/)
   - [How redis queue can be implemented](https://redis.io/commands/rpoplpush)
   - [Redis Data Types Crash Course](https://redis.io/topics/data-types-intro)
+  - [Task Queues](https://taskqueues.com/)
+  - [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
+  - [Building a Scalable and Language Agnostic Data Processing Pipeline](https://turbolent.com/data-processing-pipeline.html)
+  - [Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810)
 
 ### Miscellaneous
   - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
