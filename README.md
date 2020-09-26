@@ -58,6 +58,7 @@
     - [DjangoCon 2019 - Building effective Django queries with expressions ](https://www.youtube.com/watch?v=a-sfr6y_hY8&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=10&t=1345s)
     - [Django null & blank](https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django?rq=1)
     - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
+    - [Understanding Django transactions](https://www.agiliq.com/blog/2019/11/django-transactions/)
 
   - #### RabbitMQ
     - [What is the relationship between connections and channels in RabbitMQ?](https://www.cloudamqp.com/blog/2019-11-13-the-relationship-between-connections-and-channels-in-rabbitmq.html)
@@ -202,6 +203,7 @@
   - [Reef Technologies trainging - Must know things for Python/Django Backend developer](https://github.com/reef-technologies/handbook/blob/master/training.md)
   - [Estimating the Effort of Development of a Django Application](https://simpleisbetterthancomplex.com/article/2016/10/03/effort-estimation.html)
   - [Configuring Django Settings: Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/)
+  - [Tracking creator of Django objects](https://www.agiliq.com/blog/2019/01/tracking-creator-of-django-objects/)
 
 
 - ### Essential 3rd party packages
