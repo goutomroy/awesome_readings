@@ -118,10 +118,17 @@
 - ### Search
   - [DjangoCon 2019 - Search From the Ground Up by William S. Vincent](https://learndjango.com/tutorials/django-search-tutorial)
 
+- ### Package Upgradation
+  - [Upgrading django apps from older versions to latest Django version](https://www.agiliq.com/blog/2018/04/upgrading-django-older-versions-to-django-latest-version/)
+
 - ### Logging
+  - [Configure Django to log exceptions in production](https://www.agiliq.com/blog/2017/12/configure-django-log-exceptions-production/)
   - [Python logging Architecture](https://www.techatbloomberg.com/blog/guide-logging-python/)
   - [Django logging](https://www.youtube.com/watch?v=-vVml7cpWzY)
   - [How to log exceptions to stderr in Django](https://www.obeythetestinggoat.com/how-to-log-exceptions-to-stderr-in-django.html)
+
+- ### Date & Time
+  - [Everything about date & time in Django with basic concepts of timezone.](https://www.agiliq.com/blog/2014/08/django-timezones/)
   
 - ### Email
   - [MailHog Tutorial](https://blog.mailtrap.io/mailhog-explained/)
@@ -136,6 +143,7 @@
 
   - [realpython](https://realpython.com/)
   - [hakibenita](https://hakibenita.com/)
+  - [Agiliq Blog](https://www.agiliq.com/categories/#django)
   - [overiq](https://overiq.com/django-1-11/)
   - [simpleisbetterthancomplex](https://simpleisbetterthancomplex.com/)
   - [fullstackpython](https://www.fullstackpython.com/)
@@ -337,6 +345,8 @@
 
 
 # Authentication & Authorization
+
+- [Implementing Auth0 authentication in DRF APIs](https://www.agiliq.com/blog/2020/05/implementing-auth0-authentication-in-drf-apis/)
 
 - [OAuth2.0&OpenID Connect](https://www.youtube.com/playlist?list=PL8PwA1AFXwLmQPMvstqgIQi1infWeR9-C)
 - [Udacity Course - Authentication & Authorization : OAuth](https://classroom.udacity.com/courses/ud330)
