@@ -76,8 +76,23 @@
   - [Django Testing](https://www.vinta.com.br/blog/category/tests/)
   - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
   - [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/#marks-categorizing-tests)
-  - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
   - [Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
+  - https://realpython.com/test-driven-development-of-a-django-restful-api/#django-app-and-rest-framework-setup
+  - https://medium.com/@kelsey88/testing-viewsets-with-fixtures-using-djangos-test-suite-example-6b42b2eede4c
+  - https://medium.com/@kelsey88/testing-viewsets-with-fixtures-using-djangos-test-suite-example-6b42b2eede4c
+  - https://aalvarez.me/posts/testing-django-and-drf-with-pytest/
+  - https://www.thetopsites.net/article/54579338.shtml
+  - https://www.obeythetestinggoat.com/a-pytest-pattern-using-parametrize-to-customise-nested-fixtures.html
+  - https://www.obeythetestinggoat.com/book/appendix_DjangoRestFramework.html
+  - https://concisecoder.io/2019/03/16/tips-for-testing-django-views/
+  - https://concisecoder.io/2019/03/31/write-better-unit-tests/
+  - https://www.vinta.com.br/blog/2017/how-i-test-my-drf-serializers/
+  - https://realpython.com/pytest-python-testing/#pytest-randomly
+  - https://medium.com/@kelsey88/testing-viewsets-with-fixtures-using-djangos-test-suite-example-6b42b2eede4c
+  - https://dev.to/viktorvillalobos/testeando-drf-la-forma-correcta-40pf
+  - https://docs.pytest.org/en/latest/fixture.html#usefixtures
+  - https://pythonist.dev/articles/testing-django-drf-manera-correcta/
+
   
 - ### Caching & Benchmarking & Scaling
   - [Caching and benchmarking in Django With Redis](https://realpython.com/caching-in-django-with-redis/)
@@ -106,6 +121,7 @@
 - ### Logging
   - [Python logging Architecture](https://www.techatbloomberg.com/blog/guide-logging-python/)
   - [Django logging](https://www.youtube.com/watch?v=-vVml7cpWzY)
+  - [How to log exceptions to stderr in Django](https://www.obeythetestinggoat.com/how-to-log-exceptions-to-stderr-in-django.html)
   
 - ### Email
   - [MailHog Tutorial](https://blog.mailtrap.io/mailhog-explained/)
@@ -166,6 +182,7 @@
   - [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
   - [Building a Scalable and Language Agnostic Data Processing Pipeline](https://turbolent.com/data-processing-pipeline.html)
   - [Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810)
+  - [How to terminate running Python threads using signals](https://www.g-loaded.eu/2016/11/24/how-to-terminate-running-python-threads-using-signals/)
 
 ### Miscellaneous
   - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
