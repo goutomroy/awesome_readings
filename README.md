@@ -300,7 +300,7 @@
 - https://blog.howtocode.com.bd/
 
 # Git
-
+- [Best Git tutorial Series](https://www.youtube.com/channel/UCEoaojfEY_6L5TWWjIn9t9Q)
 - [Git tutorial series](https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 - [Git tutorial in one video](https://www.youtube.com/watch?v=gwWKnnCMQ5c)
 - [গিট পরিচিতি](https://www.youtube.com/watch?v=M2a7OQX8te4&list=PLoR56CteKZnC0lBlHdnVnq0J3yDhgbi9w)
