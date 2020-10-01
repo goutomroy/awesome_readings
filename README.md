@@ -262,6 +262,7 @@
 - ### Blogs
   - [realpython](https://realpython.com/)
   - [pymotw](https://pymotw.com/3/)
+  - [Nick Janetakis Blog](https://nickjanetakis.com/blog/)
 
 - ### Python/Django Documenting code
   - [RealPython - Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
