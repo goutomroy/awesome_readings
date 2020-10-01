@@ -40,7 +40,7 @@
 
 - ### Database
   
-  - #### RDBMS
+  - #### PostgreSQL
     - [Official Django Database access optimization](https://docs.djangoproject.com/en/3.0/topics/db/optimization/)
     - [Django queries optimization](https://www.youtube.com/watch?v=qDyxmgWkjvI)
     - [Django ORM Optimization Tips](https://concisecoder.io/2018/11/04/django-orm-optimization-tips/)
@@ -59,6 +59,12 @@
     - [Django null & blank](https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django?rq=1)
     - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
     - [Understanding Django transactions](https://www.agiliq.com/blog/2019/11/django-transactions/)
+    - Migrations
+      - [RealPython Django explained](https://realpython.com/django-migrations-a-primer/)
+      - [How to Create initial django migrations for existing DB schema.](https://micropyramid.com/blog/how-to-create-initial-django-migrations-for-existing-schema/)
+      - [Django Migrations: A Primer](https://medium.com/all-about-django/django-migrations-a-primer-35b0f7b87062)
+      - [Opinionated guide to Django Migrations](https://www.agiliq.com/blog/2019/05/django-migrations-best-practices/#squash-migrations-aggressively)
+      - [How to Reset Migrations](https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html)
 
   - #### RabbitMQ
     - [What is the relationship between connections and channels in RabbitMQ?](https://www.cloudamqp.com/blog/2019-11-13-the-relationship-between-connections-and-channels-in-rabbitmq.html)
