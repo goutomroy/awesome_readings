@@ -65,6 +65,10 @@
       - [Django Migrations: A Primer](https://medium.com/all-about-django/django-migrations-a-primer-35b0f7b87062)
       - [Opinionated guide to Django Migrations](https://www.agiliq.com/blog/2019/05/django-migrations-best-practices/#squash-migrations-aggressively)
       - [How to Reset Migrations](https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html)
+      - [How to Squash and Merge Django Migrations](https://coderbook.com/@marcus/how-to-squash-and-merge-django-migrations/)
+      - [Django Database Migrations: A Comprehensive Overview](https://dev.to/kite/django-database-migrations-a-comprehensive-overview-5dk8)
+      - [Handling circular dependency error when performing squashmigration](https://github.com/donkirkby/djsquash)
+      - [Official squashmigration docs](https://docs.djangoproject.com/en/3.1/topics/migrations/#squashing-migrations)
 
   - #### RabbitMQ
     - [What is the relationship between connections and channels in RabbitMQ?](https://www.cloudamqp.com/blog/2019-11-13-the-relationship-between-connections-and-channels-in-rabbitmq.html)
