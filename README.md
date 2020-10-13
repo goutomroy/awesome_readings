@@ -83,28 +83,31 @@
 
   
 - ### Testing
-  - [TDDD](https://test-driven-django-development.readthedocs.io/en/latest/index.html)
-  - [Django Testing](https://www.vinta.com.br/blog/category/tests/)
-  - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
-  - [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/#marks-categorizing-tests)
-  - [Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
-  - https://realpython.com/test-driven-development-of-a-django-restful-api/#django-app-and-rest-framework-setup
-  - https://medium.com/@kelsey88/testing-viewsets-with-fixtures-using-djangos-test-suite-example-6b42b2eede4c
-  - https://medium.com/@kelsey88/testing-viewsets-with-fixtures-using-djangos-test-suite-example-6b42b2eede4c
-  - https://aalvarez.me/posts/testing-django-and-drf-with-pytest/
-  - https://www.thetopsites.net/article/54579338.shtml
-  - https://www.obeythetestinggoat.com/a-pytest-pattern-using-parametrize-to-customise-nested-fixtures.html
-  - https://www.obeythetestinggoat.com/book/appendix_DjangoRestFramework.html
-  - https://concisecoder.io/2019/03/16/tips-for-testing-django-views/
-  - https://concisecoder.io/2019/03/31/write-better-unit-tests/
-  - https://www.vinta.com.br/blog/2017/how-i-test-my-drf-serializers/
-  - https://realpython.com/pytest-python-testing/#pytest-randomly
-  - https://medium.com/@kelsey88/testing-viewsets-with-fixtures-using-djangos-test-suite-example-6b42b2eede4c
-  - https://dev.to/viktorvillalobos/testeando-drf-la-forma-correcta-40pf
-  - https://docs.pytest.org/en/latest/fixture.html#usefixtures
-  - https://pythonist.dev/articles/testing-django-drf-manera-correcta/
+  - ### Books
+    - [Obey the testing goat](https://www.obeythetestinggoat.com/pages/book.html#toc)
 
-  
+  - #### Basic
+    - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
+    - [Workshop: Test-Driven Web Development with Django](https://test-driven-django-development.readthedocs.io/en/latest/index.html)
+    - [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/#marks-categorizing-tests)
+    - [Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
+
+    - [Vinta - Django/DRF Testing](https://www.vinta.com.br/blog/category/tests/)
+    - [A Pytest pattern: using "parametrize" to customise nested fixtures.](https://www.obeythetestinggoat.com/book/appendix_DjangoRestFramework.html)
+    - [Concisecoder - Tips for Testing Django Views](https://concisecoder.io/2019/03/16/tips-for-testing-django-views/)
+    - [Concisecoder - Write Better Unit Tests
+  ](https://concisecoder.io/2019/03/31/write-better-unit-tests/)
+    - [pytest fixtures: explicit, modular, scalable](https://docs.pytest.org/en/latest/fixture.html#usefixtures)
+
+
+  - #### DRF
+    - [Test Driven Development of a Django RESTful API](https://realpython.com/test-driven-development-of-a-django-restful-api/#django-app-and-rest-framework-setup)
+    - [Testing Django Rest Framework correctly](https://pythonist.dev/articles/testing-django-drf-manera-correcta/)
+    - [Testing Django Rest Framework, the right way](https://dev.to/viktorvillalobos/testeando-drf-la-forma-correcta-40pf)
+    - [Testing ViewSets with Fixtures using Django’s Test Suite](https://medium.com/@kelsey88/testing-viewsets-with-fixtures-using-djangos-test-suite-example-6b42b2eede4c)
+
+
+
 - ### Caching & Benchmarking & Scaling
   - [Caching and benchmarking in Django With Redis](https://realpython.com/caching-in-django-with-redis/)
   - [DjangoCon 2019 - Prepping Your Project for Production by Peter Baumgartner](https://www.youtube.com/watch?v=tssYpA6WiQM)
