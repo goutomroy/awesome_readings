@@ -88,8 +88,8 @@
 
   - #### Basic
     - [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/#marks-categorizing-tests)
-    - [Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
     - [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
+    - [Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
     - [Workshop: Test-Driven Web Development with Django](https://test-driven-django-development.readthedocs.io/en/latest/index.html)
     - [Vinta - Django/DRF Testing](https://www.vinta.com.br/blog/category/tests/)
     - [A Pytest pattern: using "parametrize" to customise nested fixtures.](https://www.obeythetestinggoat.com/book/appendix_DjangoRestFramework.html)
