@@ -7,6 +7,7 @@
   - [Awesome Open Source - all awesome lists](https://awesomeopensource.com/)
   - [awesome-programming.com](https://awesome-programming.com/)
   - [awesome-postgres#resources](https://github.com/dhamaniasad/awesome-postgres#resources)
+  - [Awesome Markdown](https://github.com/mundimark/awesome-markdown#markdown-styles--documents--pages)
   - https://www.programmer-books.com/
   - https://www.pdfdrive.com/
   - http://www.allitebooks.org/
@@ -60,6 +61,7 @@
     - [DjangoCon US 2018 - Normalize until it hurts; denormalize until it works](https://www.youtube.com/watch?v=01Hm2-NAM3w)
     - [Understanding Django transactions](https://www.agiliq.com/blog/2019/11/django-transactions/)
     - Migrations
+      - [How do I reset the database using docker?](https://docs.metasfresh.org/installation_collection/EN/How_do_I_reset_database_using_docker.html)
       - [RealPython Django explained](https://realpython.com/django-migrations-a-primer/)
       - [How to Create initial django migrations for existing DB schema.](https://micropyramid.com/blog/how-to-create-initial-django-migrations-for-existing-schema/)
       - [Django Migrations: A Primer](https://medium.com/all-about-django/django-migrations-a-primer-35b0f7b87062)
@@ -69,6 +71,7 @@
       - [Django Database Migrations: A Comprehensive Overview](https://dev.to/kite/django-database-migrations-a-comprehensive-overview-5dk8)
       - [Handling circular dependency error when performing squashmigration](https://github.com/donkirkby/djsquash)
       - [Official squashmigration docs](https://docs.djangoproject.com/en/3.1/topics/migrations/#squashing-migrations)
+      - [Cleanly removing a Django app (with models)](https://patrick.cloke.us/posts/2020/01/23/cleanly-removing-a-django-app-with-models/)
 
   - #### RabbitMQ
     - [What is the relationship between connections and channels in RabbitMQ?](https://www.cloudamqp.com/blog/2019-11-13-the-relationship-between-connections-and-channels-in-rabbitmq.html)
@@ -174,6 +177,8 @@
 
 
 - ### Celery
+  - [Celery throttling - setting rate limit for queues](https://alievmagomed.com/celery-throttling-setting-rate-limit-for-queues/)
+  - [Python Celery Best Practices](https://medium.com/better-programming/python-celery-best-practices-ae182730bb81)
   - [Celery Architecture](https://thuruthuru.com/post/celery-architecture/)
   - [Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
   - [List of celery tutorial](https://www.vinta.com.br/blog/category/celery/)
@@ -207,6 +212,7 @@
   - [How to terminate running Python threads using signals](https://www.g-loaded.eu/2016/11/24/how-to-terminate-running-python-threads-using-signals/)
 
 ### Miscellaneous
+  - [Classy Class-Based Views](http://ccbv.co.uk/)
   - [Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
   - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
   - [Top 3 Django Gotchas to Catch during Code Review](https://medium.com/@nnja/top-3-django-gotchas-to-catch-during-code-review-8eb1219708a)
@@ -439,8 +445,20 @@
 
 - ### Computer Networks
   - [Computer Networks  - Gate Smasher](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
+  - [Computer Networks  - Gate Smasher](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
+
+- ### SSL, Https, Digital Certificate
+  - [SSL সার্টিফিকেট কী?](https://bn.quora.com/SSL-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AB%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F-%E0%A6%95%E0%A7%80)
   - [SSL, Https, Digital Certificate](https://www.youtube.com/watch?v=qXLD2UHq2vk)
-  
+  - [PKI - trust & chain of trust -why, who and how?](https://www.youtube.com/watch?v=LPxeYtMDxl0)
+  - [How SSL certificate works?](https://www.youtube.com/watch?v=33VYnE7Bzpk)
+  - [What is digital signature?](https://www.youtube.com/watch?v=TmA2QWSLSPg&t=1s)
+  - [Why digital certificate?](https://www.youtube.com/watch?v=UbMlPIgzTxc&t=5s)
+  - [SSL and SSL Certificates Explained For Beginners](http://www.steves-internet-guide.com/ssl-certificates-explained/)
+  - [How to get HTTPS working on your local development environment in 5 minutes](https://www.freecodecamp.org/news/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec/)
+  - [How to Create SSL Certificates for Development](https://medium.com/better-programming/how-to-create-ssl-certificates-for-development-861237235933)
+  - [Tutorial](https://www.tutorialsteacher.com/https)
+
 - ### Caching
   - [Introduction to HTTP Caching - Why caching is like cooking dinner](https://www.youtube.com/watch?v=lfxkO6FvCR0)
 
@@ -451,6 +469,13 @@
   - [How a DNS Server (Domain Name System) works.](https://www.youtube.com/watch?v=mpQZVYPuDGU)
   - [DNS (Domain Name System) - Explained , Types of Domain Name Servers | How DNS works](https://www.youtube.com/watch?v=JkEYOt08-rU)
 
+- ### GIS
+  - [Latitude and longitude](https://www.youtube.com/watch?v=2PllX2YOAHo)
+  - [Latitude and longitude](https://www.britannica.com/science/latitude)
+  - [অক্ষাংশ, দ্রাঘিমা এবং পৃথিবীর বিভিন্ন স্থানে বিভিন্ন সময় নির্ণয়](https://www.youtube.com/watch?v=JsGHpO5uAhw)
+  - [ পৃথিবীর গতি এবং জোয়ার ভাটা](https://www.youtube.com/watch?v=enE0JXDul6Y)
+  - [GIS Course](https://www.bayesahmed.com/gis-3/)
+  - [GIS Course](http://shikkhok.com/2012/09/%E0%A6%B2%E0%A7%87%E0%A6%95%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A7%A7-%E0%A6%9C%E0%A6%BF%E0%A6%93%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%95-%E0%A6%87%E0%A6%A8%E0%A6%AB%E0%A6%B0/)
 
 - ### Miscellaneous 
   - [Understand the Flow of a HTTP Request](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
