@@ -299,6 +299,8 @@
   - [Database Management System Youtube Course](https://www.youtube.com/watch?v=eYQwKi7P8MM&list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn&index=59)
   - [Best - Database Management System Youtube Course](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
   - https://www.dbdesigner.net/
+  - [How is data stored in sql database](https://www.youtube.com/watch?v=OyBwIjnQLtI)
+  - [How do SQL Indexes Work](https://www.youtube.com/watch?v=YuRO9-rOgv4)
   
 
 # Youtube Channel
