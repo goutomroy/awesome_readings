@@ -30,7 +30,7 @@
   - [drf-cheat-sheet](https://github.com/Nifled/drf-cheat-sheet)
   - [drf-cheat-sheet](http://thayer.b2si.com/drf.html)
   - [DRF view - Cheat-Sheet](https://micropyramid.com/blog/generic-functional-based-and-class-based-views-in-django-rest-framework/)
-
+  - [Classic DRF](https://www.cdrf.co/)
 
 - ### Authentication, Authorization, User Management
   - [Multiple User Types | Django](https://www.youtube.com/watch?v=f0hdXr2MOEA&feature=youtu.be&fbclid=IwAR0SybikQzpP9jO-6AsXwTK8QkP_r1EebqSAlRYsKCdU5ouvw0gsje3Oyvw)
